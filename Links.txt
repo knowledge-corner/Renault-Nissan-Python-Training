@@ -4,3 +4,4 @@ Feedback Link - https://forms.office.com/pages/responsepage.aspx?id=GmJGZz80yUSM
 
 Training Videos - https://www.youtube.com/playlist?list=PL74ja_8REXcYafeTYO4ivQDzYEDYQkTQu
 
+Matplotlib colors = https://matplotlib.org/stable/gallery/color/named_colors.html

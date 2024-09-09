@@ -27,11 +27,37 @@ def update_chart(selected_year = None):
                    font=("Arial", 18), background="#6a9481", foreground="Black")
     profit_label.grid(row=2, column=1, sticky="nsew")
 
+    # Bar charts
+    fig1 = plt.figure(figsize = (4, 2))
+    sns.barplot(data=df_filtered, x= "Product", y = "Sales", hue= "Product",
+                estimator="sum", errorbar=None)
+    plt.title("Sales by Product")
+    plt.xticks(rotation = 20)    
+    canvas1 = FigureCanvasTkAgg(fig1, root)
+    canvas1.get_tk_widget().grid(row=3, column=0, columnspan=2, padx=10, pady=10, sticky="nwes")
+
+    fig2 = plt.figure(figsize = (4, 2))
+    sns.barplot(data=df_filtered, x= "Product", y = "Profit", hue= "Product",
+                estimator="sum", errorbar=None)
+    plt.title("Profit by Product")
+    plt.xticks(rotation = 20)    
+    canvas2 = FigureCanvasTkAgg(fig2, root)
+    canvas2.get_tk_widget().grid(row=4, column=0, columnspan=2, padx=10, pady=10, sticky="nwes")
+
+
+    # Line charts
+    fig3 = plt.figure(figsize = (4, 2))
+    sns.lineplot(data=df_filtered, x= "Date", y = "Sales", estimator="sum", errorbar=None)
+    plt.title("Sales over months")
+    canvas3 = FigureCanvasTkAgg(fig3, root)
+    canvas3.get_tk_widget().grid(row=3, column=2, columnspan=2, padx=10, pady=10, sticky="nwes")
+
+    fig4 = plt.figure(figsize = (4, 2))
+    sns.lineplot(data=df_filtered, x= "Date", y = "Profit", estimator="sum", errorbar=None)
+    plt.title("Profits over months")
+    canvas4 = FigureCanvasTkAgg(fig4, root)
+    canvas4.get_tk_widget().grid(row=4, column=2, columnspan=2, padx=10, pady=10, sticky="nwes")
     
-    
-
-
-
 # Initialise the app
 root = tk.Tk()
 root.title("Dashboard")
@@ -58,6 +84,17 @@ yr_dropdown["menu"].configure(font=("Arial", 18), background="#d0f7e5", foregrou
 yr_dropdown.grid(row=1, column=0, sticky="nswe", padx=15, pady=20)
 
 update_chart()
+
+# Define a function to close all plots and terminate the app properly
+def on_closing():
+    # Close all matplotlib figures
+    plt.close('all')
+    # Destroy the Tkinter window and terminate the app
+    root.destroy()
+
+# Bind the close window event (when clicking the "X" button) to the on_closing function
+root.protocol("WM_DELETE_WINDOW", on_closing)
+
 
 # Run the app
 root.mainloop()

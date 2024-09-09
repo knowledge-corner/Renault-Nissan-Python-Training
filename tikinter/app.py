@@ -1,0 +1,55 @@
+import tkinter as tk
+from tkinter import ttk, filedialog, messagebox
+import pandas as pd
+
+
+# Main Program --------------
+
+# Adding main window
+root = tk.Tk()
+root.title("Export data from excel")
+root.geometry("500x500")
+root.configure(background="#abe5eb")
+
+# Adding Components
+# Load Button
+def load_excel():
+    file_path = filedialog.askopenfilename(filetypes=[("Excel files", "*.xlsx")])
+    if file_path :
+        excel_file = pd.ExcelFile(file_path)
+        sheets = excel_file.sheet_names
+        messagebox.showinfo("Succees", f"sheet name - {sheets}")
+    else:
+        messagebox.showerror("Error", "Failed to read the file")
+
+load_button = tk.Button(root, text="Load Excel", command=load_excel,
+                        background="#0b6a73", foreground="#62d9a1", font=("Arial", 12), width=20, height=2)
+# load_button.pack(anchor="w", fill="both", pady=10, padx=10)  - just for reference
+load_button.pack(anchor="w", pady=10, padx=15)
+
+
+# Adding dropdown to select sheet
+def on_sheet_select(selected_value):
+    messagebox.showinfo("Succees", selected_value)
+
+sheet_var = tk.StringVar()
+sheet_var.set(" --- Select Plan --- ")
+sheet_dropdown = tk.OptionMenu(root, sheet_var, " --- Select Plan --- ", command=on_sheet_select)
+# element.configure is for applying formatting
+sheet_dropdown.configure(background="#0b6a73", foreground="#62d9a1", font=("Arial", 12), width=20, height=2)
+sheet_dropdown.pack(anchor="w", pady=10, padx=15)
+
+# Adding dropdown to select plan
+def on_plan_select(selected_value):
+    messagebox.showinfo("Succees", selected_value)
+    
+plan_var = tk.StringVar()
+plan_var.set(" --- Select Design --- ")
+plan_dropdown = tk.OptionMenu(root, plan_var, " --- Select Design --- ", command = on_plan_select)
+plan_dropdown.configure(background="#0b6a73", foreground="#62d9a1", font=("Arial", 12), width=20, height=2)
+plan_dropdown.pack(anchor="w", pady=10, padx=15)
+
+
+
+# Run application --------------
+root.mainloop()

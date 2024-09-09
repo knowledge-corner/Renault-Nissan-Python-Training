@@ -40,6 +40,7 @@ load_button.pack(anchor="w", pady=10, padx=15)
 # Adding dropdown to select sheet
 def on_sheet_select(selected_sheet):
     plan_var.set(" --- Select Design --- ")
+    global df
     df = pd.read_excel(excel_file, sheet_name = selected_sheet)
     df.set_index(df.columns[0], inplace=True)
     cols = list(df.columns)
@@ -62,8 +63,36 @@ sheet_dropdown.configure(background="#0b6a73", foreground="#62d9a1", font=("Aria
 sheet_dropdown.pack(anchor="w", pady=10, padx=15)
 
 # Adding dropdown to select plan
-def on_plan_select(selected_value):
-    messagebox.showinfo("Succees", selected_value)
+def on_plan_select(selected_col):
+    values = list(df[df[selected_col] == 1].index)
+    
+    # Displays the test values
+    text_box = ttk.Treeview(root, columns=("Tests"), show="headings", height = 8)
+    text_box.heading("Tests", text="Test")
+    text_box.column("Tests", width=250)
+    for row in values:
+        text_box.insert("", "end", values=row)
+    text_box.pack(anchor="w", pady=10, padx=15)
+# Defining inner function to download the values in excel
+    def download_excel():
+        if values :
+            save_path = filedialog.asksaveasfilename(defaultextension=".xlsx", 
+                                                     filetypes=[("Excel files", "*.xlsx")])
+            if save_path :
+                pd.DataFrame({"Tests" : values}).to_excel(save_path, index=False)
+                messagebox.showinfo("Success", "Data saved successfully")
+
+            else:
+                messagebox.showerror("Error", "Unable to find path")
+        else:
+            messagebox.showerror("Error", "Values and not available")
+
+    # Adding button to download --------
+    download_button = tk.Button(root, text="Download Tests", command=download_excel,
+                        background="#0b6a73", foreground="#62d9a1", font=("Arial", 12), width=20, height=2)
+    download_button.pack(anchor="w", pady=10, padx=15)
+
+
     
 plan_var = tk.StringVar()
 plan_var.set(" --- Select Design --- ")
@@ -75,3 +104,8 @@ plan_dropdown.pack(anchor="w", pady=10, padx=15)
 
 # Run application --------------
 root.mainloop()
+
+
+# To convert the app into exe file 
+# 1. install library pip install --upgrade pyinstaller from terminal (one time process)
+# 2. pyinstaller --onefile --windowed .\app.py    - this will create exe

@@ -16,9 +16,16 @@ root.configure(background="#abe5eb")
 def load_excel():
     file_path = filedialog.askopenfilename(filetypes=[("Excel files", "*.xlsx")])
     if file_path :
+        sheet_var.set(" --- Select Plan --- ")
         excel_file = pd.ExcelFile(file_path)
         sheets = excel_file.sheet_names
-        messagebox.showinfo("Succees", f"sheet name - {sheets}")
+
+        # POPULATE THE SHEET NAMES IN THE DROPDOWN
+        menu = sheet_dropdown["menu"]
+        menu.delete(0, "end")
+        menu.add_command(label = " --- Select Plan --- ")
+        for s in sheets :
+            menu.add_command(label = s, command = tk._setit(sheet_var, s, on_sheet_select))        
     else:
         messagebox.showerror("Error", "Failed to read the file")
 

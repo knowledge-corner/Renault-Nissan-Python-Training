@@ -17,6 +17,8 @@ def load_excel():
     file_path = filedialog.askopenfilename(filetypes=[("Excel files", "*.xlsx")])
     if file_path :
         sheet_var.set(" --- Select Plan --- ")
+        plan_var.set(" --- Select Design --- ")
+        global excel_file
         excel_file = pd.ExcelFile(file_path)
         sheets = excel_file.sheet_names
 
@@ -36,8 +38,21 @@ load_button.pack(anchor="w", pady=10, padx=15)
 
 
 # Adding dropdown to select sheet
-def on_sheet_select(selected_value):
-    messagebox.showinfo("Succees", selected_value)
+def on_sheet_select(selected_sheet):
+    plan_var.set(" --- Select Design --- ")
+    df = pd.read_excel(excel_file, sheet_name = selected_sheet)
+    df.set_index(df.columns[0], inplace=True)
+    cols = list(df.columns)
+    if cols :
+    # POPULATE THE COLUMN NAMES IN THE DROPDOWN
+        menu = plan_dropdown["menu"]
+        menu.delete(0, "end")
+        menu.add_command(label = " --- Select Design --- ")
+        for c in cols :
+            menu.add_command(label = c, command = tk._setit(plan_var, c, on_plan_select))        
+    else:
+        messagebox.showerror("Error", "Failed to read the columns")
+    
 
 sheet_var = tk.StringVar()
 sheet_var.set(" --- Select Plan --- ")

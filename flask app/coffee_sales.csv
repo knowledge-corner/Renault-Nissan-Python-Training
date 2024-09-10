@@ -1,0 +1,4249 @@
+Date,Franchise,City,Product,Sales,Profit
+01-Jan-21,M1,Mumbai,Amaretto,219,94
+01-Feb-21,M1,Mumbai,Amaretto,140,34
+01-Mar-21,M1,Mumbai,Amaretto,145,-2
+01-Apr-21,M1,Mumbai,Amaretto,45,11
+01-May-21,M1,Mumbai,Amaretto,120,13
+01-Jun-21,M1,Mumbai,Amaretto,93,20
+01-Jul-21,M1,Mumbai,Amaretto,150,1
+01-Aug-21,M1,Mumbai,Amaretto,170,47
+01-Sep-21,M1,Mumbai,Amaretto,243,105
+01-Oct-21,M1,Mumbai,Amaretto,140,33
+01-Nov-21,M1,Mumbai,Amaretto,132,-27
+01-Dec-21,M1,Mumbai,Amaretto,45,10
+01-Jan-22,M1,Mumbai,Amaretto,118,12
+01-Feb-22,M1,Mumbai,Amaretto,101,25
+01-Mar-22,M1,Mumbai,Amaretto,129,-4
+01-Apr-22,M1,Mumbai,Amaretto,165,46
+01-May-22,M1,Mumbai,Amaretto,213,90
+01-Jun-22,M1,Mumbai,Amaretto,134,32
+01-Jul-22,M1,Mumbai,Amaretto,125,-41
+01-Aug-22,M1,Mumbai,Amaretto,45,10
+01-Sep-22,M1,Mumbai,Amaretto,120,13
+01-Oct-22,M1,Mumbai,Amaretto,107,29
+01-Nov-22,M1,Mumbai,Amaretto,125,-3
+01-Dec-22,M1,Mumbai,Amaretto,163,45
+01-Jan-23,M1,Mumbai,Amaretto,223,96
+01-Feb-23,M1,Mumbai,Amaretto,129,28
+01-Mar-23,M1,Mumbai,Amaretto,110,-76
+01-Apr-23,M1,Mumbai,Amaretto,47,11
+01-May-23,M1,Mumbai,Amaretto,127,16
+01-Jun-23,M1,Mumbai,Amaretto,121,33
+01-Jul-23,M1,Mumbai,Amaretto,125,-3
+01-Aug-23,M1,Mumbai,Amaretto,167,47
+01-Sep-23,M1,Mumbai,Amaretto,256,111
+01-Oct-23,M1,Mumbai,Amaretto,123,27
+01-Nov-23,M1,Mumbai,Amaretto,106,-84
+01-Dec-23,M1,Mumbai,Amaretto,49,12
+01-Jan-24,M1,Mumbai,Amaretto,130,17
+01-Feb-24,M1,Mumbai,Amaretto,125,35
+01-Mar-24,M1,Mumbai,Amaretto,128,-2
+01-Apr-24,M1,Mumbai,Amaretto,148,38
+01-May-24,M1,Mumbai,Amaretto,276,121
+01-Jun-24,M1,Mumbai,Amaretto,118,24
+01-Jul-24,M1,Mumbai,Amaretto,96,-113
+01-Aug-24,M1,Mumbai,Amaretto,58,18
+01-Sep-24,M1,Mumbai,Amaretto,133,19
+01-Oct-24,M1,Mumbai,Amaretto,138,41
+01-Nov-24,M1,Mumbai,Amaretto,107,-6
+01-Dec-24,M1,Mumbai,Amaretto,142,36
+01-Jan-25,M1,Mumbai,Amaretto,256,111
+01-Feb-25,M1,Mumbai,Amaretto,110,20
+01-Mar-25,M1,Mumbai,Amaretto,87,-138
+01-Apr-25,M1,Mumbai,Amaretto,61,17
+01-May-25,M1,Mumbai,Amaretto,133,18
+01-Jun-25,M1,Mumbai,Amaretto,151,49
+01-Jul-25,M1,Mumbai,Amaretto,95,-10
+01-Aug-25,M1,Mumbai,Amaretto,132,32
+01-Sep-25,M1,Mumbai,Amaretto,301,133
+01-Oct-25,M1,Mumbai,Amaretto,108,19
+01-Nov-25,M1,Mumbai,Amaretto,87,-139
+01-Dec-25,M1,Mumbai,Amaretto,63,19
+01-Jan-26,M1,Mumbai,Amaretto,140,21
+01-Feb-26,M1,Mumbai,Amaretto,151,48
+01-Mar-26,M1,Mumbai,Amaretto,89,-11
+01-Apr-26,M1,Mumbai,Amaretto,110,24
+01-May-26,M1,Mumbai,Amaretto,302,134
+01-Jun-26,M1,Mumbai,Amaretto,125,28
+01-Jul-26,M1,Mumbai,Amaretto,109,-74
+01-Aug-26,M1,Mumbai,Amaretto,48,13
+01-Sep-26,M1,Mumbai,Amaretto,149,23
+01-Oct-26,M1,Mumbai,Amaretto,120,33
+01-Nov-26,M1,Mumbai,Amaretto,126,-3
+01-Dec-26,M1,Mumbai,Amaretto,136,33
+01-Jan-21,M2,Mumbai,Amaretto,302,133
+01-Feb-21,M2,Mumbai,Amaretto,123,26
+01-Mar-21,M2,Mumbai,Amaretto,109,-74
+01-Apr-21,M2,Mumbai,Amaretto,52,15
+01-May-21,M2,Mumbai,Amaretto,126,15
+01-Jun-21,M2,Mumbai,Amaretto,120,33
+01-Jul-21,M2,Mumbai,Amaretto,122,-5
+01-Aug-21,M2,Mumbai,Amaretto,142,36
+01-Sep-21,M2,Mumbai,Amaretto,290,128
+01-Oct-21,M2,Mumbai,Amaretto,138,33
+01-Nov-21,M2,Mumbai,Amaretto,116,-56
+01-Dec-21,M2,Mumbai,Amaretto,39,8
+01-Jan-22,M2,Mumbai,Amaretto,121,14
+01-Feb-22,M2,Mumbai,Amaretto,113,30
+01-Mar-22,M2,Mumbai,Amaretto,125,-4
+01-Apr-22,M2,Mumbai,Amaretto,150,39
+01-May-22,M2,Mumbai,Amaretto,302,134
+01-Jun-22,M2,Mumbai,Amaretto,127,29
+01-Jul-22,M2,Mumbai,Amaretto,102,-88
+01-Aug-22,M2,Mumbai,Amaretto,41,10
+01-Sep-22,M2,Mumbai,Amaretto,145,22
+01-Oct-22,M2,Mumbai,Amaretto,127,37
+01-Nov-22,M2,Mumbai,Amaretto,112,-7
+01-Dec-22,M2,Mumbai,Amaretto,139,36
+01-Jan-23,M2,Mumbai,Amaretto,245,146
+01-Feb-23,M2,Mumbai,Amaretto,157,53
+01-Mar-23,M2,Mumbai,Amaretto,162,-3
+01-Apr-23,M2,Mumbai,Amaretto,50,17
+01-May-23,M2,Mumbai,Amaretto,134,20
+01-Jun-23,M2,Mumbai,Amaretto,104,31
+01-Jul-23,M2,Mumbai,Amaretto,168,2
+01-Aug-23,M2,Mumbai,Amaretto,190,73
+01-Sep-23,M2,Mumbai,Amaretto,259,156
+01-Oct-23,M2,Mumbai,Amaretto,149,49
+01-Nov-23,M2,Mumbai,Amaretto,141,-40
+01-Dec-23,M2,Mumbai,Amaretto,48,15
+01-Jan-24,M2,Mumbai,Amaretto,126,18
+01-Feb-24,M2,Mumbai,Amaretto,108,37
+01-Mar-24,M2,Mumbai,Amaretto,137,-6
+01-Apr-24,M2,Mumbai,Amaretto,176,68
+01-May-24,M2,Mumbai,Amaretto,227,134
+01-Jun-24,M2,Mumbai,Amaretto,143,47
+01-Jul-24,M2,Mumbai,Amaretto,133,-61
+01-Aug-24,M2,Mumbai,Amaretto,48,15
+01-Sep-24,M2,Mumbai,Amaretto,128,19
+01-Oct-24,M2,Mumbai,Amaretto,114,43
+01-Nov-24,M2,Mumbai,Amaretto,133,-4
+01-Dec-24,M2,Mumbai,Amaretto,174,67
+01-Jan-25,M2,Mumbai,Amaretto,238,142
+01-Feb-25,M2,Mumbai,Amaretto,137,42
+01-Mar-25,M2,Mumbai,Amaretto,117,-113
+01-Apr-25,M2,Mumbai,Amaretto,50,16
+01-May-25,M2,Mumbai,Amaretto,135,24
+01-Jun-25,M2,Mumbai,Amaretto,129,49
+01-Jul-25,M2,Mumbai,Amaretto,133,-4
+01-Aug-25,M2,Mumbai,Amaretto,178,70
+01-Sep-25,M2,Mumbai,Amaretto,254,153
+01-Oct-25,M2,Mumbai,Amaretto,122,37
+01-Nov-25,M2,Mumbai,Amaretto,105,-116
+01-Dec-25,M2,Mumbai,Amaretto,49,17
+01-Jan-26,M2,Mumbai,Amaretto,129,23
+01-Feb-26,M2,Mumbai,Amaretto,124,48
+01-Mar-26,M2,Mumbai,Amaretto,127,-3
+01-Apr-26,M2,Mumbai,Amaretto,147,52
+01-May-26,M2,Mumbai,Amaretto,274,167
+01-Jun-26,M2,Mumbai,Amaretto,117,33
+01-Jul-26,M2,Mumbai,Amaretto,95,-156
+01-Aug-26,M2,Mumbai,Amaretto,57,25
+01-Sep-26,M2,Mumbai,Amaretto,132,26
+01-Oct-26,M2,Mumbai,Amaretto,137,57
+01-Nov-26,M2,Mumbai,Amaretto,106,-8
+01-Dec-26,M2,Mumbai,Amaretto,141,50
+01-Jan-21,M3,Mumbai,Amaretto,254,153
+01-Feb-21,M3,Mumbai,Amaretto,109,28
+01-Mar-21,M3,Mumbai,Amaretto,86,-190
+01-Apr-21,M3,Mumbai,Amaretto,60,23
+01-May-21,M3,Mumbai,Amaretto,132,25
+01-Jun-21,M3,Mumbai,Amaretto,150,68
+01-Jul-21,M3,Mumbai,Amaretto,94,-14
+01-Aug-21,M3,Mumbai,Amaretto,131,44
+01-Sep-21,M3,Mumbai,Amaretto,298,184
+01-Oct-21,M3,Mumbai,Amaretto,107,26
+01-Nov-21,M3,Mumbai,Amaretto,86,-192
+01-Dec-21,M3,Mumbai,Amaretto,62,26
+01-Jan-22,M3,Mumbai,Amaretto,139,29
+01-Feb-22,M3,Mumbai,Amaretto,150,66
+01-Mar-22,M3,Mumbai,Amaretto,88,-15
+01-Apr-22,M3,Mumbai,Amaretto,109,33
+01-May-22,M3,Mumbai,Amaretto,322,199
+01-Jun-22,M3,Mumbai,Amaretto,133,42
+01-Jul-22,M3,Mumbai,Amaretto,116,-110
+01-Aug-22,M3,Mumbai,Amaretto,51,19
+01-Sep-22,M3,Mumbai,Amaretto,159,34
+01-Oct-22,M3,Mumbai,Amaretto,128,49
+01-Nov-22,M3,Mumbai,Amaretto,134,-4
+01-Dec-22,M3,Mumbai,Amaretto,145,49
+01-Jan-23,M3,Mumbai,Amaretto,322,197
+01-Feb-23,M3,Mumbai,Amaretto,131,39
+01-Mar-23,M3,Mumbai,Amaretto,116,-110
+01-Apr-23,M3,Mumbai,Amaretto,55,22
+01-May-23,M3,Mumbai,Amaretto,134,22
+01-Jun-23,M3,Mumbai,Amaretto,128,49
+01-Jul-23,M3,Mumbai,Amaretto,130,-7
+01-Aug-23,M3,Mumbai,Amaretto,151,53
+01-Sep-23,M3,Mumbai,Amaretto,309,190
+01-Oct-23,M3,Mumbai,Amaretto,147,49
+01-Nov-23,M3,Mumbai,Amaretto,124,-83
+01-Dec-23,M3,Mumbai,Amaretto,42,12
+01-Jan-24,M3,Mumbai,Amaretto,129,21
+01-Feb-24,M3,Mumbai,Amaretto,120,45
+01-Mar-24,M3,Mumbai,Amaretto,133,-6
+01-Apr-24,M3,Mumbai,Amaretto,160,58
+01-May-24,M3,Mumbai,Amaretto,322,199
+01-Jun-24,M3,Mumbai,Amaretto,135,43
+01-Jul-24,M3,Mumbai,Amaretto,109,-131
+01-Aug-24,M3,Mumbai,Amaretto,44,15
+01-Sep-24,M3,Mumbai,Amaretto,155,33
+01-Oct-24,M3,Mumbai,Amaretto,135,55
+01-Nov-24,M3,Mumbai,Amaretto,119,-10
+01-Dec-24,M3,Mumbai,Amaretto,148,53
+01-Jan-25,M3,Mumbai,Amaretto,116,-10
+01-Feb-25,M3,Mumbai,Amaretto,169,86
+01-Mar-25,M3,Mumbai,Amaretto,116,-9
+01-Apr-25,M3,Mumbai,Amaretto,56,22
+01-May-25,M3,Mumbai,Amaretto,55,21
+01-Jun-25,M3,Mumbai,Amaretto,131,40
+01-Jul-25,M3,Mumbai,Amaretto,251,129
+01-Aug-25,M3,Mumbai,Amaretto,134,24
+01-Sep-25,M3,Mumbai,Amaretto,131,71
+01-Oct-25,M3,Mumbai,Amaretto,567,291
+01-Nov-25,M3,Mumbai,Amaretto,387,159
+01-Dec-25,M3,Mumbai,Amaretto,239,22
+01-Jan-26,M3,Mumbai,Amaretto,128,-12
+01-Feb-26,M3,Mumbai,Amaretto,65,-300
+01-Mar-26,M3,Mumbai,Amaretto,309,188
+01-Apr-26,M3,Mumbai,Amaretto,308,39
+01-May-26,M3,Mumbai,Amaretto,60,24
+01-Jun-26,M3,Mumbai,Amaretto,141,76
+01-Jul-26,M3,Mumbai,Amaretto,175,67
+01-Aug-26,M3,Mumbai,Amaretto,157,3
+01-Sep-26,M3,Mumbai,Amaretto,113,-12
+01-Oct-26,M3,Mumbai,Amaretto,150,73
+01-Nov-26,M3,Mumbai,Amaretto,113,-10
+01-Dec-26,M3,Mumbai,Amaretto,85,43
+01-Jan-21,M1,Mumbai,Caffe Latte,180,53
+01-Feb-21,M1,Mumbai,Caffe Latte,456,140
+01-Mar-21,M1,Mumbai,Caffe Latte,180,8
+01-Apr-21,M1,Mumbai,Caffe Latte,65,-8
+01-May-21,M1,Mumbai,Caffe Latte,200,66
+01-Jun-21,M1,Mumbai,Caffe Latte,43,11
+01-Jul-21,M1,Mumbai,Caffe Latte,130,16
+01-Aug-21,M1,Mumbai,Caffe Latte,114,44
+01-Sep-21,M1,Mumbai,Caffe Latte,110,35
+01-Oct-21,M1,Mumbai,Caffe Latte,189,58
+01-Nov-21,M1,Mumbai,Caffe Latte,457,142
+01-Dec-21,M1,Mumbai,Caffe Latte,155,2
+01-Jan-22,M1,Mumbai,Caffe Latte,68,-7
+01-Feb-22,M1,Mumbai,Caffe Latte,206,70
+01-Mar-22,M1,Mumbai,Caffe Latte,43,31
+01-Apr-22,M1,Mumbai,Caffe Latte,132,18
+01-May-22,M1,Mumbai,Caffe Latte,103,38
+01-Jun-22,M1,Mumbai,Caffe Latte,110,35
+01-Jul-22,M1,Mumbai,Caffe Latte,180,54
+01-Aug-22,M1,Mumbai,Caffe Latte,478,149
+01-Sep-22,M1,Mumbai,Caffe Latte,150,1
+01-Oct-22,M1,Mumbai,Caffe Latte,75,-3
+01-Nov-22,M1,Mumbai,Caffe Latte,214,74
+01-Dec-22,M1,Mumbai,Caffe Latte,43,31
+01-Jan-23,M1,Mumbai,Caffe Latte,129,15
+01-Feb-23,M1,Mumbai,Caffe Latte,118,45
+01-Mar-23,M1,Mumbai,Caffe Latte,112,35
+01-Apr-23,M1,Mumbai,Caffe Latte,170,48
+01-May-23,M1,Mumbai,Caffe Latte,478,148
+01-Jun-23,M1,Mumbai,Caffe Latte,150,1
+01-Jul-23,M1,Mumbai,Caffe Latte,65,-9
+01-Aug-23,M1,Mumbai,Caffe Latte,267,98
+01-Sep-23,M1,Mumbai,Caffe Latte,43,32
+01-Oct-23,M1,Mumbai,Caffe Latte,121,13
+01-Nov-23,M1,Mumbai,Caffe Latte,112,43
+01-Dec-23,M1,Mumbai,Caffe Latte,103,32
+01-Jan-24,M1,Mumbai,Caffe Latte,160,44
+01-Feb-24,M1,Mumbai,Caffe Latte,521,165
+01-Mar-24,M1,Mumbai,Caffe Latte,154,3
+01-Apr-24,M1,Mumbai,Caffe Latte,76,-4
+01-May-24,M1,Mumbai,Caffe Latte,273,101
+01-Jun-24,M1,Mumbai,Caffe Latte,43,31
+01-Jul-24,M1,Mumbai,Caffe Latte,118,11
+01-Aug-24,M1,Mumbai,Caffe Latte,97,36
+01-Sep-24,M1,Mumbai,Caffe Latte,110,34
+01-Oct-24,M1,Mumbai,Caffe Latte,135,33
+01-Nov-24,M1,Mumbai,Caffe Latte,521,165
+01-Dec-24,M1,Mumbai,Caffe Latte,128,-3
+01-Jan-25,M1,Mumbai,Caffe Latte,78,-3
+01-Feb-25,M1,Mumbai,Caffe Latte,282,105
+01-Mar-25,M1,Mumbai,Caffe Latte,43,31
+01-Apr-25,M1,Mumbai,Caffe Latte,115,11
+01-May-25,M1,Mumbai,Caffe Latte,89,31
+01-Jun-25,M1,Mumbai,Caffe Latte,110,34
+01-Jul-25,M1,Mumbai,Caffe Latte,131,30
+01-Aug-25,M1,Mumbai,Caffe Latte,532,167
+01-Sep-25,M1,Mumbai,Caffe Latte,113,-6
+01-Oct-25,M1,Mumbai,Caffe Latte,89,1
+01-Nov-25,M1,Mumbai,Caffe Latte,336,128
+01-Dec-25,M1,Mumbai,Caffe Latte,43,32
+01-Jan-26,M1,Mumbai,Caffe Latte,115,12
+01-Feb-26,M1,Mumbai,Caffe Latte,96,36
+01-Mar-26,M1,Mumbai,Caffe Latte,115,36
+01-Apr-26,M1,Mumbai,Caffe Latte,131,30
+01-May-26,M1,Mumbai,Caffe Latte,532,167
+01-Jun-26,M1,Mumbai,Caffe Latte,105,-7
+01-Jul-26,M1,Mumbai,Caffe Latte,65,-8
+01-Aug-26,M1,Mumbai,Caffe Latte,277,102
+01-Sep-26,M1,Mumbai,Caffe Latte,43,32
+01-Oct-26,M1,Mumbai,Caffe Latte,109,9
+01-Nov-26,M1,Mumbai,Caffe Latte,80,28
+01-Dec-26,M1,Mumbai,Caffe Latte,69,17
+01-Jan-21,M2,Mumbai,Caffe Latte,150,39
+01-Feb-21,M2,Mumbai,Caffe Latte,498,156
+01-Mar-21,M2,Mumbai,Caffe Latte,149,2
+01-Apr-21,M2,Mumbai,Caffe Latte,54,-12
+01-May-21,M2,Mumbai,Caffe Latte,230,82
+01-Jun-21,M2,Mumbai,Caffe Latte,43,32
+01-Jul-21,M2,Mumbai,Caffe Latte,102,6
+01-Aug-21,M2,Mumbai,Caffe Latte,79,27
+01-Sep-21,M2,Mumbai,Caffe Latte,76,21
+01-Oct-21,M2,Mumbai,Caffe Latte,182,55
+01-Nov-21,M2,Mumbai,Caffe Latte,478,149
+01-Dec-21,M2,Mumbai,Caffe Latte,144,1
+01-Jan-22,M2,Mumbai,Caffe Latte,56,-12
+01-Feb-22,M2,Mumbai,Caffe Latte,218,76
+01-Mar-22,M2,Mumbai,Caffe Latte,43,32
+01-Apr-22,M2,Mumbai,Caffe Latte,120,12
+01-May-22,M2,Mumbai,Caffe Latte,79,28
+01-Jun-22,M2,Mumbai,Caffe Latte,51,10
+01-Jul-22,M2,Mumbai,Caffe Latte,189,59
+01-Aug-22,M2,Mumbai,Caffe Latte,423,129
+01-Sep-22,M2,Mumbai,Caffe Latte,147,1
+01-Oct-22,M2,Mumbai,Caffe Latte,76,-4
+01-Nov-22,M2,Mumbai,Caffe Latte,245,89
+01-Dec-22,M2,Mumbai,Caffe Latte,43,31
+01-Jan-23,M2,Mumbai,Caffe Latte,124,16
+01-Feb-23,M2,Mumbai,Caffe Latte,81,27
+01-Mar-23,M2,Mumbai,Caffe Latte,52,11
+01-Apr-23,M2,Mumbai,Caffe Latte,168,47
+01-May-23,M2,Mumbai,Caffe Latte,501,157
+01-Jun-23,M2,Mumbai,Caffe Latte,131,-3
+01-Jul-23,M2,Mumbai,Caffe Latte,45,-15
+01-Aug-23,M2,Mumbai,Caffe Latte,320,121
+01-Sep-23,M2,Mumbai,Caffe Latte,43,31
+01-Oct-23,M2,Mumbai,Caffe Latte,103,6
+01-Nov-23,M2,Mumbai,Caffe Latte,77,26
+01-Dec-23,M2,Mumbai,Caffe Latte,56,13
+01-Jan-24,M2,Mumbai,Caffe Latte,201,83
+01-Feb-24,M2,Mumbai,Caffe Latte,510,218
+01-Mar-24,M2,Mumbai,Caffe Latte,201,12
+01-Apr-24,M2,Mumbai,Caffe Latte,73,-12
+01-May-24,M2,Mumbai,Caffe Latte,224,103
+01-Jun-24,M2,Mumbai,Caffe Latte,48,17
+01-Jul-24,M2,Mumbai,Caffe Latte,145,25
+01-Aug-24,M2,Mumbai,Caffe Latte,128,69
+01-Sep-24,M2,Mumbai,Caffe Latte,123,55
+01-Oct-24,M2,Mumbai,Caffe Latte,201,86
+01-Nov-24,M2,Mumbai,Caffe Latte,487,211
+01-Dec-24,M2,Mumbai,Caffe Latte,165,3
+01-Jan-25,M2,Mumbai,Caffe Latte,72,-10
+01-Feb-25,M2,Mumbai,Caffe Latte,220,104
+01-Mar-25,M2,Mumbai,Caffe Latte,46,46
+01-Apr-25,M2,Mumbai,Caffe Latte,141,27
+01-May-25,M2,Mumbai,Caffe Latte,110,56
+01-Jun-25,M2,Mumbai,Caffe Latte,117,52
+01-Jul-25,M2,Mumbai,Caffe Latte,192,80
+01-Aug-25,M2,Mumbai,Caffe Latte,509,221
+01-Sep-25,M2,Mumbai,Caffe Latte,160,1
+01-Oct-25,M2,Mumbai,Caffe Latte,80,-4
+01-Nov-25,M2,Mumbai,Caffe Latte,228,110
+01-Dec-25,M2,Mumbai,Caffe Latte,46,46
+01-Jan-26,M2,Mumbai,Caffe Latte,137,22
+01-Feb-26,M2,Mumbai,Caffe Latte,126,67
+01-Mar-26,M2,Mumbai,Caffe Latte,119,52
+01-Apr-26,M2,Mumbai,Caffe Latte,181,71
+01-May-26,M2,Mumbai,Caffe Latte,509,220
+01-Jun-26,M2,Mumbai,Caffe Latte,160,1
+01-Jul-26,M2,Mumbai,Caffe Latte,69,-13
+01-Aug-26,M2,Mumbai,Caffe Latte,285,145
+01-Sep-26,M2,Mumbai,Caffe Latte,46,47
+01-Oct-26,M2,Mumbai,Caffe Latte,129,19
+01-Nov-26,M2,Mumbai,Caffe Latte,119,64
+01-Dec-26,M2,Mumbai,Caffe Latte,110,47
+01-Jan-21,B1,Banglore,Caffe Latte,159,61
+01-Feb-21,B1,Banglore,Caffe Latte,516,228
+01-Mar-21,B1,Banglore,Caffe Latte,153,4
+01-Apr-21,B1,Banglore,Caffe Latte,75,-6
+01-May-21,B1,Banglore,Caffe Latte,271,139
+01-Jun-21,B1,Banglore,Caffe Latte,43,43
+01-Jul-21,B1,Banglore,Caffe Latte,117,15
+01-Aug-21,B1,Banglore,Caffe Latte,96,50
+01-Sep-21,B1,Banglore,Caffe Latte,109,47
+01-Oct-21,B1,Banglore,Caffe Latte,134,46
+01-Nov-21,B1,Banglore,Caffe Latte,516,228
+01-Dec-21,B1,Banglore,Caffe Latte,127,-4
+01-Jan-22,B1,Banglore,Caffe Latte,77,-4
+01-Feb-22,B1,Banglore,Caffe Latte,279,145
+01-Mar-22,B1,Banglore,Caffe Latte,43,43
+01-Apr-22,B1,Banglore,Caffe Latte,114,15
+01-May-22,B1,Banglore,Caffe Latte,88,43
+01-Jun-22,B1,Banglore,Caffe Latte,109,47
+01-Jul-22,B1,Banglore,Caffe Latte,130,41
+01-Aug-22,B1,Banglore,Caffe Latte,527,230
+01-Sep-22,B1,Banglore,Caffe Latte,112,-8
+01-Oct-22,B1,Banglore,Caffe Latte,88,1
+01-Nov-22,B1,Banglore,Caffe Latte,333,177
+01-Dec-22,B1,Banglore,Caffe Latte,43,44
+01-Jan-23,B1,Banglore,Caffe Latte,114,17
+01-Feb-23,B1,Banglore,Caffe Latte,95,50
+01-Mar-23,B1,Banglore,Caffe Latte,114,50
+01-Apr-23,B1,Banglore,Caffe Latte,130,41
+01-May-23,B1,Banglore,Caffe Latte,527,230
+01-Jun-23,B1,Banglore,Caffe Latte,104,-10
+01-Jul-23,B1,Banglore,Caffe Latte,64,-11
+01-Aug-23,B1,Banglore,Caffe Latte,275,141
+01-Sep-23,B1,Banglore,Caffe Latte,43,44
+01-Oct-23,B1,Banglore,Caffe Latte,108,12
+01-Nov-23,B1,Banglore,Caffe Latte,79,39
+01-Dec-23,B1,Banglore,Caffe Latte,68,23
+01-Jan-24,B1,Banglore,Caffe Latte,160,58
+01-Feb-24,B1,Banglore,Caffe Latte,531,232
+01-Mar-24,B1,Banglore,Caffe Latte,159,3
+01-Apr-24,B1,Banglore,Caffe Latte,58,-18
+01-May-24,B1,Banglore,Caffe Latte,245,122
+01-Jun-24,B1,Banglore,Caffe Latte,46,47
+01-Jul-24,B1,Banglore,Caffe Latte,109,9
+01-Aug-24,B1,Banglore,Caffe Latte,84,40
+01-Sep-24,B1,Banglore,Caffe Latte,81,31
+01-Oct-24,B1,Banglore,Caffe Latte,194,82
+01-Nov-24,B1,Banglore,Caffe Latte,509,221
+01-Dec-24,B1,Banglore,Caffe Latte,153,1
+01-Jan-25,B1,Banglore,Caffe Latte,60,-18
+01-Feb-25,B1,Banglore,Caffe Latte,232,113
+01-Mar-25,B1,Banglore,Caffe Latte,46,47
+01-Apr-25,B1,Banglore,Caffe Latte,128,18
+01-May-25,B1,Banglore,Caffe Latte,84,42
+01-Jun-25,B1,Banglore,Caffe Latte,54,15
+01-Jul-25,B1,Banglore,Caffe Latte,201,88
+01-Aug-25,B1,Banglore,Caffe Latte,451,191
+01-Sep-25,B1,Banglore,Caffe Latte,157,1
+01-Oct-25,B1,Banglore,Caffe Latte,81,-6
+01-Nov-25,B1,Banglore,Caffe Latte,261,132
+01-Dec-25,B1,Banglore,Caffe Latte,46,46
+01-Jan-26,B1,Banglore,Caffe Latte,132,24
+01-Feb-26,B1,Banglore,Caffe Latte,86,40
+01-Mar-26,B1,Banglore,Caffe Latte,55,16
+01-Apr-26,B1,Banglore,Caffe Latte,179,70
+01-May-26,B1,Banglore,Caffe Latte,534,233
+01-Jun-26,B1,Banglore,Caffe Latte,140,-4
+01-Jul-26,B1,Banglore,Caffe Latte,48,-22
+01-Aug-26,B1,Banglore,Caffe Latte,341,180
+01-Sep-26,B1,Banglore,Caffe Latte,46,46
+01-Oct-26,B1,Banglore,Caffe Latte,110,9
+01-Nov-26,B1,Banglore,Caffe Latte,82,39
+01-Dec-26,B1,Banglore,Caffe Latte,60,19
+01-Jan-21,M1,Mumbai,Caffe Mocha,134,54
+01-Feb-21,M1,Mumbai,Caffe Mocha,546,203
+01-Mar-21,M1,Mumbai,Caffe Mocha,341,99
+01-Apr-21,M1,Mumbai,Caffe Mocha,190,9
+01-May-21,M1,Mumbai,Caffe Mocha,126,-23
+01-Jun-21,M1,Mumbai,Caffe Mocha,61,-172
+01-Jul-21,M1,Mumbai,Caffe Mocha,219,95
+01-Aug-21,M1,Mumbai,Caffe Mocha,250,17
+01-Sep-21,M1,Mumbai,Caffe Mocha,43,11
+01-Oct-21,M1,Mumbai,Caffe Mocha,123,48
+01-Nov-21,M1,Mumbai,Caffe Mocha,150,38
+01-Dec-21,M1,Mumbai,Caffe Mocha,180,7
+01-Jan-22,M1,Mumbai,Caffe Mocha,90,-10
+01-Feb-22,M1,Mumbai,Caffe Mocha,180,70
+01-Mar-22,M1,Mumbai,Caffe Mocha,90,-10
+01-Apr-22,M1,Mumbai,Caffe Mocha,80,28
+01-May-22,M1,Mumbai,Caffe Mocha,45,10
+01-Jun-22,M1,Mumbai,Caffe Mocha,140,33
+01-Jul-22,M1,Mumbai,Caffe Mocha,112,34
+01-Aug-22,M1,Mumbai,Caffe Mocha,120,13
+01-Sep-22,M1,Mumbai,Caffe Mocha,189,80
+01-Oct-22,M1,Mumbai,Caffe Mocha,545,201
+01-Nov-22,M1,Mumbai,Caffe Mocha,340,98
+01-Dec-22,M1,Mumbai,Caffe Mocha,220,16
+01-Jan-23,M1,Mumbai,Caffe Mocha,128,-4
+01-Feb-23,M1,Mumbai,Caffe Mocha,61,-203
+01-Mar-23,M1,Mumbai,Caffe Mocha,243,106
+01-Apr-23,M1,Mumbai,Caffe Mocha,290,26
+01-May-23,M1,Mumbai,Caffe Mocha,47,11
+01-Jun-23,M1,Mumbai,Caffe Mocha,123,48
+01-Jul-23,M1,Mumbai,Caffe Mocha,154,42
+01-Aug-23,M1,Mumbai,Caffe Mocha,155,3
+01-Sep-23,M1,Mumbai,Caffe Mocha,104,-7
+01-Oct-23,M1,Mumbai,Caffe Mocha,174,65
+01-Nov-23,M1,Mumbai,Caffe Mocha,104,-7
+01-Dec-23,M1,Mumbai,Caffe Mocha,56,17
+01-Jan-24,M1,Mumbai,Caffe Mocha,45,10
+01-Feb-24,M1,Mumbai,Caffe Mocha,140,33
+01-Mar-24,M1,Mumbai,Caffe Mocha,112,35
+01-Apr-24,M1,Mumbai,Caffe Mocha,118,12
+01-May-24,M1,Mumbai,Caffe Mocha,198,84
+01-Jun-24,M1,Mumbai,Caffe Mocha,567,211
+01-Jul-24,M1,Mumbai,Caffe Mocha,325,94
+01-Aug-24,M1,Mumbai,Caffe Mocha,227,17
+01-Sep-24,M1,Mumbai,Caffe Mocha,125,-4
+01-Oct-24,M1,Mumbai,Caffe Mocha,63,-208
+01-Nov-24,M1,Mumbai,Caffe Mocha,213,91
+01-Dec-24,M1,Mumbai,Caffe Mocha,298,27
+01-Jan-25,M1,Mumbai,Caffe Mocha,41,9
+01-Feb-25,M1,Mumbai,Caffe Mocha,121,47
+01-Mar-25,M1,Mumbai,Caffe Mocha,155,41
+01-Apr-25,M1,Mumbai,Caffe Mocha,150,0
+01-May-25,M1,Mumbai,Caffe Mocha,107,-7
+01-Jun-25,M1,Mumbai,Caffe Mocha,167,63
+01-Jul-25,M1,Mumbai,Caffe Mocha,107,-7
+01-Aug-25,M1,Mumbai,Caffe Mocha,53,15
+01-Sep-25,M1,Mumbai,Caffe Mocha,45,10
+01-Oct-25,M1,Mumbai,Caffe Mocha,134,32
+01-Nov-25,M1,Mumbai,Caffe Mocha,110,34
+01-Dec-25,M1,Mumbai,Caffe Mocha,120,12
+01-Jan-26,M1,Mumbai,Caffe Mocha,198,84
+01-Feb-26,M1,Mumbai,Caffe Mocha,587,220
+01-Mar-26,M1,Mumbai,Caffe Mocha,325,93
+01-Apr-26,M1,Mumbai,Caffe Mocha,227,17
+01-May-26,M1,Mumbai,Caffe Mocha,117,-12
+01-Jun-26,M1,Mumbai,Caffe Mocha,66,-205
+01-Jul-26,M1,Mumbai,Caffe Mocha,223,96
+01-Aug-26,M1,Mumbai,Caffe Mocha,298,26
+01-Sep-26,M1,Mumbai,Caffe Mocha,43,10
+01-Oct-26,M1,Mumbai,Caffe Mocha,115,43
+01-Nov-26,M1,Mumbai,Caffe Mocha,151,39
+01-Dec-26,M1,Mumbai,Caffe Mocha,150,0
+01-Jan-21,M2,Mumbai,Caffe Mocha,107,-6
+01-Feb-21,M2,Mumbai,Caffe Mocha,133,45
+01-Mar-21,M2,Mumbai,Caffe Mocha,107,-6
+01-Apr-21,M2,Mumbai,Caffe Mocha,53,16
+01-May-21,M2,Mumbai,Caffe Mocha,47,11
+01-Jun-21,M2,Mumbai,Caffe Mocha,129,28
+01-Jul-21,M2,Mumbai,Caffe Mocha,119,37
+01-Aug-21,M2,Mumbai,Caffe Mocha,127,15
+01-Sep-21,M2,Mumbai,Caffe Mocha,210,88
+01-Oct-21,M2,Mumbai,Caffe Mocha,612,230
+01-Nov-21,M2,Mumbai,Caffe Mocha,298,84
+01-Dec-21,M2,Mumbai,Caffe Mocha,221,17
+01-Jan-22,M2,Mumbai,Caffe Mocha,114,-16
+01-Feb-22,M2,Mumbai,Caffe Mocha,69,-195
+01-Mar-22,M2,Mumbai,Caffe Mocha,256,112
+01-Apr-22,M2,Mumbai,Caffe Mocha,289,25
+01-May-22,M2,Mumbai,Caffe Mocha,49,12
+01-Jun-22,M2,Mumbai,Caffe Mocha,109,41
+01-Jul-22,M2,Mumbai,Caffe Mocha,170,47
+01-Aug-22,M2,Mumbai,Caffe Mocha,154,3
+01-Sep-22,M2,Mumbai,Caffe Mocha,104,-7
+01-Oct-22,M2,Mumbai,Caffe Mocha,130,44
+01-Nov-22,M2,Mumbai,Caffe Mocha,104,-7
+01-Dec-22,M2,Mumbai,Caffe Mocha,49,13
+01-Jan-23,M2,Mumbai,Caffe Mocha,49,13
+01-Feb-23,M2,Mumbai,Caffe Mocha,123,27
+01-Mar-23,M2,Mumbai,Caffe Mocha,111,36
+01-Apr-23,M2,Mumbai,Caffe Mocha,130,16
+01-May-23,M2,Mumbai,Caffe Mocha,230,99
+01-Jun-23,M2,Mumbai,Caffe Mocha,634,241
+01-Jul-23,M2,Mumbai,Caffe Mocha,298,83
+01-Aug-23,M2,Mumbai,Caffe Mocha,264,25
+01-Sep-23,M2,Mumbai,Caffe Mocha,111,-3
+01-Oct-23,M2,Mumbai,Caffe Mocha,72,-236
+01-Nov-23,M2,Mumbai,Caffe Mocha,276,120
+01-Dec-23,M2,Mumbai,Caffe Mocha,345,36
+01-Jan-24,M2,Mumbai,Caffe Mocha,53,15
+01-Feb-24,M2,Mumbai,Caffe Mocha,92,33
+01-Mar-24,M2,Mumbai,Caffe Mocha,177,50
+01-Apr-24,M2,Mumbai,Caffe Mocha,128,-2
+01-May-24,M2,Mumbai,Caffe Mocha,125,-4
+01-Jun-24,M2,Mumbai,Caffe Mocha,125,41
+01-Jul-24,M2,Mumbai,Caffe Mocha,125,-3
+01-Aug-24,M2,Mumbai,Caffe Mocha,44,10
+01-Sep-24,M2,Mumbai,Caffe Mocha,58,18
+01-Oct-24,M2,Mumbai,Caffe Mocha,118,24
+01-Nov-24,M2,Mumbai,Caffe Mocha,111,35
+01-Dec-24,M2,Mumbai,Caffe Mocha,133,18
+01-Jan-25,M2,Mumbai,Caffe Mocha,230,98
+01-Feb-25,M2,Mumbai,Caffe Mocha,678,259
+01-Mar-25,M2,Mumbai,Caffe Mocha,291,81
+01-Apr-25,M2,Mumbai,Caffe Mocha,297,32
+01-May-25,M2,Mumbai,Caffe Mocha,111,7
+01-Jun-25,M2,Mumbai,Caffe Mocha,77,-266
+01-Jul-25,M2,Mumbai,Caffe Mocha,256,112
+01-Aug-25,M2,Mumbai,Caffe Mocha,387,45
+01-Sep-25,M2,Mumbai,Caffe Mocha,49,13
+01-Oct-25,M2,Mumbai,Caffe Mocha,87,32
+01-Nov-25,M2,Mumbai,Caffe Mocha,189,56
+01-Dec-25,M2,Mumbai,Caffe Mocha,113,-5
+01-Jan-26,M2,Mumbai,Caffe Mocha,141,-1
+01-Feb-26,M2,Mumbai,Caffe Mocha,104,30
+01-Mar-26,M2,Mumbai,Caffe Mocha,141,-1
+01-Apr-26,M2,Mumbai,Caffe Mocha,44,9
+01-May-26,M2,Mumbai,Caffe Mocha,61,17
+01-Jun-26,M2,Mumbai,Caffe Mocha,110,20
+01-Jul-26,M2,Mumbai,Caffe Mocha,106,32
+01-Aug-26,M2,Mumbai,Caffe Mocha,133,18
+01-Sep-26,M2,Mumbai,Caffe Mocha,245,105
+01-Oct-26,M2,Mumbai,Caffe Mocha,687,262
+01-Nov-26,M2,Mumbai,Caffe Mocha,291,81
+01-Dec-26,M2,Mumbai,Caffe Mocha,317,35
+01-Jan-21,M3,Mumbai,Caffe Mocha,105,6
+01-Feb-21,M3,Mumbai,Caffe Mocha,78,-284
+01-Mar-21,M3,Mumbai,Caffe Mocha,301,133
+01-Apr-21,M3,Mumbai,Caffe Mocha,412,50
+01-May-21,M3,Mumbai,Caffe Mocha,58,18
+01-Jun-21,M3,Mumbai,Caffe Mocha,83,29
+01-Jul-21,M3,Mumbai,Caffe Mocha,226,70
+01-Aug-21,M3,Mumbai,Caffe Mocha,105,-8
+01-Sep-21,M3,Mumbai,Caffe Mocha,151,1
+01-Oct-21,M3,Mumbai,Caffe Mocha,126,41
+01-Nov-21,M3,Mumbai,Caffe Mocha,151,2
+01-Dec-21,M3,Mumbai,Caffe Mocha,41,10
+01-Jan-22,M3,Mumbai,Caffe Mocha,63,19
+01-Feb-22,M3,Mumbai,Caffe Mocha,108,19
+01-Mar-22,M3,Mumbai,Caffe Mocha,176,62
+01-Apr-22,M3,Mumbai,Caffe Mocha,140,20
+01-May-22,M3,Mumbai,Caffe Mocha,199,84
+01-Jun-22,M3,Mumbai,Caffe Mocha,589,220
+01-Jul-22,M3,Mumbai,Caffe Mocha,310,87
+01-Aug-22,M3,Mumbai,Caffe Mocha,223,17
+01-Sep-22,M3,Mumbai,Caffe Mocha,98,-31
+01-Oct-22,M3,Mumbai,Caffe Mocha,68,-197
+01-Nov-22,M3,Mumbai,Caffe Mocha,302,134
+01-Dec-22,M3,Mumbai,Caffe Mocha,290,26
+01-Jan-23,M3,Mumbai,Caffe Mocha,58,18
+01-Feb-23,M3,Mumbai,Caffe Mocha,108,41
+01-Mar-23,M3,Mumbai,Caffe Mocha,182,53
+01-Apr-23,M3,Mumbai,Caffe Mocha,149,2
+01-May-23,M3,Mumbai,Caffe Mocha,106,-7
+01-Jun-23,M3,Mumbai,Caffe Mocha,151,53
+01-Jul-23,M3,Mumbai,Caffe Mocha,106,-8
+01-Aug-23,M3,Mumbai,Caffe Mocha,50,13
+01-Sep-23,M3,Mumbai,Caffe Mocha,48,12
+01-Oct-23,M3,Mumbai,Caffe Mocha,125,28
+01-Nov-23,M3,Mumbai,Caffe Mocha,159,56
+01-Dec-23,M3,Mumbai,Caffe Mocha,149,23
+01-Jan-24,M3,Mumbai,Caffe Mocha,187,79
+01-Feb-24,M3,Mumbai,Caffe Mocha,598,224
+01-Mar-24,M3,Mumbai,Caffe Mocha,322,92
+01-Apr-24,M3,Mumbai,Caffe Mocha,230,18
+01-May-24,M3,Mumbai,Caffe Mocha,116,-11
+01-Jun-24,M3,Mumbai,Caffe Mocha,69,-202
+01-Jul-24,M3,Mumbai,Caffe Mocha,302,133
+01-Aug-24,M3,Mumbai,Caffe Mocha,298,27
+01-Sep-24,M3,Mumbai,Caffe Mocha,58,18
+01-Oct-24,M3,Mumbai,Caffe Mocha,99,36
+01-Nov-24,M3,Mumbai,Caffe Mocha,174,48
+01-Dec-24,M3,Mumbai,Caffe Mocha,144,1
+01-Jan-25,M3,Mumbai,Caffe Mocha,109,-7
+01-Feb-25,M3,Mumbai,Caffe Mocha,159,58
+01-Mar-25,M3,Mumbai,Caffe Mocha,109,-6
+01-Apr-25,M3,Mumbai,Caffe Mocha,53,15
+01-May-25,M3,Mumbai,Caffe Mocha,52,14
+01-Jun-25,M3,Mumbai,Caffe Mocha,123,27
+01-Jul-25,M3,Mumbai,Caffe Mocha,236,87
+01-Aug-25,M3,Mumbai,Caffe Mocha,126,16
+01-Sep-25,M3,Mumbai,Caffe Mocha,123,48
+01-Oct-25,M3,Mumbai,Caffe Mocha,532,196
+01-Nov-25,M3,Mumbai,Caffe Mocha,363,107
+01-Dec-25,M3,Mumbai,Caffe Mocha,224,15
+01-Jan-26,M3,Mumbai,Caffe Mocha,120,-8
+01-Feb-26,M3,Mumbai,Caffe Mocha,61,-202
+01-Mar-26,M3,Mumbai,Caffe Mocha,290,127
+01-Apr-26,M3,Mumbai,Caffe Mocha,289,26
+01-May-26,M3,Mumbai,Caffe Mocha,56,16
+01-Jun-26,M3,Mumbai,Caffe Mocha,132,51
+01-Jul-26,M3,Mumbai,Caffe Mocha,164,45
+01-Aug-26,M3,Mumbai,Caffe Mocha,147,2
+01-Sep-26,M3,Mumbai,Caffe Mocha,106,-8
+01-Oct-26,M3,Mumbai,Caffe Mocha,141,49
+01-Nov-26,M3,Mumbai,Caffe Mocha,106,-7
+01-Dec-26,M3,Mumbai,Caffe Mocha,80,29
+01-Jan-21,B1,Banglore,Caffe Mocha,39,9
+01-Feb-21,B1,Banglore,Caffe Mocha,138,33
+01-Mar-21,B1,Banglore,Caffe Mocha,231,85
+01-Apr-21,B1,Banglore,Caffe Mocha,121,13
+01-May-21,B1,Banglore,Caffe Mocha,133,53
+01-Jun-21,B1,Banglore,Caffe Mocha,576,216
+01-Jul-21,B1,Banglore,Caffe Mocha,306,87
+01-Aug-21,B1,Banglore,Caffe Mocha,250,21
+01-Sep-21,B1,Banglore,Caffe Mocha,99,-20
+01-Oct-21,B1,Banglore,Caffe Mocha,66,-224
+01-Nov-21,B1,Banglore,Caffe Mocha,302,133
+01-Dec-21,B1,Banglore,Caffe Mocha,322,31
+01-Jan-22,B1,Banglore,Caffe Mocha,58,17
+01-Feb-22,B1,Banglore,Caffe Mocha,123,48
+01-Mar-22,B1,Banglore,Caffe Mocha,176,50
+01-Apr-22,B1,Banglore,Caffe Mocha,131,-2
+01-May-22,B1,Banglore,Caffe Mocha,118,-4
+01-Jun-22,B1,Banglore,Caffe Mocha,107,31
+01-Jul-22,B1,Banglore,Caffe Mocha,118,-5
+01-Aug-22,B1,Banglore,Caffe Mocha,73,24
+01-Sep-22,B1,Banglore,Caffe Mocha,41,10
+01-Oct-22,B1,Banglore,Caffe Mocha,127,28
+01-Nov-22,B1,Banglore,Caffe Mocha,214,77
+01-Dec-22,B1,Banglore,Caffe Mocha,145,23
+01-Jan-23,B1,Banglore,Caffe Mocha,150,84
+01-Feb-23,B1,Banglore,Caffe Mocha,611,316
+01-Mar-23,B1,Banglore,Caffe Mocha,382,154
+01-Apr-23,B1,Banglore,Caffe Mocha,213,14
+01-May-23,B1,Banglore,Caffe Mocha,141,-36
+01-Jun-23,B1,Banglore,Caffe Mocha,68,-268
+01-Jul-23,B1,Banglore,Caffe Mocha,245,148
+01-Aug-23,B1,Banglore,Caffe Mocha,280,26
+01-Sep-23,B1,Banglore,Caffe Mocha,48,17
+01-Oct-23,B1,Banglore,Caffe Mocha,138,75
+01-Nov-23,B1,Banglore,Caffe Mocha,168,59
+01-Dec-23,B1,Banglore,Caffe Mocha,201,11
+01-Jan-24,B1,Banglore,Caffe Mocha,101,-16
+01-Feb-24,B1,Banglore,Caffe Mocha,201,109
+01-Mar-24,B1,Banglore,Caffe Mocha,101,-16
+01-Apr-24,B1,Banglore,Caffe Mocha,90,44
+01-May-24,B1,Banglore,Caffe Mocha,50,16
+01-Jun-24,B1,Banglore,Caffe Mocha,157,51
+01-Jul-24,B1,Banglore,Caffe Mocha,125,53
+01-Aug-24,B1,Banglore,Caffe Mocha,134,20
+01-Sep-24,B1,Banglore,Caffe Mocha,201,119
+01-Oct-24,B1,Banglore,Caffe Mocha,581,298
+01-Nov-24,B1,Banglore,Caffe Mocha,362,145
+01-Dec-24,B1,Banglore,Caffe Mocha,234,24
+01-Jan-25,B1,Banglore,Caffe Mocha,136,-6
+01-Feb-25,B1,Banglore,Caffe Mocha,65,-301
+01-Mar-25,B1,Banglore,Caffe Mocha,259,157
+01-Apr-25,B1,Banglore,Caffe Mocha,309,39
+01-May-25,B1,Banglore,Caffe Mocha,50,16
+01-Jun-25,B1,Banglore,Caffe Mocha,131,71
+01-Jul-25,B1,Banglore,Caffe Mocha,164,62
+01-Aug-25,B1,Banglore,Caffe Mocha,165,4
+01-Sep-25,B1,Banglore,Caffe Mocha,111,-10
+01-Oct-25,B1,Banglore,Caffe Mocha,185,96
+01-Nov-25,B1,Banglore,Caffe Mocha,111,-10
+01-Dec-25,B1,Banglore,Caffe Mocha,60,25
+01-Jan-26,B1,Banglore,Caffe Mocha,48,15
+01-Feb-26,B1,Banglore,Caffe Mocha,149,49
+01-Mar-26,B1,Banglore,Caffe Mocha,119,52
+01-Apr-26,B1,Banglore,Caffe Mocha,126,18
+01-May-26,B1,Banglore,Caffe Mocha,211,125
+01-Jun-26,B1,Banglore,Caffe Mocha,604,313
+01-Jul-26,B1,Banglore,Caffe Mocha,346,140
+01-Aug-26,B1,Banglore,Caffe Mocha,242,25
+01-Sep-26,B1,Banglore,Caffe Mocha,133,-6
+01-Oct-26,B1,Banglore,Caffe Mocha,67,-309
+01-Nov-26,B1,Banglore,Caffe Mocha,227,135
+01-Dec-26,B1,Banglore,Caffe Mocha,318,40
+01-Jan-21,B2,Banglore,Caffe Mocha,44,13
+01-Feb-21,B2,Banglore,Caffe Mocha,129,70
+01-Mar-21,B2,Banglore,Caffe Mocha,165,61
+01-Apr-21,B2,Banglore,Caffe Mocha,160,0
+01-May-21,B2,Banglore,Caffe Mocha,114,-10
+01-Jun-21,B2,Banglore,Caffe Mocha,178,93
+01-Jul-21,B2,Banglore,Caffe Mocha,114,-10
+01-Aug-21,B2,Banglore,Caffe Mocha,56,22
+01-Sep-21,B2,Banglore,Caffe Mocha,48,15
+01-Oct-21,B2,Banglore,Caffe Mocha,143,47
+01-Nov-21,B2,Banglore,Caffe Mocha,117,50
+01-Dec-21,B2,Banglore,Caffe Mocha,128,18
+01-Jan-22,B2,Banglore,Caffe Mocha,211,125
+01-Feb-22,B2,Banglore,Caffe Mocha,626,326
+01-Mar-22,B2,Banglore,Caffe Mocha,346,138
+01-Apr-22,B2,Banglore,Caffe Mocha,242,25
+01-May-22,B2,Banglore,Caffe Mocha,125,-18
+01-Jun-22,B2,Banglore,Caffe Mocha,70,-304
+01-Jul-22,B2,Banglore,Caffe Mocha,238,142
+01-Aug-22,B2,Banglore,Caffe Mocha,318,39
+01-Sep-22,B2,Banglore,Caffe Mocha,46,15
+01-Oct-22,B2,Banglore,Caffe Mocha,123,64
+01-Nov-22,B2,Banglore,Caffe Mocha,161,58
+01-Dec-22,B2,Banglore,Caffe Mocha,160,0
+01-Jan-23,B2,Banglore,Caffe Mocha,114,-9
+01-Feb-23,B2,Banglore,Caffe Mocha,142,67
+01-Mar-23,B2,Banglore,Caffe Mocha,114,-9
+01-Apr-23,B2,Banglore,Caffe Mocha,56,24
+01-May-23,B2,Banglore,Caffe Mocha,50,16
+01-Jun-23,B2,Banglore,Caffe Mocha,137,42
+01-Jul-23,B2,Banglore,Caffe Mocha,127,55
+01-Aug-23,B2,Banglore,Caffe Mocha,135,22
+01-Sep-23,B2,Banglore,Caffe Mocha,208,121
+01-Oct-23,B2,Banglore,Caffe Mocha,607,317
+01-Nov-23,B2,Banglore,Caffe Mocha,295,116
+01-Dec-23,B2,Banglore,Caffe Mocha,219,23
+01-Jan-24,B2,Banglore,Caffe Mocha,113,-22
+01-Feb-24,B2,Banglore,Caffe Mocha,68,-269
+01-Mar-24,B2,Banglore,Caffe Mocha,254,155
+01-Apr-24,B2,Banglore,Caffe Mocha,286,35
+01-May-24,B2,Banglore,Caffe Mocha,49,17
+01-Jun-24,B2,Banglore,Caffe Mocha,108,57
+01-Jul-24,B2,Banglore,Caffe Mocha,168,65
+01-Aug-24,B2,Banglore,Caffe Mocha,153,4
+01-Sep-24,B2,Banglore,Caffe Mocha,103,-10
+01-Oct-24,B2,Banglore,Caffe Mocha,129,61
+01-Nov-24,B2,Banglore,Caffe Mocha,103,-10
+01-Dec-24,B2,Banglore,Caffe Mocha,49,18
+01-Jan-25,B2,Banglore,Caffe Mocha,49,18
+01-Feb-25,B2,Banglore,Caffe Mocha,122,37
+01-Mar-25,B2,Banglore,Caffe Mocha,110,50
+01-Apr-25,B2,Banglore,Caffe Mocha,129,22
+01-May-25,B2,Banglore,Caffe Mocha,228,137
+01-Jun-25,B2,Banglore,Caffe Mocha,628,333
+01-Jul-25,B2,Banglore,Caffe Mocha,295,115
+01-Aug-25,B2,Banglore,Caffe Mocha,262,35
+01-Sep-25,B2,Banglore,Caffe Mocha,110,-4
+01-Oct-25,B2,Banglore,Caffe Mocha,71,-326
+01-Nov-25,B2,Banglore,Caffe Mocha,274,166
+01-Dec-25,B2,Banglore,Caffe Mocha,342,50
+01-Jan-26,B2,Banglore,Caffe Mocha,53,21
+01-Feb-26,B2,Banglore,Caffe Mocha,91,46
+01-Mar-26,B2,Banglore,Caffe Mocha,175,69
+01-Apr-26,B2,Banglore,Caffe Mocha,127,-3
+01-May-26,B2,Banglore,Caffe Mocha,124,-6
+01-Jun-26,B2,Banglore,Caffe Mocha,124,57
+01-Jul-26,B2,Banglore,Caffe Mocha,124,-4
+01-Aug-26,B2,Banglore,Caffe Mocha,44,14
+01-Sep-26,B2,Banglore,Caffe Mocha,57,25
+01-Oct-26,B2,Banglore,Caffe Mocha,117,33
+01-Nov-26,B2,Banglore,Caffe Mocha,110,48
+01-Dec-26,B2,Banglore,Caffe Mocha,132,25
+01-Jan-21,H1,Hyderabad,Caffe Mocha,228,135
+01-Feb-21,H1,Hyderabad,Caffe Mocha,672,357
+01-Mar-21,H1,Hyderabad,Caffe Mocha,288,112
+01-Apr-21,H1,Hyderabad,Caffe Mocha,294,44
+01-May-21,H1,Hyderabad,Caffe Mocha,110,10
+01-Jun-21,H1,Hyderabad,Caffe Mocha,76,-367
+01-Jul-21,H1,Hyderabad,Caffe Mocha,254,155
+01-Aug-21,H1,Hyderabad,Caffe Mocha,384,62
+01-Sep-21,H1,Hyderabad,Caffe Mocha,49,18
+01-Oct-21,H1,Hyderabad,Caffe Mocha,86,44
+01-Nov-21,H1,Hyderabad,Caffe Mocha,187,77
+01-Dec-21,H1,Hyderabad,Caffe Mocha,112,-7
+01-Jan-22,H1,Hyderabad,Caffe Mocha,140,-1
+01-Feb-22,H1,Hyderabad,Caffe Mocha,103,41
+01-Mar-22,H1,Hyderabad,Caffe Mocha,140,-1
+01-Apr-22,H1,Hyderabad,Caffe Mocha,44,12
+01-May-22,H1,Hyderabad,Caffe Mocha,60,23
+01-Jun-22,H1,Hyderabad,Caffe Mocha,109,28
+01-Jul-22,H1,Hyderabad,Caffe Mocha,105,44
+01-Aug-22,H1,Hyderabad,Caffe Mocha,132,25
+01-Sep-22,H1,Hyderabad,Caffe Mocha,243,145
+01-Oct-22,H1,Hyderabad,Caffe Mocha,681,362
+01-Nov-22,H1,Hyderabad,Caffe Mocha,288,112
+01-Dec-22,H1,Hyderabad,Caffe Mocha,314,48
+01-Jan-23,H1,Hyderabad,Caffe Mocha,104,8
+01-Feb-23,H1,Hyderabad,Caffe Mocha,77,-392
+01-Mar-23,H1,Hyderabad,Caffe Mocha,298,184
+01-Apr-23,H1,Hyderabad,Caffe Mocha,408,69
+01-May-23,H1,Hyderabad,Caffe Mocha,57,25
+01-Jun-23,H1,Hyderabad,Caffe Mocha,82,40
+01-Jul-23,H1,Hyderabad,Caffe Mocha,224,97
+01-Aug-23,H1,Hyderabad,Caffe Mocha,104,-11
+01-Sep-23,H1,Hyderabad,Caffe Mocha,150,1
+01-Oct-23,H1,Hyderabad,Caffe Mocha,125,57
+01-Nov-23,H1,Hyderabad,Caffe Mocha,150,3
+01-Dec-23,H1,Hyderabad,Caffe Mocha,41,14
+01-Jan-24,H1,Hyderabad,Caffe Mocha,62,26
+01-Feb-24,H1,Hyderabad,Caffe Mocha,107,26
+01-Mar-24,H1,Hyderabad,Caffe Mocha,174,86
+01-Apr-24,H1,Hyderabad,Caffe Mocha,139,28
+01-May-24,H1,Hyderabad,Caffe Mocha,212,125
+01-Jun-24,H1,Hyderabad,Caffe Mocha,628,326
+01-Jul-24,H1,Hyderabad,Caffe Mocha,330,129
+01-Aug-24,H1,Hyderabad,Caffe Mocha,238,25
+01-Sep-24,H1,Hyderabad,Caffe Mocha,104,-46
+01-Oct-24,H1,Hyderabad,Caffe Mocha,72,-292
+01-Nov-24,H1,Hyderabad,Caffe Mocha,322,199
+01-Dec-24,H1,Hyderabad,Caffe Mocha,309,39
+01-Jan-25,H1,Hyderabad,Caffe Mocha,62,27
+01-Feb-25,H1,Hyderabad,Caffe Mocha,115,61
+01-Mar-25,H1,Hyderabad,Caffe Mocha,194,79
+01-Apr-25,H1,Hyderabad,Caffe Mocha,159,3
+01-May-25,H1,Hyderabad,Caffe Mocha,113,-10
+01-Jun-25,H1,Hyderabad,Caffe Mocha,161,79
+01-Jul-25,H1,Hyderabad,Caffe Mocha,113,-12
+01-Aug-25,H1,Hyderabad,Caffe Mocha,53,19
+01-Sep-25,H1,Hyderabad,Caffe Mocha,51,18
+01-Oct-25,H1,Hyderabad,Caffe Mocha,133,42
+01-Nov-25,H1,Hyderabad,Caffe Mocha,169,83
+01-Dec-25,H1,Hyderabad,Caffe Mocha,159,34
+01-Jan-26,H1,Hyderabad,Caffe Mocha,199,117
+01-Feb-26,H1,Hyderabad,Caffe Mocha,637,332
+01-Mar-26,H1,Hyderabad,Caffe Mocha,343,137
+01-Apr-26,H1,Hyderabad,Caffe Mocha,245,27
+01-May-26,H1,Hyderabad,Caffe Mocha,124,-16
+01-Jun-26,H1,Hyderabad,Caffe Mocha,74,-300
+01-Jul-26,H1,Hyderabad,Caffe Mocha,322,197
+01-Aug-26,H1,Hyderabad,Caffe Mocha,318,40
+01-Sep-26,H1,Hyderabad,Caffe Mocha,62,27
+01-Oct-26,H1,Hyderabad,Caffe Mocha,106,53
+01-Nov-26,H1,Hyderabad,Caffe Mocha,185,71
+01-Dec-26,H1,Hyderabad,Caffe Mocha,153,1
+01-Jan-21,M1,Mumbai,Chamomile,341,99
+01-Feb-21,M1,Mumbai,Chamomile,219,95
+01-Mar-21,M1,Mumbai,Chamomile,80,29
+01-Apr-21,M1,Mumbai,Chamomile,110,34
+01-May-21,M1,Mumbai,Chamomile,140,33
+01-Jun-21,M1,Mumbai,Chamomile,234,102
+01-Jul-21,M1,Mumbai,Chamomile,546,202
+01-Aug-21,M1,Mumbai,Chamomile,90,-11
+01-Sep-21,M1,Mumbai,Chamomile,180,70
+01-Oct-21,M1,Mumbai,Chamomile,112,35
+01-Nov-21,M1,Mumbai,Chamomile,45,11
+01-Dec-21,M1,Mumbai,Chamomile,120,13
+01-Jan-22,M1,Mumbai,Chamomile,250,16
+01-Feb-22,M1,Mumbai,Chamomile,90,33
+01-Mar-22,M1,Mumbai,Chamomile,93,21
+01-Apr-22,M1,Mumbai,Chamomile,310,115
+01-May-22,M1,Mumbai,Chamomile,340,99
+01-Jun-22,M1,Mumbai,Chamomile,243,105
+01-Jul-22,M1,Mumbai,Chamomile,56,17
+01-Aug-22,M1,Mumbai,Chamomile,110,34
+01-Sep-22,M1,Mumbai,Chamomile,140,33
+01-Oct-22,M1,Mumbai,Chamomile,232,100
+01-Nov-22,M1,Mumbai,Chamomile,545,201
+01-Dec-22,M1,Mumbai,Chamomile,104,-8
+01-Jan-23,M1,Mumbai,Chamomile,174,66
+01-Feb-23,M1,Mumbai,Chamomile,112,35
+01-Mar-23,M1,Mumbai,Chamomile,45,10
+01-Apr-23,M1,Mumbai,Chamomile,118,11
+01-May-23,M1,Mumbai,Chamomile,290,26
+01-Jun-23,M1,Mumbai,Chamomile,81,28
+01-Jul-23,M1,Mumbai,Chamomile,101,24
+01-Aug-23,M1,Mumbai,Chamomile,325,121
+01-Sep-23,M1,Mumbai,Chamomile,325,94
+01-Oct-23,M1,Mumbai,Chamomile,213,91
+01-Nov-23,M1,Mumbai,Chamomile,53,15
+01-Dec-23,M1,Mumbai,Chamomile,112,35
+01-Jan-24,M1,Mumbai,Chamomile,134,31
+01-Feb-24,M1,Mumbai,Chamomile,234,101
+01-Mar-24,M1,Mumbai,Chamomile,567,212
+01-Apr-24,M1,Mumbai,Chamomile,107,-6
+01-May-24,M1,Mumbai,Chamomile,167,63
+01-Jun-24,M1,Mumbai,Chamomile,110,34
+01-Jul-24,M1,Mumbai,Chamomile,45,10
+01-Aug-24,M1,Mumbai,Chamomile,120,13
+01-Sep-24,M1,Mumbai,Chamomile,298,27
+01-Oct-24,M1,Mumbai,Chamomile,92,33
+01-Nov-24,M1,Mumbai,Chamomile,107,28
+01-Dec-24,M1,Mumbai,Chamomile,309,115
+01-Jan-25,M1,Mumbai,Chamomile,325,94
+01-Feb-25,M1,Mumbai,Chamomile,223,95
+01-Mar-25,M1,Mumbai,Chamomile,53,16
+01-Apr-25,M1,Mumbai,Chamomile,103,31
+01-May-25,M1,Mumbai,Chamomile,129,28
+01-Jun-25,M1,Mumbai,Chamomile,245,106
+01-Jul-25,M1,Mumbai,Chamomile,587,220
+01-Aug-25,M1,Mumbai,Chamomile,107,-6
+01-Sep-25,M1,Mumbai,Chamomile,133,46
+01-Oct-25,M1,Mumbai,Chamomile,119,38
+01-Nov-25,M1,Mumbai,Chamomile,47,12
+01-Dec-25,M1,Mumbai,Chamomile,127,15
+01-Jan-26,M1,Mumbai,Chamomile,298,27
+01-Feb-26,M1,Mumbai,Chamomile,87,31
+01-Mar-26,M1,Mumbai,Chamomile,121,34
+01-Apr-26,M1,Mumbai,Chamomile,292,106
+01-May-26,M1,Mumbai,Chamomile,298,83
+01-Jun-26,M1,Mumbai,Chamomile,256,112
+01-Jul-26,M1,Mumbai,Chamomile,49,12
+01-Aug-26,M1,Mumbai,Chamomile,110,35
+01-Sep-26,M1,Mumbai,Chamomile,123,27
+01-Oct-26,M1,Mumbai,Chamomile,256,111
+01-Nov-26,M1,Mumbai,Chamomile,612,231
+01-Dec-26,M1,Mumbai,Chamomile,104,-8
+01-Jan-21,M2,Mumbai,Chamomile,130,45
+01-Feb-21,M2,Mumbai,Chamomile,111,35
+01-Mar-21,M2,Mumbai,Chamomile,49,12
+01-Apr-21,M2,Mumbai,Chamomile,130,17
+01-May-21,M2,Mumbai,Chamomile,289,25
+01-Jun-21,M2,Mumbai,Chamomile,75,26
+01-Jul-21,M2,Mumbai,Chamomile,125,34
+01-Aug-21,M2,Mumbai,Chamomile,275,98
+01-Sep-21,M2,Mumbai,Chamomile,298,83
+01-Oct-21,M2,Mumbai,Chamomile,276,121
+01-Nov-21,M2,Mumbai,Chamomile,44,9
+01-Dec-21,M2,Mumbai,Chamomile,110,35
+01-Jan-22,M2,Mumbai,Chamomile,118,24
+01-Feb-22,M2,Mumbai,Chamomile,301,133
+01-Mar-22,M2,Mumbai,Chamomile,634,241
+01-Apr-22,M2,Mumbai,Chamomile,125,-4
+01-May-22,M2,Mumbai,Chamomile,125,40
+01-Jun-22,M2,Mumbai,Chamomile,111,36
+01-Jul-22,M2,Mumbai,Chamomile,58,18
+01-Aug-22,M2,Mumbai,Chamomile,133,19
+01-Sep-22,M2,Mumbai,Chamomile,345,37
+01-Oct-22,M2,Mumbai,Chamomile,69,22
+01-Nov-22,M2,Mumbai,Chamomile,138,42
+01-Dec-22,M2,Mumbai,Chamomile,232,79
+01-Jan-23,M2,Mumbai,Chamomile,291,81
+01-Feb-23,M2,Mumbai,Chamomile,256,111
+01-Mar-23,M2,Mumbai,Chamomile,44,9
+01-Apr-23,M2,Mumbai,Chamomile,115,36
+01-May-23,M2,Mumbai,Chamomile,110,20
+01-Jun-23,M2,Mumbai,Chamomile,312,139
+01-Jul-23,M2,Mumbai,Chamomile,678,258
+01-Aug-23,M2,Mumbai,Chamomile,141,-1
+01-Sep-23,M2,Mumbai,Chamomile,104,29
+01-Oct-23,M2,Mumbai,Chamomile,106,32
+01-Nov-23,M2,Mumbai,Chamomile,61,17
+01-Dec-23,M2,Mumbai,Chamomile,133,19
+01-Jan-24,M2,Mumbai,Chamomile,387,45
+01-Feb-24,M2,Mumbai,Chamomile,74,24
+01-Mar-24,M2,Mumbai,Chamomile,151,48
+01-Apr-24,M2,Mumbai,Chamomile,225,75
+01-May-24,M2,Mumbai,Chamomile,291,82
+01-Jun-24,M2,Mumbai,Chamomile,301,132
+01-Jul-24,M2,Mumbai,Chamomile,41,9
+01-Aug-24,M2,Mumbai,Chamomile,69,18
+01-Sep-24,M2,Mumbai,Chamomile,108,19
+01-Oct-24,M2,Mumbai,Chamomile,323,143
+01-Nov-24,M2,Mumbai,Chamomile,687,262
+01-Dec-24,M2,Mumbai,Chamomile,151,2
+01-Jan-25,M2,Mumbai,Chamomile,126,41
+01-Feb-25,M2,Mumbai,Chamomile,176,61
+01-Mar-25,M2,Mumbai,Chamomile,63,19
+01-Apr-25,M2,Mumbai,Chamomile,140,20
+01-May-25,M2,Mumbai,Chamomile,412,49
+01-Jun-25,M2,Mumbai,Chamomile,62,19
+01-Jul-25,M2,Mumbai,Chamomile,151,49
+01-Aug-25,M2,Mumbai,Chamomile,225,75
+01-Sep-25,M2,Mumbai,Chamomile,310,87
+01-Oct-25,M2,Mumbai,Chamomile,302,133
+01-Nov-25,M2,Mumbai,Chamomile,50,14
+01-Dec-25,M2,Mumbai,Chamomile,76,21
+01-Jan-26,M2,Mumbai,Chamomile,125,27
+01-Feb-26,M2,Mumbai,Chamomile,245,105
+01-Mar-26,M2,Mumbai,Chamomile,589,220
+01-Apr-26,M2,Mumbai,Chamomile,106,-7
+01-May-26,M2,Mumbai,Chamomile,151,53
+01-Jun-26,M2,Mumbai,Chamomile,159,55
+01-Jul-26,M2,Mumbai,Chamomile,48,13
+01-Aug-26,M2,Mumbai,Chamomile,149,24
+01-Sep-26,M2,Mumbai,Chamomile,290,26
+01-Oct-26,M2,Mumbai,Chamomile,61,17
+01-Nov-26,M2,Mumbai,Chamomile,120,34
+01-Dec-26,M2,Mumbai,Chamomile,258,91
+01-Jan-21,M3,Mumbai,Chamomile,322,92
+01-Feb-21,M3,Mumbai,Chamomile,302,133
+01-Mar-21,M3,Mumbai,Chamomile,53,16
+01-Apr-21,M3,Mumbai,Chamomile,51,10
+01-May-21,M3,Mumbai,Chamomile,123,26
+01-Jun-21,M3,Mumbai,Chamomile,265,115
+01-Jul-21,M3,Mumbai,Chamomile,598,224
+01-Aug-21,M3,Mumbai,Chamomile,109,-6
+01-Sep-21,M3,Mumbai,Chamomile,159,57
+01-Oct-21,M3,Mumbai,Chamomile,236,87
+01-Nov-21,M3,Mumbai,Chamomile,52,14
+01-Dec-21,M3,Mumbai,Chamomile,126,16
+01-Jan-22,M3,Mumbai,Chamomile,298,26
+01-Feb-22,M3,Mumbai,Chamomile,61,17
+01-Mar-22,M3,Mumbai,Chamomile,120,33
+01-Apr-22,M3,Mumbai,Chamomile,313,115
+01-May-22,M3,Mumbai,Chamomile,363,107
+01-Jun-22,M3,Mumbai,Chamomile,290,127
+01-Jul-22,M3,Mumbai,Chamomile,80,29
+01-Aug-22,M3,Mumbai,Chamomile,52,11
+01-Sep-22,M3,Mumbai,Chamomile,138,32
+01-Oct-22,M3,Mumbai,Chamomile,198,84
+01-Nov-22,M3,Mumbai,Chamomile,532,196
+01-Dec-22,M3,Mumbai,Chamomile,106,-8
+01-Jan-23,M3,Mumbai,Chamomile,141,48
+01-Feb-23,M3,Mumbai,Chamomile,231,85
+01-Mar-23,M3,Mumbai,Chamomile,39,9
+01-Apr-23,M3,Mumbai,Chamomile,121,13
+01-May-23,M3,Mumbai,Chamomile,289,26
+01-Jun-23,M3,Mumbai,Chamomile,63,19
+01-Jul-23,M3,Mumbai,Chamomile,113,30
+01-Aug-23,M3,Mumbai,Chamomile,325,122
+01-Sep-23,M3,Mumbai,Chamomile,306,87
+01-Oct-23,M3,Mumbai,Chamomile,302,133
+01-Nov-23,M3,Mumbai,Chamomile,73,25
+01-Dec-23,M3,Mumbai,Chamomile,56,12
+01-Jan-24,M3,Mumbai,Chamomile,127,28
+01-Feb-24,M3,Mumbai,Chamomile,210,89
+01-Mar-24,M3,Mumbai,Chamomile,576,216
+01-Apr-24,M3,Mumbai,Chamomile,118,-5
+01-May-24,M3,Mumbai,Chamomile,107,30
+01-Jun-24,M3,Mumbai,Chamomile,214,77
+01-Jul-24,M3,Mumbai,Chamomile,41,9
+01-Aug-24,M3,Mumbai,Chamomile,145,22
+01-Sep-24,M3,Mumbai,Chamomile,322,32
+01-Oct-24,M3,Mumbai,Chamomile,60,19
+01-Nov-24,M3,Mumbai,Chamomile,127,36
+01-Dec-24,M3,Mumbai,Chamomile,289,105
+01-Jan-25,M3,Mumbai,Chamomile,382,154
+01-Feb-25,M3,Mumbai,Chamomile,245,148
+01-Mar-25,M3,Mumbai,Chamomile,90,45
+01-Apr-25,M3,Mumbai,Chamomile,123,53
+01-May-25,M3,Mumbai,Chamomile,157,51
+01-Jun-25,M3,Mumbai,Chamomile,262,159
+01-Jul-25,M3,Mumbai,Chamomile,611,315
+01-Aug-25,M3,Mumbai,Chamomile,101,-17
+01-Sep-25,M3,Mumbai,Chamomile,201,109
+01-Oct-25,M3,Mumbai,Chamomile,125,55
+01-Nov-25,M3,Mumbai,Chamomile,50,17
+01-Dec-25,M3,Mumbai,Chamomile,134,20
+01-Jan-26,M3,Mumbai,Chamomile,280,25
+01-Feb-26,M3,Mumbai,Chamomile,101,51
+01-Mar-26,M3,Mumbai,Chamomile,104,33
+01-Apr-26,M3,Mumbai,Chamomile,347,179
+01-May-26,M3,Mumbai,Chamomile,362,147
+01-Jun-26,M3,Mumbai,Chamomile,259,156
+01-Jul-26,M3,Mumbai,Chamomile,60,25
+01-Aug-26,M3,Mumbai,Chamomile,117,50
+01-Sep-26,M3,Mumbai,Chamomile,149,49
+01-Oct-26,M3,Mumbai,Chamomile,247,148
+01-Nov-26,M3,Mumbai,Chamomile,581,298
+01-Dec-26,M3,Mumbai,Chamomile,111,-12
+01-Jan-21,B1,Banglore,Chamomile,185,98
+01-Feb-21,B1,Banglore,Chamomile,119,52
+01-Mar-21,B1,Banglore,Chamomile,48,15
+01-Apr-21,B1,Banglore,Chamomile,126,16
+01-May-21,B1,Banglore,Chamomile,309,39
+01-Jun-21,B1,Banglore,Chamomile,86,42
+01-Jul-21,B1,Banglore,Chamomile,108,36
+01-Aug-21,B1,Banglore,Chamomile,346,180
+01-Sep-21,B1,Banglore,Chamomile,346,140
+01-Oct-21,B1,Banglore,Chamomile,227,135
+01-Nov-21,B1,Banglore,Chamomile,56,22
+01-Dec-21,B1,Banglore,Chamomile,119,52
+01-Jan-22,B1,Banglore,Chamomile,143,46
+01-Feb-22,B1,Banglore,Chamomile,249,150
+01-Mar-22,B1,Banglore,Chamomile,604,315
+01-Apr-22,B1,Banglore,Chamomile,114,-9
+01-May-22,B1,Banglore,Chamomile,178,93
+01-Jun-22,B1,Banglore,Chamomile,117,50
+01-Jul-22,B1,Banglore,Chamomile,48,15
+01-Aug-22,B1,Banglore,Chamomile,128,19
+01-Sep-22,B1,Banglore,Chamomile,318,40
+01-Oct-22,B1,Banglore,Chamomile,98,49
+01-Nov-22,B1,Banglore,Chamomile,114,42
+01-Dec-22,B1,Banglore,Chamomile,329,171
+01-Jan-23,B1,Banglore,Chamomile,346,140
+01-Feb-23,B1,Banglore,Chamomile,238,141
+01-Mar-23,B1,Banglore,Chamomile,56,24
+01-Apr-23,B1,Banglore,Chamomile,110,46
+01-May-23,B1,Banglore,Chamomile,137,42
+01-Jun-23,B1,Banglore,Chamomile,261,157
+01-Jul-23,B1,Banglore,Chamomile,626,326
+01-Aug-23,B1,Banglore,Chamomile,114,-9
+01-Sep-23,B1,Banglore,Chamomile,142,68
+01-Oct-23,B1,Banglore,Chamomile,127,56
+01-Nov-23,B1,Banglore,Chamomile,50,18
+01-Dec-23,B1,Banglore,Chamomile,135,22
+01-Jan-24,B1,Banglore,Chamomile,318,40
+01-Feb-24,B1,Banglore,Chamomile,93,46
+01-Mar-24,B1,Banglore,Chamomile,129,50
+01-Apr-24,B1,Banglore,Chamomile,311,157
+01-May-24,B1,Banglore,Chamomile,295,115
+01-Jun-24,B1,Banglore,Chamomile,254,155
+01-Jul-24,B1,Banglore,Chamomile,49,17
+01-Aug-24,B1,Banglore,Chamomile,109,48
+01-Sep-24,B1,Banglore,Chamomile,122,37
+01-Oct-24,B1,Banglore,Chamomile,254,153
+01-Nov-24,B1,Banglore,Chamomile,607,319
+01-Dec-24,B1,Banglore,Chamomile,103,-11
+01-Jan-25,B1,Banglore,Chamomile,129,62
+01-Feb-25,B1,Banglore,Chamomile,110,48
+01-Mar-25,B1,Banglore,Chamomile,49,17
+01-Apr-25,B1,Banglore,Chamomile,129,23
+01-May-25,B1,Banglore,Chamomile,286,35
+01-Jun-25,B1,Banglore,Chamomile,74,36
+01-Jul-25,B1,Banglore,Chamomile,124,47
+01-Aug-25,B1,Banglore,Chamomile,273,135
+01-Sep-25,B1,Banglore,Chamomile,295,115
+01-Oct-25,B1,Banglore,Chamomile,274,167
+01-Nov-25,B1,Banglore,Chamomile,44,12
+01-Dec-25,B1,Banglore,Chamomile,109,48
+01-Jan-26,B1,Banglore,Chamomile,117,33
+01-Feb-26,B1,Banglore,Chamomile,298,184
+01-Mar-26,B1,Banglore,Chamomile,628,333
+01-Apr-26,B1,Banglore,Chamomile,124,-6
+01-May-26,B1,Banglore,Chamomile,124,55
+01-Jun-26,B1,Banglore,Chamomile,110,50
+01-Jul-26,B1,Banglore,Chamomile,57,25
+01-Aug-26,B1,Banglore,Chamomile,132,26
+01-Sep-26,B1,Banglore,Chamomile,342,51
+01-Oct-26,B1,Banglore,Chamomile,68,30
+01-Nov-26,B1,Banglore,Chamomile,137,58
+01-Dec-26,B1,Banglore,Chamomile,230,109
+01-Jan-21,B2,Banglore,Chamomile,288,112
+01-Feb-21,B2,Banglore,Chamomile,254,153
+01-Mar-21,B2,Banglore,Chamomile,44,12
+01-Apr-21,B2,Banglore,Chamomile,114,50
+01-May-21,B2,Banglore,Chamomile,109,28
+01-Jun-21,B2,Banglore,Chamomile,309,192
+01-Jul-21,B2,Banglore,Chamomile,672,356
+01-Aug-21,B2,Banglore,Chamomile,140,-1
+01-Sep-21,B2,Banglore,Chamomile,103,40
+01-Oct-21,B2,Banglore,Chamomile,105,44
+01-Nov-21,B2,Banglore,Chamomile,60,23
+01-Dec-21,B2,Banglore,Chamomile,132,26
+01-Jan-22,B2,Banglore,Chamomile,384,62
+01-Feb-22,B2,Banglore,Chamomile,73,33
+01-Mar-22,B2,Banglore,Chamomile,150,66
+01-Apr-22,B2,Banglore,Chamomile,223,104
+01-May-22,B2,Banglore,Chamomile,288,113
+01-Jun-22,B2,Banglore,Chamomile,298,182
+01-Jul-22,B2,Banglore,Chamomile,41,12
+01-Aug-22,B2,Banglore,Chamomile,68,25
+01-Sep-22,B2,Banglore,Chamomile,107,26
+01-Oct-22,B2,Banglore,Chamomile,320,197
+01-Nov-22,B2,Banglore,Chamomile,681,362
+01-Dec-22,B2,Banglore,Chamomile,150,3
+01-Jan-23,B2,Banglore,Chamomile,125,57
+01-Feb-23,B2,Banglore,Chamomile,174,84
+01-Mar-23,B2,Banglore,Chamomile,62,26
+01-Apr-23,B2,Banglore,Chamomile,139,28
+01-May-23,B2,Banglore,Chamomile,408,68
+01-Jun-23,B2,Banglore,Chamomile,61,26
+01-Jul-23,B2,Banglore,Chamomile,150,68
+01-Aug-23,B2,Banglore,Chamomile,223,104
+01-Sep-23,B2,Banglore,Chamomile,330,129
+01-Oct-23,B2,Banglore,Chamomile,322,197
+01-Nov-23,B2,Banglore,Chamomile,53,21
+01-Dec-23,B2,Banglore,Chamomile,81,31
+01-Jan-24,B2,Banglore,Chamomile,133,40
+01-Feb-24,B2,Banglore,Chamomile,261,156
+01-Mar-24,B2,Banglore,Chamomile,628,326
+01-Apr-24,B2,Banglore,Chamomile,113,-10
+01-May-24,B2,Banglore,Chamomile,161,79
+01-Jun-24,B2,Banglore,Chamomile,169,82
+01-Jul-24,B2,Banglore,Chamomile,51,19
+01-Aug-24,B2,Banglore,Chamomile,159,36
+01-Sep-24,B2,Banglore,Chamomile,309,39
+01-Oct-24,B2,Banglore,Chamomile,65,25
+01-Nov-24,B2,Banglore,Chamomile,128,50
+01-Dec-24,B2,Banglore,Chamomile,275,135
+01-Jan-25,B2,Banglore,Chamomile,343,137
+01-Feb-25,B2,Banglore,Chamomile,322,197
+01-Mar-25,B2,Banglore,Chamomile,56,24
+01-Apr-25,B2,Banglore,Chamomile,54,15
+01-May-25,B2,Banglore,Chamomile,131,39
+01-Jun-25,B2,Banglore,Chamomile,282,171
+01-Jul-25,B2,Banglore,Chamomile,637,332
+01-Aug-25,B2,Banglore,Chamomile,116,-9
+01-Sep-25,B2,Banglore,Chamomile,169,85
+01-Oct-25,B2,Banglore,Chamomile,251,129
+01-Nov-25,B2,Banglore,Chamomile,55,21
+01-Dec-25,B2,Banglore,Chamomile,134,24
+01-Jan-26,B2,Banglore,Chamomile,318,39
+01-Feb-26,B2,Banglore,Chamomile,65,25
+01-Mar-26,B2,Banglore,Chamomile,128,49
+01-Apr-26,B2,Banglore,Chamomile,334,171
+01-May-26,B2,Banglore,Chamomile,387,159
+01-Jun-26,B2,Banglore,Chamomile,309,188
+01-Jul-26,B2,Banglore,Chamomile,85,43
+01-Aug-26,B2,Banglore,Chamomile,55,16
+01-Sep-26,B2,Banglore,Chamomile,147,47
+01-Oct-26,B2,Banglore,Chamomile,211,125
+01-Nov-26,B2,Banglore,Chamomile,567,291
+01-Dec-26,B2,Banglore,Chamomile,113,-12
+01-Jan-21,M1,Mumbai,Colombian,190,68
+01-Feb-21,M1,Mumbai,Colombian,345,111
+01-Mar-21,M1,Mumbai,Colombian,140,42
+01-Apr-21,M1,Mumbai,Colombian,210,68
+01-May-21,M1,Mumbai,Colombian,494,367
+01-Jun-21,M1,Mumbai,Colombian,678,262
+01-Jul-21,M1,Mumbai,Colombian,452,159
+01-Aug-21,M1,Mumbai,Colombian,678,262
+01-Sep-21,M1,Mumbai,Colombian,62,5
+01-Oct-21,M1,Mumbai,Colombian,190,39
+01-Nov-21,M1,Mumbai,Colombian,190,9
+01-Dec-21,M1,Mumbai,Colombian,310,115
+01-Jan-22,M1,Mumbai,Colombian,120,25
+01-Feb-22,M1,Mumbai,Colombian,85,30
+01-Mar-22,M1,Mumbai,Colombian,120,26
+01-Apr-22,M1,Mumbai,Colombian,100,29
+01-May-22,M1,Mumbai,Colombian,76,-3
+01-Jun-22,M1,Mumbai,Colombian,160,28
+01-Jul-22,M1,Mumbai,Colombian,130,30
+01-Aug-22,M1,Mumbai,Colombian,130,38
+01-Sep-22,M1,Mumbai,Colombian,190,68
+01-Oct-22,M1,Mumbai,Colombian,354,115
+01-Nov-22,M1,Mumbai,Colombian,128,38
+01-Dec-22,M1,Mumbai,Colombian,200,63
+01-Jan-23,M1,Mumbai,Colombian,470,340
+01-Feb-23,M1,Mumbai,Colombian,645,245
+01-Mar-23,M1,Mumbai,Colombian,465,164
+01-Apr-23,M1,Mumbai,Colombian,645,245
+01-May-23,M1,Mumbai,Colombian,63,6
+01-Jun-23,M1,Mumbai,Colombian,193,42
+01-Jul-23,M1,Mumbai,Colombian,220,15
+01-Aug-23,M1,Mumbai,Colombian,325,121
+01-Sep-23,M1,Mumbai,Colombian,114,23
+01-Oct-23,M1,Mumbai,Colombian,94,34
+01-Nov-23,M1,Mumbai,Colombian,114,24
+01-Dec-23,M1,Mumbai,Colombian,100,29
+01-Jan-24,M1,Mumbai,Colombian,74,-5
+01-Feb-24,M1,Mumbai,Colombian,155,25
+01-Mar-24,M1,Mumbai,Colombian,130,30
+01-Apr-24,M1,Mumbai,Colombian,142,44
+01-May-24,M1,Mumbai,Colombian,193,69
+01-Jun-24,M1,Mumbai,Colombian,367,119
+01-Jul-24,M1,Mumbai,Colombian,121,35
+01-Aug-24,M1,Mumbai,Colombian,210,67
+01-Sep-24,M1,Mumbai,Colombian,492,366
+01-Oct-24,M1,Mumbai,Colombian,675,259
+01-Nov-24,M1,Mumbai,Colombian,467,166
+01-Dec-24,M1,Mumbai,Colombian,675,259
+01-Jan-25,M1,Mumbai,Colombian,63,6
+01-Feb-25,M1,Mumbai,Colombian,189,39
+01-Mar-25,M1,Mumbai,Colombian,227,17
+01-Apr-25,M1,Mumbai,Colombian,309,114
+01-May-25,M1,Mumbai,Colombian,119,26
+01-Jun-25,M1,Mumbai,Colombian,82,29
+01-Jul-25,M1,Mumbai,Colombian,119,26
+01-Aug-25,M1,Mumbai,Colombian,98,29
+01-Sep-25,M1,Mumbai,Colombian,75,-4
+01-Oct-25,M1,Mumbai,Colombian,149,24
+01-Nov-25,M1,Mumbai,Colombian,124,26
+01-Dec-25,M1,Mumbai,Colombian,150,48
+01-Jan-26,M1,Mumbai,Colombian,178,63
+01-Feb-26,M1,Mumbai,Colombian,456,156
+01-Mar-26,M1,Mumbai,Colombian,107,27
+01-Apr-26,M1,Mumbai,Colombian,222,73
+01-May-26,M1,Mumbai,Colombian,519,397
+01-Jun-26,M1,Mumbai,Colombian,712,276
+01-Jul-26,M1,Mumbai,Colombian,456,161
+01-Aug-26,M1,Mumbai,Colombian,712,276
+01-Sep-26,M1,Mumbai,Colombian,61,3
+01-Oct-26,M1,Mumbai,Colombian,178,35
+01-Nov-26,M1,Mumbai,Colombian,227,17
+01-Dec-26,M1,Mumbai,Colombian,292,107
+01-Jan-21,M2,Mumbai,Colombian,125,27
+01-Feb-21,M2,Mumbai,Colombian,86,30
+01-Mar-21,M2,Mumbai,Colombian,125,27
+01-Apr-21,M2,Mumbai,Colombian,106,33
+01-May-21,M2,Mumbai,Colombian,79,-2
+01-Jun-21,M2,Mumbai,Colombian,119,8
+01-Jul-21,M2,Mumbai,Colombian,119,25
+01-Aug-21,M2,Mumbai,Colombian,169,54
+01-Sep-21,M2,Mumbai,Colombian,190,68
+01-Oct-21,M2,Mumbai,Colombian,465,161
+01-Nov-21,M2,Mumbai,Colombian,103,24
+01-Dec-21,M2,Mumbai,Colombian,235,78
+01-Jan-22,M2,Mumbai,Colombian,551,434
+01-Feb-22,M2,Mumbai,Colombian,756,295
+01-Mar-22,M2,Mumbai,Colombian,512,183
+01-Apr-22,M2,Mumbai,Colombian,756,295
+01-May-22,M2,Mumbai,Colombian,68,7
+01-Jun-22,M2,Mumbai,Colombian,173,33
+01-Jul-22,M2,Mumbai,Colombian,221,17
+01-Aug-22,M2,Mumbai,Colombian,275,98
+01-Sep-22,M2,Mumbai,Colombian,132,31
+01-Oct-22,M2,Mumbai,Colombian,99,36
+01-Nov-22,M2,Mumbai,Colombian,132,31
+01-Dec-22,M2,Mumbai,Colombian,99,30
+01-Jan-23,M2,Mumbai,Colombian,81,-1
+01-Feb-23,M2,Mumbai,Colombian,116,8
+01-Mar-23,M2,Mumbai,Colombian,113,22
+01-Apr-23,M2,Mumbai,Colombian,175,58
+01-May-23,M2,Mumbai,Colombian,190,68
+01-Jun-23,M2,Mumbai,Colombian,478,167
+01-Jul-23,M2,Mumbai,Colombian,93,19
+01-Aug-23,M2,Mumbai,Colombian,278,99
+01-Sep-23,M2,Mumbai,Colombian,649,547
+01-Oct-23,M2,Mumbai,Colombian,890,357
+01-Nov-23,M2,Mumbai,Colombian,532,192
+01-Dec-23,M2,Mumbai,Colombian,890,357
+01-Jan-24,M2,Mumbai,Colombian,70,8
+01-Feb-24,M2,Mumbai,Colombian,169,31
+01-Mar-24,M2,Mumbai,Colombian,264,24
+01-Apr-24,M2,Mumbai,Colombian,232,79
+01-May-24,M2,Mumbai,Colombian,156,42
+01-Jun-24,M2,Mumbai,Colombian,107,40
+01-Jul-24,M2,Mumbai,Colombian,156,43
+01-Aug-24,M2,Mumbai,Colombian,99,29
+01-Sep-24,M2,Mumbai,Colombian,82,0
+01-Oct-24,M2,Mumbai,Colombian,112,4
+01-Nov-24,M2,Mumbai,Colombian,108,19
+01-Dec-24,M2,Mumbai,Colombian,193,66
+01-Jan-25,M2,Mumbai,Colombian,199,71
+01-Feb-25,M2,Mumbai,Colombian,567,208
+01-Mar-25,M2,Mumbai,Colombian,85,18
+01-Apr-25,M2,Mumbai,Colombian,286,104
+01-May-25,M2,Mumbai,Colombian,665,564
+01-Jun-25,M2,Mumbai,Colombian,912,370
+01-Jul-25,M2,Mumbai,Colombian,567,206
+01-Aug-25,M2,Mumbai,Colombian,912,370
+01-Sep-25,M2,Mumbai,Colombian,75,9
+01-Oct-25,M2,Mumbai,Colombian,169,31
+01-Nov-25,M2,Mumbai,Colombian,297,32
+01-Dec-25,M2,Mumbai,Colombian,225,75
+01-Jan-26,M2,Mumbai,Colombian,160,43
+01-Feb-26,M2,Mumbai,Colombian,99,36
+01-Mar-26,M2,Mumbai,Colombian,160,44
+01-Apr-26,M2,Mumbai,Colombian,94,28
+01-May-26,M2,Mumbai,Colombian,82,-1
+01-Jun-26,M2,Mumbai,Colombian,94,0
+01-Jul-26,M2,Mumbai,Colombian,100,16
+01-Aug-26,M2,Mumbai,Colombian,211,75
+01-Sep-26,M2,Mumbai,Colombian,120,39
+01-Oct-26,M2,Mumbai,Colombian,467,163
+01-Nov-26,M2,Mumbai,Colombian,85,19
+01-Dec-26,M2,Mumbai,Colombian,286,104
+01-Jan-21,M3,Mumbai,Colombian,664,563
+01-Feb-21,M3,Mumbai,Colombian,910,368
+01-Mar-21,M3,Mumbai,Colombian,678,250
+01-Apr-21,M3,Mumbai,Colombian,910,368
+01-May-21,M3,Mumbai,Colombian,90,15
+01-Jun-21,M3,Mumbai,Colombian,160,27
+01-Jul-21,M3,Mumbai,Colombian,317,35
+01-Aug-21,M3,Mumbai,Colombian,225,75
+01-Sep-21,M3,Mumbai,Colombian,160,44
+01-Oct-21,M3,Mumbai,Colombian,118,46
+01-Nov-21,M3,Mumbai,Colombian,160,44
+01-Dec-21,M3,Mumbai,Colombian,155,53
+01-Jan-22,M3,Mumbai,Colombian,86,1
+01-Feb-22,M3,Mumbai,Colombian,114,8
+01-Mar-22,M3,Mumbai,Colombian,98,15
+01-Apr-22,M3,Mumbai,Colombian,211,76
+01-May-22,M3,Mumbai,Colombian,132,42
+01-Jun-22,M3,Mumbai,Colombian,387,129
+01-Jul-22,M3,Mumbai,Colombian,107,29
+01-Aug-22,M3,Mumbai,Colombian,249,86
+01-Sep-22,M3,Mumbai,Colombian,576,465
+01-Oct-22,M3,Mumbai,Colombian,790,312
+01-Nov-22,M3,Mumbai,Colombian,546,197
+01-Dec-22,M3,Mumbai,Colombian,790,313
+01-Jan-23,M3,Mumbai,Colombian,72,7
+01-Feb-23,M3,Mumbai,Colombian,150,25
+01-Mar-23,M3,Mumbai,Colombian,223,16
+01-Apr-23,M3,Mumbai,Colombian,258,91
+01-May-23,M3,Mumbai,Colombian,139,34
+01-Jun-23,M3,Mumbai,Colombian,119,46
+01-Jul-23,M3,Mumbai,Colombian,139,34
+01-Aug-23,M3,Mumbai,Colombian,140,47
+01-Sep-23,M3,Mumbai,Colombian,91,2
+01-Oct-23,M3,Mumbai,Colombian,137,18
+01-Nov-23,M3,Mumbai,Colombian,113,22
+01-Dec-23,M3,Mumbai,Colombian,167,56
+01-Jan-24,M3,Mumbai,Colombian,90,27
+01-Feb-24,M3,Mumbai,Colombian,367,120
+01-Mar-24,M3,Mumbai,Colombian,107,28
+01-Apr-24,M3,Mumbai,Colombian,205,64
+01-May-24,M3,Mumbai,Colombian,474,348
+01-Jun-24,M3,Mumbai,Colombian,650,247
+01-Jul-24,M3,Mumbai,Colombian,520,185
+01-Aug-24,M3,Mumbai,Colombian,650,247
+01-Sep-24,M3,Mumbai,Colombian,68,7
+01-Oct-24,M3,Mumbai,Colombian,177,35
+01-Nov-24,M3,Mumbai,Colombian,230,18
+01-Dec-24,M3,Mumbai,Colombian,313,115
+01-Jan-25,M3,Mumbai,Colombian,114,24
+01-Feb-25,M3,Mumbai,Colombian,119,47
+01-Mar-25,M3,Mumbai,Colombian,114,23
+01-Apr-25,M3,Mumbai,Colombian,205,74
+01-May-25,M3,Mumbai,Colombian,77,-2
+01-Jun-25,M3,Mumbai,Colombian,144,21
+01-Jul-25,M3,Mumbai,Colombian,111,22
+01-Aug-25,M3,Mumbai,Colombian,167,56
+01-Sep-25,M3,Mumbai,Colombian,92,27
+01-Oct-25,M3,Mumbai,Colombian,412,139
+01-Nov-25,M3,Mumbai,Colombian,114,32
+01-Dec-25,M3,Mumbai,Colombian,197,63
+01-Jan-26,M3,Mumbai,Colombian,454,324
+01-Feb-26,M3,Mumbai,Colombian,623,236
+01-Mar-26,M3,Mumbai,Colombian,490,174
+01-Apr-26,M3,Mumbai,Colombian,623,235
+01-May-26,M3,Mumbai,Colombian,64,5
+01-Jun-26,M3,Mumbai,Colombian,184,38
+01-Jul-26,M3,Mumbai,Colombian,224,16
+01-Aug-26,M3,Mumbai,Colombian,325,122
+01-Sep-26,M3,Mumbai,Colombian,109,20
+01-Oct-26,M3,Mumbai,Colombian,115,44
+01-Nov-26,M3,Mumbai,Colombian,109,20
+01-Dec-26,M3,Mumbai,Colombian,200,71
+01-Jan-21,B1,Banglore,Colombian,74,-4
+01-Feb-21,B1,Banglore,Colombian,128,14
+01-Mar-21,B1,Banglore,Colombian,124,27
+01-Apr-21,B1,Banglore,Colombian,156,50
+01-May-21,B1,Banglore,Colombian,99,29
+01-Jun-21,B1,Banglore,Colombian,534,194
+01-Jul-21,B1,Banglore,Colombian,101,24
+01-Aug-21,B1,Banglore,Colombian,221,73
+01-Sep-21,B1,Banglore,Colombian,510,390
+01-Oct-21,B1,Banglore,Colombian,699,271
+01-Nov-21,B1,Banglore,Colombian,525,188
+01-Dec-21,B1,Banglore,Colombian,699,271
+01-Jan-22,B1,Banglore,Colombian,69,8
+01-Feb-22,B1,Banglore,Colombian,153,26
+01-Mar-22,B1,Banglore,Colombian,250,20
+01-Apr-22,B1,Banglore,Colombian,289,105
+01-May-22,B1,Banglore,Colombian,122,28
+01-Jun-22,B1,Banglore,Colombian,120,46
+01-Jul-22,B1,Banglore,Colombian,122,27
+01-Aug-22,B1,Banglore,Colombian,185,66
+01-Sep-22,B1,Banglore,Colombian,88,1
+01-Oct-22,B1,Banglore,Colombian,98,1
+01-Nov-22,B1,Banglore,Colombian,114,21
+01-Dec-22,B1,Banglore,Colombian,176,58
+01-Jan-23,B1,Banglore,Colombian,213,106
+01-Feb-23,B1,Banglore,Colombian,386,173
+01-Mar-23,B1,Banglore,Colombian,157,65
+01-Apr-23,B1,Banglore,Colombian,235,106
+01-May-23,B1,Banglore,Colombian,553,572
+01-Jun-23,B1,Banglore,Colombian,759,408
+01-Jul-23,B1,Banglore,Colombian,506,248
+01-Aug-23,B1,Banglore,Colombian,759,408
+01-Sep-23,B1,Banglore,Colombian,69,8
+01-Oct-23,B1,Banglore,Colombian,213,61
+01-Nov-23,B1,Banglore,Colombian,213,14
+01-Dec-23,B1,Banglore,Colombian,347,179
+01-Jan-24,B1,Banglore,Colombian,134,39
+01-Feb-24,B1,Banglore,Colombian,95,47
+01-Mar-24,B1,Banglore,Colombian,134,41
+01-Apr-24,B1,Banglore,Colombian,112,45
+01-May-24,B1,Banglore,Colombian,85,-5
+01-Jun-24,B1,Banglore,Colombian,179,44
+01-Jul-24,B1,Banglore,Colombian,145,47
+01-Aug-24,B1,Banglore,Colombian,145,59
+01-Sep-24,B1,Banglore,Colombian,202,101
+01-Oct-24,B1,Banglore,Colombian,377,171
+01-Nov-24,B1,Banglore,Colombian,136,56
+01-Dec-24,B1,Banglore,Colombian,213,93
+01-Jan-25,B1,Banglore,Colombian,501,505
+01-Feb-25,B1,Banglore,Colombian,687,364
+01-Mar-25,B1,Banglore,Colombian,496,243
+01-Apr-25,B1,Banglore,Colombian,687,364
+01-May-25,B1,Banglore,Colombian,67,9
+01-Jun-25,B1,Banglore,Colombian,206,62
+01-Jul-25,B1,Banglore,Colombian,234,22
+01-Aug-25,B1,Banglore,Colombian,346,180
+01-Sep-25,B1,Banglore,Colombian,121,34
+01-Oct-25,B1,Banglore,Colombian,100,50
+01-Nov-25,B1,Banglore,Colombian,121,36
+01-Dec-25,B1,Banglore,Colombian,107,43
+01-Jan-26,B1,Banglore,Colombian,79,-7
+01-Feb-26,B1,Banglore,Colombian,165,37
+01-Mar-26,B1,Banglore,Colombian,139,45
+01-Apr-26,B1,Banglore,Colombian,151,65
+01-May-26,B1,Banglore,Colombian,206,102
+01-Jun-26,B1,Banglore,Colombian,391,177
+01-Jul-26,B1,Banglore,Colombian,129,52
+01-Aug-26,B1,Banglore,Colombian,224,99
+01-Sep-26,B1,Banglore,Colombian,524,543
+01-Oct-26,B1,Banglore,Colombian,719,384
+01-Nov-26,B1,Banglore,Colombian,498,246
+01-Dec-26,B1,Banglore,Colombian,719,384
+01-Jan-21,B2,Banglore,Colombian,67,9
+01-Feb-21,B2,Banglore,Colombian,201,58
+01-Mar-21,B2,Banglore,Colombian,242,25
+01-Apr-21,B2,Banglore,Colombian,329,169
+01-May-21,B2,Banglore,Colombian,127,39
+01-Jun-21,B2,Banglore,Colombian,87,43
+01-Jul-21,B2,Banglore,Colombian,127,39
+01-Aug-21,B2,Banglore,Colombian,104,43
+01-Sep-21,B2,Banglore,Colombian,80,-6
+01-Oct-21,B2,Banglore,Colombian,159,36
+01-Nov-21,B2,Banglore,Colombian,132,39
+01-Dec-21,B2,Banglore,Colombian,160,71
+01-Jan-22,B2,Banglore,Colombian,190,93
+01-Feb-22,B2,Banglore,Colombian,486,232
+01-Mar-22,B2,Banglore,Colombian,114,40
+01-Apr-22,B2,Banglore,Colombian,237,108
+01-May-22,B2,Banglore,Colombian,553,589
+01-Jun-22,B2,Banglore,Colombian,759,410
+01-Jul-22,B2,Banglore,Colombian,486,239
+01-Aug-22,B2,Banglore,Colombian,759,410
+01-Sep-22,B2,Banglore,Colombian,65,4
+01-Oct-22,B2,Banglore,Colombian,190,52
+01-Nov-22,B2,Banglore,Colombian,242,25
+01-Dec-22,B2,Banglore,Colombian,311,159
+01-Jan-23,B2,Banglore,Colombian,133,40
+01-Feb-23,B2,Banglore,Colombian,92,45
+01-Mar-23,B2,Banglore,Colombian,133,40
+01-Apr-23,B2,Banglore,Colombian,113,49
+01-May-23,B2,Banglore,Colombian,84,-3
+01-Jun-23,B2,Banglore,Colombian,127,12
+01-Jul-23,B2,Banglore,Colombian,127,37
+01-Aug-23,B2,Banglore,Colombian,180,80
+01-Sep-23,B2,Banglore,Colombian,188,94
+01-Oct-23,B2,Banglore,Colombian,461,222
+01-Nov-23,B2,Banglore,Colombian,102,33
+01-Dec-23,B2,Banglore,Colombian,233,108
+01-Jan-24,B2,Banglore,Colombian,546,599
+01-Feb-24,B2,Banglore,Colombian,749,407
+01-Mar-24,B2,Banglore,Colombian,507,253
+01-Apr-24,B2,Banglore,Colombian,749,407
+01-May-24,B2,Banglore,Colombian,67,10
+01-Jun-24,B2,Banglore,Colombian,171,46
+01-Jul-24,B2,Banglore,Colombian,219,23
+01-Aug-24,B2,Banglore,Colombian,273,135
+01-Sep-24,B2,Banglore,Colombian,131,43
+01-Oct-24,B2,Banglore,Colombian,98,50
+01-Nov-24,B2,Banglore,Colombian,131,43
+01-Dec-24,B2,Banglore,Colombian,98,41
+01-Jan-25,B2,Banglore,Colombian,80,-1
+01-Feb-25,B2,Banglore,Colombian,115,11
+01-Mar-25,B2,Banglore,Colombian,112,30
+01-Apr-25,B2,Banglore,Colombian,173,80
+01-May-25,B2,Banglore,Colombian,188,94
+01-Jun-25,B2,Banglore,Colombian,474,230
+01-Jul-25,B2,Banglore,Colombian,92,26
+01-Aug-25,B2,Banglore,Colombian,276,137
+01-Sep-25,B2,Banglore,Colombian,643,755
+01-Oct-25,B2,Banglore,Colombian,882,493
+01-Nov-25,B2,Banglore,Colombian,527,265
+01-Dec-25,B2,Banglore,Colombian,882,493
+01-Jan-26,B2,Banglore,Colombian,69,11
+01-Feb-26,B2,Banglore,Colombian,167,43
+01-Mar-26,B2,Banglore,Colombian,262,33
+01-Apr-26,B2,Banglore,Colombian,230,109
+01-May-26,B2,Banglore,Colombian,155,58
+01-Jun-26,B2,Banglore,Colombian,106,55
+01-Jul-26,B2,Banglore,Colombian,155,59
+01-Aug-26,B2,Banglore,Colombian,98,40
+01-Sep-26,B2,Banglore,Colombian,81,0
+01-Oct-26,B2,Banglore,Colombian,111,6
+01-Nov-26,B2,Banglore,Colombian,107,26
+01-Dec-26,B2,Banglore,Colombian,191,91
+01-Jan-21,H1,Hyderabad,Colombian,197,98
+01-Feb-21,H1,Hyderabad,Colombian,562,287
+01-Mar-21,H1,Hyderabad,Colombian,84,25
+01-Apr-21,H1,Hyderabad,Colombian,283,144
+01-May-21,H1,Hyderabad,Colombian,659,778
+01-Jun-21,H1,Hyderabad,Colombian,904,511
+01-Jul-21,H1,Hyderabad,Colombian,562,284
+01-Aug-21,H1,Hyderabad,Colombian,904,511
+01-Sep-21,H1,Hyderabad,Colombian,74,12
+01-Oct-21,H1,Hyderabad,Colombian,167,43
+01-Nov-21,H1,Hyderabad,Colombian,294,44
+01-Dec-21,H1,Hyderabad,Colombian,223,104
+01-Jan-22,H1,Hyderabad,Colombian,159,59
+01-Feb-22,H1,Hyderabad,Colombian,98,50
+01-Mar-22,H1,Hyderabad,Colombian,159,61
+01-Apr-22,H1,Hyderabad,Colombian,93,39
+01-May-22,H1,Hyderabad,Colombian,81,-1
+01-Jun-22,H1,Hyderabad,Colombian,93,0
+01-Jul-22,H1,Hyderabad,Colombian,99,22
+01-Aug-22,H1,Hyderabad,Colombian,209,104
+01-Sep-22,H1,Hyderabad,Colombian,119,54
+01-Oct-22,H1,Hyderabad,Colombian,463,225
+01-Nov-22,H1,Hyderabad,Colombian,84,26
+01-Dec-22,H1,Hyderabad,Colombian,283,144
+01-Jan-23,H1,Hyderabad,Colombian,658,777
+01-Feb-23,H1,Hyderabad,Colombian,902,508
+01-Mar-23,H1,Hyderabad,Colombian,672,345
+01-Apr-23,H1,Hyderabad,Colombian,902,508
+01-May-23,H1,Hyderabad,Colombian,89,21
+01-Jun-23,H1,Hyderabad,Colombian,159,37
+01-Jul-23,H1,Hyderabad,Colombian,314,48
+01-Aug-23,H1,Hyderabad,Colombian,223,104
+01-Sep-23,H1,Hyderabad,Colombian,159,61
+01-Oct-23,H1,Hyderabad,Colombian,117,63
+01-Nov-23,H1,Hyderabad,Colombian,159,61
+01-Dec-23,H1,Hyderabad,Colombian,154,73
+01-Jan-24,H1,Hyderabad,Colombian,85,1
+01-Feb-24,H1,Hyderabad,Colombian,113,11
+01-Mar-24,H1,Hyderabad,Colombian,97,21
+01-Apr-24,H1,Hyderabad,Colombian,209,105
+01-May-24,H1,Hyderabad,Colombian,141,62
+01-Jun-24,H1,Hyderabad,Colombian,412,191
+01-Jul-24,H1,Hyderabad,Colombian,114,43
+01-Aug-24,H1,Hyderabad,Colombian,265,128
+01-Sep-24,H1,Hyderabad,Colombian,614,690
+01-Oct-24,H1,Hyderabad,Colombian,842,463
+01-Nov-24,H1,Hyderabad,Colombian,582,292
+01-Dec-24,H1,Hyderabad,Colombian,842,465
+01-Jan-25,H1,Hyderabad,Colombian,77,10
+01-Feb-25,H1,Hyderabad,Colombian,160,37
+01-Mar-25,H1,Hyderabad,Colombian,238,24
+01-Apr-25,H1,Hyderabad,Colombian,275,135
+01-May-25,H1,Hyderabad,Colombian,148,50
+01-Jun-25,H1,Hyderabad,Colombian,127,68
+01-Jul-25,H1,Hyderabad,Colombian,148,50
+01-Aug-25,H1,Hyderabad,Colombian,149,70
+01-Sep-25,H1,Hyderabad,Colombian,97,3
+01-Oct-25,H1,Hyderabad,Colombian,146,27
+01-Nov-25,H1,Hyderabad,Colombian,120,33
+01-Dec-25,H1,Hyderabad,Colombian,178,83
+01-Jan-26,H1,Hyderabad,Colombian,96,40
+01-Feb-26,H1,Hyderabad,Colombian,391,178
+01-Mar-26,H1,Hyderabad,Colombian,114,42
+01-Apr-26,H1,Hyderabad,Colombian,218,95
+01-May-26,H1,Hyderabad,Colombian,505,516
+01-Jun-26,H1,Hyderabad,Colombian,693,367
+01-Jul-26,H1,Hyderabad,Colombian,554,275
+01-Aug-26,H1,Hyderabad,Colombian,693,367
+01-Sep-26,H1,Hyderabad,Colombian,72,10
+01-Oct-26,H1,Hyderabad,Colombian,189,52
+01-Nov-26,H1,Hyderabad,Colombian,245,27
+01-Dec-26,H1,Hyderabad,Colombian,334,171
+01-Jan-21,M1,Mumbai,Darjeeling,130,17
+01-Feb-21,M1,Mumbai,Darjeeling,134,53
+01-Mar-21,M1,Mumbai,Darjeeling,210,68
+01-Apr-21,M1,Mumbai,Darjeeling,80,28
+01-May-21,M1,Mumbai,Darjeeling,80,29
+01-Jun-21,M1,Mumbai,Darjeeling,234,101
+01-Jul-21,M1,Mumbai,Darjeeling,219,94
+01-Aug-21,M1,Mumbai,Darjeeling,456,141
+01-Sep-21,M1,Mumbai,Darjeeling,82,9
+01-Oct-21,M1,Mumbai,Darjeeling,150,47
+01-Nov-21,M1,Mumbai,Darjeeling,123,47
+01-Dec-21,M1,Mumbai,Darjeeling,45,10
+01-Jan-22,M1,Mumbai,Darjeeling,546,203
+01-Feb-22,M1,Mumbai,Darjeeling,80,28
+01-Mar-22,M1,Mumbai,Darjeeling,90,-10
+01-Apr-22,M1,Mumbai,Darjeeling,180,70
+01-May-22,M1,Mumbai,Darjeeling,132,18
+01-Jun-22,M1,Mumbai,Darjeeling,189,79
+01-Jul-22,M1,Mumbai,Darjeeling,200,62
+01-Aug-22,M1,Mumbai,Darjeeling,80,28
+01-Sep-22,M1,Mumbai,Darjeeling,80,28
+01-Oct-22,M1,Mumbai,Darjeeling,232,100
+01-Nov-22,M1,Mumbai,Darjeeling,243,106
+01-Dec-22,M1,Mumbai,Darjeeling,457,141
+01-Jan-23,M1,Mumbai,Darjeeling,82,9
+01-Feb-23,M1,Mumbai,Darjeeling,137,41
+01-Mar-23,M1,Mumbai,Darjeeling,123,48
+01-Apr-23,M1,Mumbai,Darjeeling,45,11
+01-May-23,M1,Mumbai,Darjeeling,545,202
+01-Jun-23,M1,Mumbai,Darjeeling,56,17
+01-Jul-23,M1,Mumbai,Darjeeling,104,-7
+01-Aug-23,M1,Mumbai,Darjeeling,174,66
+01-Sep-23,M1,Mumbai,Darjeeling,129,16
+01-Oct-23,M1,Mumbai,Darjeeling,198,84
+01-Nov-23,M1,Mumbai,Darjeeling,210,68
+01-Dec-23,M1,Mumbai,Darjeeling,81,27
+01-Jan-24,M1,Mumbai,Darjeeling,79,28
+01-Feb-24,M1,Mumbai,Darjeeling,234,102
+01-Mar-24,M1,Mumbai,Darjeeling,213,91
+01-Apr-24,M1,Mumbai,Darjeeling,478,148
+01-May-24,M1,Mumbai,Darjeeling,85,11
+01-Jun-24,M1,Mumbai,Darjeeling,129,38
+01-Jul-24,M1,Mumbai,Darjeeling,121,47
+01-Aug-24,M1,Mumbai,Darjeeling,45,11
+01-Sep-24,M1,Mumbai,Darjeeling,567,212
+01-Oct-24,M1,Mumbai,Darjeeling,53,16
+01-Nov-24,M1,Mumbai,Darjeeling,107,-7
+01-Dec-24,M1,Mumbai,Darjeeling,167,62
+01-Jan-25,M1,Mumbai,Darjeeling,121,13
+01-Feb-25,M1,Mumbai,Darjeeling,198,83
+01-Mar-25,M1,Mumbai,Darjeeling,222,73
+01-Apr-25,M1,Mumbai,Darjeeling,85,30
+01-May-25,M1,Mumbai,Darjeeling,75,26
+01-Jun-25,M1,Mumbai,Darjeeling,245,105
+01-Jul-25,M1,Mumbai,Darjeeling,223,96
+01-Aug-25,M1,Mumbai,Darjeeling,478,148
+01-Sep-25,M1,Mumbai,Darjeeling,88,11
+01-Oct-25,M1,Mumbai,Darjeeling,114,31
+01-Nov-25,M1,Mumbai,Darjeeling,115,43
+01-Dec-25,M1,Mumbai,Darjeeling,47,12
+01-Jan-26,M1,Mumbai,Darjeeling,587,219
+01-Feb-26,M1,Mumbai,Darjeeling,53,15
+01-Mar-26,M1,Mumbai,Darjeeling,107,-6
+01-Apr-26,M1,Mumbai,Darjeeling,133,45
+01-May-26,M1,Mumbai,Darjeeling,118,12
+01-Jun-26,M1,Mumbai,Darjeeling,210,88
+01-Jul-26,M1,Mumbai,Darjeeling,235,79
+01-Aug-26,M1,Mumbai,Darjeeling,89,32
+01-Sep-26,M1,Mumbai,Darjeeling,71,22
+01-Oct-26,M1,Mumbai,Darjeeling,256,112
+01-Nov-26,M1,Mumbai,Darjeeling,256,111
+01-Dec-26,M1,Mumbai,Darjeeling,521,165
+01-Jan-21,M2,Mumbai,Darjeeling,92,14
+01-Feb-21,M2,Mumbai,Darjeeling,110,27
+01-Mar-21,M2,Mumbai,Darjeeling,109,42
+01-Apr-21,M2,Mumbai,Darjeeling,49,12
+01-May-21,M2,Mumbai,Darjeeling,612,231
+01-Jun-21,M2,Mumbai,Darjeeling,49,12
+01-Jul-21,M2,Mumbai,Darjeeling,104,-8
+01-Aug-21,M2,Mumbai,Darjeeling,130,44
+01-Sep-21,M2,Mumbai,Darjeeling,115,11
+01-Oct-21,M2,Mumbai,Darjeeling,230,99
+01-Nov-21,M2,Mumbai,Darjeeling,278,99
+01-Dec-21,M2,Mumbai,Darjeeling,105,38
+01-Jan-22,M2,Mumbai,Darjeeling,60,19
+01-Feb-22,M2,Mumbai,Darjeeling,301,133
+01-Mar-22,M2,Mumbai,Darjeeling,276,120
+01-Apr-22,M2,Mumbai,Darjeeling,521,164
+01-May-22,M2,Mumbai,Darjeeling,96,14
+01-Jun-22,M2,Mumbai,Darjeeling,99,24
+01-Jul-22,M2,Mumbai,Darjeeling,92,33
+01-Aug-22,M2,Mumbai,Darjeeling,58,17
+01-Sep-22,M2,Mumbai,Darjeeling,634,241
+01-Oct-22,M2,Mumbai,Darjeeling,44,9
+01-Nov-22,M2,Mumbai,Darjeeling,125,-3
+01-Dec-22,M2,Mumbai,Darjeeling,125,41
+01-Jan-23,M2,Mumbai,Darjeeling,115,12
+01-Feb-23,M2,Mumbai,Darjeeling,230,99
+01-Mar-23,M2,Mumbai,Darjeeling,286,104
+01-Apr-23,M2,Mumbai,Darjeeling,110,41
+01-May-23,M2,Mumbai,Darjeeling,57,16
+01-Jun-23,M2,Mumbai,Darjeeling,312,138
+01-Jul-23,M2,Mumbai,Darjeeling,256,112
+01-Aug-23,M2,Mumbai,Darjeeling,532,167
+01-Sep-23,M2,Mumbai,Darjeeling,103,17
+01-Oct-23,M2,Mumbai,Darjeeling,90,21
+01-Nov-23,M2,Mumbai,Darjeeling,87,32
+01-Dec-23,M2,Mumbai,Darjeeling,61,17
+01-Jan-24,M2,Mumbai,Darjeeling,678,258
+01-Feb-24,M2,Mumbai,Darjeeling,44,9
+01-Mar-24,M2,Mumbai,Darjeeling,141,0
+01-Apr-24,M2,Mumbai,Darjeeling,104,29
+01-May-24,M2,Mumbai,Darjeeling,109,9
+01-Jun-24,M2,Mumbai,Darjeeling,245,105
+01-Jul-24,M2,Mumbai,Darjeeling,286,103
+01-Aug-24,M2,Mumbai,Darjeeling,114,44
+01-Sep-24,M2,Mumbai,Darjeeling,55,16
+01-Oct-24,M2,Mumbai,Darjeeling,323,144
+01-Nov-24,M2,Mumbai,Darjeeling,301,133
+01-Dec-24,M2,Mumbai,Darjeeling,532,167
+01-Jan-25,M2,Mumbai,Darjeeling,105,19
+01-Feb-25,M2,Mumbai,Darjeeling,90,20
+01-Mar-25,M2,Mumbai,Darjeeling,83,28
+01-Apr-25,M2,Mumbai,Darjeeling,63,20
+01-May-25,M2,Mumbai,Darjeeling,687,262
+01-Jun-25,M2,Mumbai,Darjeeling,41,9
+01-Jul-25,M2,Mumbai,Darjeeling,151,2
+01-Aug-25,M2,Mumbai,Darjeeling,126,42
+01-Sep-25,M2,Mumbai,Darjeeling,102,7
+01-Oct-25,M2,Mumbai,Darjeeling,199,84
+01-Nov-25,M2,Mumbai,Darjeeling,249,87
+01-Dec-25,M2,Mumbai,Darjeeling,87,32
+01-Jan-26,M2,Mumbai,Darjeeling,72,23
+01-Feb-26,M2,Mumbai,Darjeeling,245,106
+01-Mar-26,M2,Mumbai,Darjeeling,302,134
+01-Apr-26,M2,Mumbai,Darjeeling,498,155
+01-May-26,M2,Mumbai,Darjeeling,91,13
+01-Jun-26,M2,Mumbai,Darjeeling,113,31
+01-Jul-26,M2,Mumbai,Darjeeling,108,41
+01-Aug-26,M2,Mumbai,Darjeeling,48,12
+01-Sep-26,M2,Mumbai,Darjeeling,589,221
+01-Oct-26,M2,Mumbai,Darjeeling,50,13
+01-Nov-26,M2,Mumbai,Darjeeling,106,-7
+01-Dec-26,M2,Mumbai,Darjeeling,151,54
+01-Jan-21,B1,Banglore,Darjeeling,120,13
+01-Feb-21,B1,Banglore,Darjeeling,187,78
+01-Mar-21,B1,Banglore,Darjeeling,205,65
+01-Apr-21,B1,Banglore,Darjeeling,94,35
+01-May-21,B1,Banglore,Darjeeling,66,20
+01-Jun-21,B1,Banglore,Darjeeling,265,115
+01-Jul-21,B1,Banglore,Darjeeling,302,134
+01-Aug-21,B1,Banglore,Darjeeling,478,149
+01-Sep-21,B1,Banglore,Darjeeling,92,13
+01-Oct-21,B1,Banglore,Darjeeling,113,30
+01-Nov-21,B1,Banglore,Darjeeling,99,36
+01-Dec-21,B1,Banglore,Darjeeling,52,14
+01-Jan-22,B1,Banglore,Darjeeling,598,224
+01-Feb-22,B1,Banglore,Darjeeling,53,16
+01-Mar-22,B1,Banglore,Darjeeling,109,-6
+01-Apr-22,B1,Banglore,Darjeeling,159,57
+01-May-22,B1,Banglore,Darjeeling,124,15
+01-Jun-22,B1,Banglore,Darjeeling,123,48
+01-Jul-22,B1,Banglore,Darjeeling,197,62
+01-Aug-22,B1,Banglore,Darjeeling,70,23
+01-Sep-22,B1,Banglore,Darjeeling,88,31
+01-Oct-22,B1,Banglore,Darjeeling,198,84
+01-Nov-22,B1,Banglore,Darjeeling,290,128
+01-Dec-22,B1,Banglore,Darjeeling,423,129
+01-Jan-23,B1,Banglore,Darjeeling,82,9
+01-Feb-23,B1,Banglore,Darjeeling,120,33
+01-Mar-23,B1,Banglore,Darjeeling,132,51
+01-Apr-23,B1,Banglore,Darjeeling,39,8
+01-May-23,B1,Banglore,Darjeeling,532,196
+01-Jun-23,B1,Banglore,Darjeeling,80,28
+01-Jul-23,B1,Banglore,Darjeeling,106,-7
+01-Aug-23,B1,Banglore,Darjeeling,141,49
+01-Sep-23,B1,Banglore,Darjeeling,103,6
+01-Oct-23,B1,Banglore,Darjeeling,133,53
+01-Nov-23,B1,Banglore,Darjeeling,221,72
+01-Dec-23,B1,Banglore,Darjeeling,75,26
+01-Jan-24,B1,Banglore,Darjeeling,82,29
+01-Feb-24,B1,Banglore,Darjeeling,210,89
+01-Mar-24,B1,Banglore,Darjeeling,302,134
+01-Apr-24,B1,Banglore,Darjeeling,501,156
+01-May-24,B1,Banglore,Darjeeling,89,11
+01-Jun-24,B1,Banglore,Darjeeling,106,28
+01-Jul-24,B1,Banglore,Darjeeling,123,47
+01-Aug-24,B1,Banglore,Darjeeling,41,10
+01-Sep-24,B1,Banglore,Darjeeling,576,215
+01-Oct-24,B1,Banglore,Darjeeling,73,25
+01-Nov-24,B1,Banglore,Darjeeling,118,-4
+01-Dec-24,B1,Banglore,Darjeeling,107,30
+01-Jan-25,B1,Banglore,Darjeeling,145,26
+01-Feb-25,B1,Banglore,Darjeeling,150,83
+01-Mar-25,B1,Banglore,Darjeeling,235,106
+01-Apr-25,B1,Banglore,Darjeeling,90,44
+01-May-25,B1,Banglore,Darjeeling,90,45
+01-Jun-25,B1,Banglore,Darjeeling,262,157
+01-Jul-25,B1,Banglore,Darjeeling,245,146
+01-Aug-25,B1,Banglore,Darjeeling,510,220
+01-Sep-25,B1,Banglore,Darjeeling,92,14
+01-Oct-25,B1,Banglore,Darjeeling,168,73
+01-Nov-25,B1,Banglore,Darjeeling,138,73
+01-Dec-25,B1,Banglore,Darjeeling,50,16
+01-Jan-26,B1,Banglore,Darjeeling,611,316
+01-Feb-26,B1,Banglore,Darjeeling,90,44
+01-Mar-26,B1,Banglore,Darjeeling,101,-16
+01-Apr-26,B1,Banglore,Darjeeling,201,109
+01-May-26,B1,Banglore,Darjeeling,141,27
+01-Jun-26,B1,Banglore,Darjeeling,201,117
+01-Jul-26,B1,Banglore,Darjeeling,213,92
+01-Aug-26,B1,Banglore,Darjeeling,85,42
+01-Sep-26,B1,Banglore,Darjeeling,85,42
+01-Oct-26,B1,Banglore,Darjeeling,247,148
+01-Nov-26,B1,Banglore,Darjeeling,259,157
+01-Dec-26,B1,Banglore,Darjeeling,487,209
+01-Jan-21,B2,Banglore,Darjeeling,87,13
+01-Feb-21,B2,Banglore,Darjeeling,146,61
+01-Mar-21,B2,Banglore,Darjeeling,131,71
+01-Apr-21,B2,Banglore,Darjeeling,48,16
+01-May-21,B2,Banglore,Darjeeling,581,300
+01-Jun-21,B2,Banglore,Darjeeling,60,25
+01-Jul-21,B2,Banglore,Darjeeling,111,-10
+01-Aug-21,B2,Banglore,Darjeeling,185,98
+01-Sep-21,B2,Banglore,Darjeeling,137,24
+01-Oct-21,B2,Banglore,Darjeeling,211,125
+01-Nov-21,B2,Banglore,Darjeeling,224,101
+01-Dec-21,B2,Banglore,Darjeeling,86,40
+01-Jan-22,B2,Banglore,Darjeeling,84,42
+01-Feb-22,B2,Banglore,Darjeeling,249,151
+01-Mar-22,B2,Banglore,Darjeeling,227,135
+01-Apr-22,B2,Banglore,Darjeeling,509,220
+01-May-22,B2,Banglore,Darjeeling,91,16
+01-Jun-22,B2,Banglore,Darjeeling,137,56
+01-Jul-22,B2,Banglore,Darjeeling,129,70
+01-Aug-22,B2,Banglore,Darjeeling,48,16
+01-Sep-22,B2,Banglore,Darjeeling,604,315
+01-Oct-22,B2,Banglore,Darjeeling,56,24
+01-Nov-22,B2,Banglore,Darjeeling,114,-10
+01-Dec-22,B2,Banglore,Darjeeling,178,92
+01-Jan-23,B2,Banglore,Darjeeling,129,19
+01-Feb-23,B2,Banglore,Darjeeling,211,123
+01-Mar-23,B2,Banglore,Darjeeling,237,108
+01-Apr-23,B2,Banglore,Darjeeling,91,45
+01-May-23,B2,Banglore,Darjeeling,80,39
+01-Jun-23,B2,Banglore,Darjeeling,261,156
+01-Jul-23,B2,Banglore,Darjeeling,238,142
+01-Aug-23,B2,Banglore,Darjeeling,509,220
+01-Sep-23,B2,Banglore,Darjeeling,94,16
+01-Oct-23,B2,Banglore,Darjeeling,121,46
+01-Nov-23,B2,Banglore,Darjeeling,123,64
+01-Dec-23,B2,Banglore,Darjeeling,50,18
+01-Jan-24,B2,Banglore,Darjeeling,626,325
+01-Feb-24,B2,Banglore,Darjeeling,56,22
+01-Mar-24,B2,Banglore,Darjeeling,114,-9
+01-Apr-24,B2,Banglore,Darjeeling,142,67
+01-May-24,B2,Banglore,Darjeeling,117,17
+01-Jun-24,B2,Banglore,Darjeeling,208,121
+01-Jul-24,B2,Banglore,Darjeeling,233,109
+01-Aug-24,B2,Banglore,Darjeeling,88,44
+01-Sep-24,B2,Banglore,Darjeeling,70,30
+01-Oct-24,B2,Banglore,Darjeeling,254,155
+01-Nov-24,B2,Banglore,Darjeeling,254,153
+01-Dec-24,B2,Banglore,Darjeeling,516,228
+01-Jan-25,B2,Banglore,Darjeeling,91,19
+01-Feb-25,B2,Banglore,Darjeeling,109,37
+01-Mar-25,B2,Banglore,Darjeeling,108,58
+01-Apr-25,B2,Banglore,Darjeeling,49,17
+01-May-25,B2,Banglore,Darjeeling,607,319
+01-Jun-25,B2,Banglore,Darjeeling,49,17
+01-Jul-25,B2,Banglore,Darjeeling,103,-11
+01-Aug-25,B2,Banglore,Darjeeling,129,61
+01-Sep-25,B2,Banglore,Darjeeling,114,15
+01-Oct-25,B2,Banglore,Darjeeling,228,137
+01-Nov-25,B2,Banglore,Darjeeling,276,137
+01-Dec-25,B2,Banglore,Darjeeling,104,52
+01-Jan-26,B2,Banglore,Darjeeling,59,26
+01-Feb-26,B2,Banglore,Darjeeling,298,184
+01-Mar-26,B2,Banglore,Darjeeling,274,166
+01-Apr-26,B2,Banglore,Darjeeling,516,226
+01-May-26,B2,Banglore,Darjeeling,95,19
+01-Jun-26,B2,Banglore,Darjeeling,98,33
+01-Jul-26,B2,Banglore,Darjeeling,91,46
+01-Aug-26,B2,Banglore,Darjeeling,57,23
+01-Sep-26,B2,Banglore,Darjeeling,628,333
+01-Oct-26,B2,Banglore,Darjeeling,44,12
+01-Nov-26,B2,Banglore,Darjeeling,124,-4
+01-Dec-26,B2,Banglore,Darjeeling,124,57
+01-Jan-21,H1,Hyderabad,Darjeeling,114,17
+01-Feb-21,H1,Hyderabad,Darjeeling,228,137
+01-Mar-21,H1,Hyderabad,Darjeeling,283,144
+01-Apr-21,H1,Hyderabad,Darjeeling,109,57
+01-May-21,H1,Hyderabad,Darjeeling,56,22
+01-Jun-21,H1,Hyderabad,Darjeeling,309,190
+01-Jul-21,H1,Hyderabad,Darjeeling,254,155
+01-Aug-21,H1,Hyderabad,Darjeeling,527,230
+01-Sep-21,H1,Hyderabad,Darjeeling,102,23
+01-Oct-21,H1,Hyderabad,Darjeeling,89,29
+01-Nov-21,H1,Hyderabad,Darjeeling,86,44
+01-Dec-21,H1,Hyderabad,Darjeeling,60,23
+01-Jan-22,H1,Hyderabad,Darjeeling,672,356
+01-Feb-22,H1,Hyderabad,Darjeeling,44,12
+01-Mar-22,H1,Hyderabad,Darjeeling,140,0
+01-Apr-22,H1,Hyderabad,Darjeeling,103,40
+01-May-22,H1,Hyderabad,Darjeeling,108,12
+01-Jun-22,H1,Hyderabad,Darjeeling,243,145
+01-Jul-22,H1,Hyderabad,Darjeeling,283,142
+01-Aug-22,H1,Hyderabad,Darjeeling,113,61
+01-Sep-22,H1,Hyderabad,Darjeeling,55,22
+01-Oct-22,H1,Hyderabad,Darjeeling,320,199
+01-Nov-22,H1,Hyderabad,Darjeeling,298,184
+01-Dec-22,H1,Hyderabad,Darjeeling,527,230
+01-Jan-23,H1,Hyderabad,Darjeeling,104,26
+01-Feb-23,H1,Hyderabad,Darjeeling,89,28
+01-Mar-23,H1,Hyderabad,Darjeeling,82,39
+01-Apr-23,H1,Hyderabad,Darjeeling,62,28
+01-May-23,H1,Hyderabad,Darjeeling,681,362
+01-Jun-23,H1,Hyderabad,Darjeeling,41,12
+01-Jul-23,H1,Hyderabad,Darjeeling,150,3
+01-Aug-23,H1,Hyderabad,Darjeeling,125,58
+01-Sep-23,H1,Hyderabad,Darjeeling,109,10
+01-Oct-23,H1,Hyderabad,Darjeeling,212,125
+01-Nov-23,H1,Hyderabad,Darjeeling,265,129
+01-Dec-23,H1,Hyderabad,Darjeeling,93,47
+01-Jan-24,H1,Hyderabad,Darjeeling,77,34
+01-Feb-24,H1,Hyderabad,Darjeeling,261,157
+01-Mar-24,H1,Hyderabad,Darjeeling,322,199
+01-Apr-24,H1,Hyderabad,Darjeeling,531,230
+01-May-24,H1,Hyderabad,Darjeeling,97,19
+01-Jun-24,H1,Hyderabad,Darjeeling,120,46
+01-Jul-24,H1,Hyderabad,Darjeeling,115,61
+01-Aug-24,H1,Hyderabad,Darjeeling,51,18
+01-Sep-24,H1,Hyderabad,Darjeeling,628,328
+01-Oct-24,H1,Hyderabad,Darjeeling,53,19
+01-Nov-24,H1,Hyderabad,Darjeeling,113,-10
+01-Dec-24,H1,Hyderabad,Darjeeling,161,80
+01-Jan-25,H1,Hyderabad,Darjeeling,128,19
+01-Feb-25,H1,Hyderabad,Darjeeling,199,116
+01-Mar-25,H1,Hyderabad,Darjeeling,218,96
+01-Apr-25,H1,Hyderabad,Darjeeling,100,52
+01-May-25,H1,Hyderabad,Darjeeling,70,30
+01-Jun-25,H1,Hyderabad,Darjeeling,282,171
+01-Jul-25,H1,Hyderabad,Darjeeling,322,199
+01-Aug-25,H1,Hyderabad,Darjeeling,509,221
+01-Sep-25,H1,Hyderabad,Darjeeling,98,19
+01-Oct-25,H1,Hyderabad,Darjeeling,120,45
+01-Nov-25,H1,Hyderabad,Darjeeling,106,53
+01-Dec-25,H1,Hyderabad,Darjeeling,55,21
+01-Jan-26,H1,Hyderabad,Darjeeling,637,332
+01-Feb-26,H1,Hyderabad,Darjeeling,56,24
+01-Mar-26,H1,Hyderabad,Darjeeling,116,-9
+01-Apr-26,H1,Hyderabad,Darjeeling,169,85
+01-May-26,H1,Hyderabad,Darjeeling,132,22
+01-Jun-26,H1,Hyderabad,Darjeeling,131,71
+01-Jul-26,H1,Hyderabad,Darjeeling,210,92
+01-Aug-26,H1,Hyderabad,Darjeeling,75,34
+01-Sep-26,H1,Hyderabad,Darjeeling,94,46
+01-Oct-26,H1,Hyderabad,Darjeeling,211,125
+01-Nov-26,H1,Hyderabad,Darjeeling,309,190
+01-Dec-26,H1,Hyderabad,Darjeeling,451,191
+01-Jan-21,M1,Mumbai,Decaf Espresso,180,53
+01-Feb-21,M1,Mumbai,Decaf Espresso,456,140
+01-Mar-21,M1,Mumbai,Decaf Espresso,130,16
+01-Apr-21,M1,Mumbai,Decaf Espresso,180,50
+01-May-21,M1,Mumbai,Decaf Espresso,134,54
+01-Jun-21,M1,Mumbai,Decaf Espresso,546,203
+01-Jul-21,M1,Mumbai,Decaf Espresso,43,10
+01-Aug-21,M1,Mumbai,Decaf Espresso,114,45
+01-Sep-21,M1,Mumbai,Decaf Espresso,110,34
+01-Oct-21,M1,Mumbai,Decaf Espresso,130,30
+01-Nov-21,M1,Mumbai,Decaf Espresso,150,48
+01-Dec-21,M1,Mumbai,Decaf Espresso,82,9
+01-Jan-22,M1,Mumbai,Decaf Espresso,210,67
+01-Feb-22,M1,Mumbai,Decaf Espresso,43,11
+01-Mar-22,M1,Mumbai,Decaf Espresso,341,99
+01-Apr-22,M1,Mumbai,Decaf Espresso,123,47
+01-May-22,M1,Mumbai,Decaf Espresso,150,39
+01-Jun-22,M1,Mumbai,Decaf Espresso,189,59
+01-Jul-22,M1,Mumbai,Decaf Espresso,457,142
+01-Aug-22,M1,Mumbai,Decaf Espresso,132,18
+01-Sep-22,M1,Mumbai,Decaf Espresso,180,51
+01-Oct-22,M1,Mumbai,Decaf Espresso,189,80
+01-Nov-22,M1,Mumbai,Decaf Espresso,545,202
+01-Dec-22,M1,Mumbai,Decaf Espresso,43,32
+01-Jan-23,M1,Mumbai,Decaf Espresso,103,38
+01-Feb-23,M1,Mumbai,Decaf Espresso,110,35
+01-Mar-23,M1,Mumbai,Decaf Espresso,130,29
+01-Apr-23,M1,Mumbai,Decaf Espresso,137,41
+01-May-23,M1,Mumbai,Decaf Espresso,82,8
+01-Jun-23,M1,Mumbai,Decaf Espresso,200,63
+01-Jul-23,M1,Mumbai,Decaf Espresso,47,11
+01-Aug-23,M1,Mumbai,Decaf Espresso,340,99
+01-Sep-23,M1,Mumbai,Decaf Espresso,123,48
+01-Oct-23,M1,Mumbai,Decaf Espresso,154,41
+01-Nov-23,M1,Mumbai,Decaf Espresso,180,54
+01-Dec-23,M1,Mumbai,Decaf Espresso,478,148
+01-Jan-24,M1,Mumbai,Decaf Espresso,129,15
+01-Feb-24,M1,Mumbai,Decaf Espresso,188,54
+01-Mar-24,M1,Mumbai,Decaf Espresso,198,84
+01-Apr-24,M1,Mumbai,Decaf Espresso,567,211
+01-May-24,M1,Mumbai,Decaf Espresso,43,32
+01-Jun-24,M1,Mumbai,Decaf Espresso,118,45
+01-Jul-24,M1,Mumbai,Decaf Espresso,112,34
+01-Aug-24,M1,Mumbai,Decaf Espresso,124,26
+01-Sep-24,M1,Mumbai,Decaf Espresso,129,38
+01-Oct-24,M1,Mumbai,Decaf Espresso,85,11
+01-Nov-24,M1,Mumbai,Decaf Espresso,210,68
+01-Dec-24,M1,Mumbai,Decaf Espresso,41,10
+01-Jan-25,M1,Mumbai,Decaf Espresso,325,94
+01-Feb-25,M1,Mumbai,Decaf Espresso,121,47
+01-Mar-25,M1,Mumbai,Decaf Espresso,155,40
+01-Apr-25,M1,Mumbai,Decaf Espresso,170,48
+01-May-25,M1,Mumbai,Decaf Espresso,478,149
+01-Jun-25,M1,Mumbai,Decaf Espresso,121,13
+01-Jul-25,M1,Mumbai,Decaf Espresso,195,58
+01-Aug-25,M1,Mumbai,Decaf Espresso,198,84
+01-Sep-25,M1,Mumbai,Decaf Espresso,587,220
+01-Oct-25,M1,Mumbai,Decaf Espresso,43,32
+01-Nov-25,M1,Mumbai,Decaf Espresso,112,44
+01-Dec-25,M1,Mumbai,Decaf Espresso,103,32
+01-Jan-26,M1,Mumbai,Decaf Espresso,119,24
+01-Feb-26,M1,Mumbai,Decaf Espresso,114,31
+01-Mar-26,M1,Mumbai,Decaf Espresso,88,12
+01-Apr-26,M1,Mumbai,Decaf Espresso,222,74
+01-May-26,M1,Mumbai,Decaf Espresso,43,10
+01-Jun-26,M1,Mumbai,Decaf Espresso,325,93
+01-Jul-26,M1,Mumbai,Decaf Espresso,115,43
+01-Aug-26,M1,Mumbai,Decaf Espresso,151,39
+01-Sep-26,M1,Mumbai,Decaf Espresso,160,44
+01-Oct-26,M1,Mumbai,Decaf Espresso,521,165
+01-Nov-26,M1,Mumbai,Decaf Espresso,118,11
+01-Dec-26,M1,Mumbai,Decaf Espresso,204,62
+01-Jan-21,M2,Mumbai,Decaf Espresso,210,88
+01-Feb-21,M2,Mumbai,Decaf Espresso,612,230
+01-Mar-21,M2,Mumbai,Decaf Espresso,43,31
+01-Apr-21,M2,Mumbai,Decaf Espresso,97,36
+01-May-21,M2,Mumbai,Decaf Espresso,110,35
+01-Jun-21,M2,Mumbai,Decaf Espresso,113,22
+01-Jul-21,M2,Mumbai,Decaf Espresso,110,28
+01-Aug-21,M2,Mumbai,Decaf Espresso,92,14
+01-Sep-21,M2,Mumbai,Decaf Espresso,235,79
+01-Oct-21,M2,Mumbai,Decaf Espresso,49,13
+01-Nov-21,M2,Mumbai,Decaf Espresso,298,83
+01-Dec-21,M2,Mumbai,Decaf Espresso,109,42
+01-Jan-22,M2,Mumbai,Decaf Espresso,170,47
+01-Feb-22,M2,Mumbai,Decaf Espresso,135,33
+01-Mar-22,M2,Mumbai,Decaf Espresso,521,164
+01-Apr-22,M2,Mumbai,Decaf Espresso,115,12
+01-May-22,M2,Mumbai,Decaf Espresso,212,63
+01-Jun-22,M2,Mumbai,Decaf Espresso,230,99
+01-Jul-22,M2,Mumbai,Decaf Espresso,634,240
+01-Aug-22,M2,Mumbai,Decaf Espresso,43,31
+01-Sep-22,M2,Mumbai,Decaf Espresso,89,31
+01-Oct-22,M2,Mumbai,Decaf Espresso,110,34
+01-Nov-22,M2,Mumbai,Decaf Espresso,108,19
+01-Dec-22,M2,Mumbai,Decaf Espresso,99,23
+01-Jan-23,M2,Mumbai,Decaf Espresso,96,14
+01-Feb-23,M2,Mumbai,Decaf Espresso,278,99
+01-Mar-23,M2,Mumbai,Decaf Espresso,53,15
+01-Apr-23,M2,Mumbai,Decaf Espresso,298,83
+01-May-23,M2,Mumbai,Decaf Espresso,92,34
+01-Jun-23,M2,Mumbai,Decaf Espresso,177,49
+01-Jul-23,M2,Mumbai,Decaf Espresso,131,31
+01-Aug-23,M2,Mumbai,Decaf Espresso,532,168
+01-Sep-23,M2,Mumbai,Decaf Espresso,115,11
+01-Oct-23,M2,Mumbai,Decaf Espresso,227,71
+01-Nov-23,M2,Mumbai,Decaf Espresso,230,98
+01-Dec-23,M2,Mumbai,Decaf Espresso,678,259
+01-Jan-24,M2,Mumbai,Decaf Espresso,43,31
+01-Feb-24,M2,Mumbai,Decaf Espresso,96,35
+01-Mar-24,M2,Mumbai,Decaf Espresso,115,36
+01-Apr-24,M2,Mumbai,Decaf Espresso,100,16
+01-May-24,M2,Mumbai,Decaf Espresso,90,21
+01-Jun-24,M2,Mumbai,Decaf Espresso,103,18
+01-Jul-24,M2,Mumbai,Decaf Espresso,286,103
+01-Aug-24,M2,Mumbai,Decaf Espresso,49,12
+01-Sep-24,M2,Mumbai,Decaf Espresso,291,81
+01-Oct-24,M2,Mumbai,Decaf Espresso,87,31
+01-Nov-24,M2,Mumbai,Decaf Espresso,189,56
+01-Dec-24,M2,Mumbai,Decaf Espresso,131,30
+01-Jan-25,M2,Mumbai,Decaf Espresso,532,167
+01-Feb-25,M2,Mumbai,Decaf Espresso,109,8
+01-Mar-25,M2,Mumbai,Decaf Espresso,231,73
+01-Apr-25,M2,Mumbai,Decaf Espresso,245,105
+01-May-25,M2,Mumbai,Decaf Espresso,687,262
+01-Jun-25,M2,Mumbai,Decaf Espresso,43,31
+01-Jul-25,M2,Mumbai,Decaf Espresso,80,28
+01-Aug-25,M2,Mumbai,Decaf Espresso,69,18
+01-Sep-25,M2,Mumbai,Decaf Espresso,98,16
+01-Oct-25,M2,Mumbai,Decaf Espresso,90,21
+01-Nov-25,M2,Mumbai,Decaf Espresso,105,18
+01-Dec-25,M2,Mumbai,Decaf Espresso,286,103
+01-Jan-26,M2,Mumbai,Decaf Espresso,58,17
+01-Feb-26,M2,Mumbai,Decaf Espresso,291,81
+01-Mar-26,M2,Mumbai,Decaf Espresso,83,28
+01-Apr-26,M2,Mumbai,Decaf Espresso,226,71
+01-May-26,M2,Mumbai,Decaf Espresso,150,39
+01-Jun-26,M2,Mumbai,Decaf Espresso,498,155
+01-Jul-26,M2,Mumbai,Decaf Espresso,102,6
+01-Aug-26,M2,Mumbai,Decaf Espresso,199,58
+01-Sep-26,M2,Mumbai,Decaf Espresso,199,85
+01-Oct-26,M2,Mumbai,Decaf Espresso,589,220
+01-Nov-26,M2,Mumbai,Decaf Espresso,43,32
+01-Dec-26,M2,Mumbai,Decaf Espresso,79,27
+01-Jan-21,M3,Mumbai,Decaf Espresso,76,21
+01-Feb-21,M3,Mumbai,Decaf Espresso,113,23
+01-Mar-21,M3,Mumbai,Decaf Espresso,113,31
+01-Apr-21,M3,Mumbai,Decaf Espresso,91,13
+01-May-21,M3,Mumbai,Decaf Espresso,249,87
+01-Jun-21,M3,Mumbai,Decaf Espresso,58,17
+01-Jul-21,M3,Mumbai,Decaf Espresso,310,87
+01-Aug-21,M3,Mumbai,Decaf Espresso,108,40
+01-Sep-21,M3,Mumbai,Decaf Espresso,182,53
+01-Oct-21,M3,Mumbai,Decaf Espresso,182,56
+01-Nov-21,M3,Mumbai,Decaf Espresso,478,149
+01-Dec-21,M3,Mumbai,Decaf Espresso,120,12
+01-Jan-22,M3,Mumbai,Decaf Espresso,202,60
+01-Feb-22,M3,Mumbai,Decaf Espresso,187,78
+01-Mar-22,M3,Mumbai,Decaf Espresso,598,225
+01-Apr-22,M3,Mumbai,Decaf Espresso,43,31
+01-May-22,M3,Mumbai,Decaf Espresso,79,28
+01-Jun-22,M3,Mumbai,Decaf Espresso,51,10
+01-Jul-22,M3,Mumbai,Decaf Espresso,111,21
+01-Aug-22,M3,Mumbai,Decaf Espresso,113,30
+01-Sep-22,M3,Mumbai,Decaf Espresso,92,14
+01-Oct-22,M3,Mumbai,Decaf Espresso,205,65
+01-Nov-22,M3,Mumbai,Decaf Espresso,58,17
+01-Dec-22,M3,Mumbai,Decaf Espresso,322,91
+01-Jan-23,M3,Mumbai,Decaf Espresso,99,37
+01-Feb-23,M3,Mumbai,Decaf Espresso,174,48
+01-Mar-23,M3,Mumbai,Decaf Espresso,189,58
+01-Apr-23,M3,Mumbai,Decaf Espresso,423,129
+01-May-23,M3,Mumbai,Decaf Espresso,124,16
+01-Jun-23,M3,Mumbai,Decaf Espresso,180,51
+01-Jul-23,M3,Mumbai,Decaf Espresso,123,48
+01-Aug-23,M3,Mumbai,Decaf Espresso,532,197
+01-Sep-23,M3,Mumbai,Decaf Espresso,43,31
+01-Oct-23,M3,Mumbai,Decaf Espresso,81,27
+01-Nov-23,M3,Mumbai,Decaf Espresso,52,11
+01-Dec-23,M3,Mumbai,Decaf Espresso,124,26
+01-Jan-24,M3,Mumbai,Decaf Espresso,120,34
+01-Feb-24,M3,Mumbai,Decaf Espresso,82,8
+01-Mar-24,M3,Mumbai,Decaf Espresso,197,62
+01-Apr-24,M3,Mumbai,Decaf Espresso,56,17
+01-May-24,M3,Mumbai,Decaf Espresso,363,108
+01-Jun-24,M3,Mumbai,Decaf Espresso,132,52
+01-Jul-24,M3,Mumbai,Decaf Espresso,164,45
+01-Aug-24,M3,Mumbai,Decaf Espresso,168,47
+01-Sep-24,M3,Mumbai,Decaf Espresso,501,157
+01-Oct-24,M3,Mumbai,Decaf Espresso,103,6
+01-Nov-24,M3,Mumbai,Decaf Espresso,195,58
+01-Dec-24,M3,Mumbai,Decaf Espresso,133,52
+01-Jan-25,M3,Mumbai,Decaf Espresso,576,216
+01-Feb-25,M3,Mumbai,Decaf Espresso,43,32
+01-Mar-25,M3,Mumbai,Decaf Espresso,77,27
+01-Apr-25,M3,Mumbai,Decaf Espresso,56,13
+01-May-25,M3,Mumbai,Decaf Espresso,114,21
+01-Jun-25,M3,Mumbai,Decaf Espresso,106,27
+01-Jul-25,M3,Mumbai,Decaf Espresso,89,12
+01-Aug-25,M3,Mumbai,Decaf Espresso,221,72
+01-Sep-25,M3,Mumbai,Decaf Espresso,58,17
+01-Oct-25,M3,Mumbai,Decaf Espresso,306,87
+01-Nov-25,M3,Mumbai,Decaf Espresso,123,47
+01-Dec-25,M3,Mumbai,Decaf Espresso,176,51
+01-Jan-26,M3,Mumbai,Decaf Espresso,201,83
+01-Feb-26,M3,Mumbai,Decaf Espresso,510,218
+01-Mar-26,M3,Mumbai,Decaf Espresso,145,25
+01-Apr-26,M3,Mumbai,Decaf Espresso,201,78
+01-May-26,M3,Mumbai,Decaf Espresso,150,84
+01-Jun-26,M3,Mumbai,Decaf Espresso,611,316
+01-Jul-26,M3,Mumbai,Decaf Espresso,48,16
+01-Aug-26,M3,Mumbai,Decaf Espresso,128,70
+01-Sep-26,M3,Mumbai,Decaf Espresso,123,53
+01-Oct-26,M3,Mumbai,Decaf Espresso,145,47
+01-Nov-26,M3,Mumbai,Decaf Espresso,168,75
+01-Dec-26,M3,Mumbai,Decaf Espresso,92,14
+01-Jan-21,B1,Banglore,Decaf Espresso,235,104
+01-Feb-21,B1,Banglore,Decaf Espresso,48,17
+01-Mar-21,B1,Banglore,Decaf Espresso,382,154
+01-Apr-21,B1,Banglore,Decaf Espresso,138,73
+01-May-21,B1,Banglore,Decaf Espresso,168,61
+01-Jun-21,B1,Banglore,Decaf Espresso,201,88
+01-Jul-21,B1,Banglore,Decaf Espresso,487,211
+01-Aug-21,B1,Banglore,Decaf Espresso,141,27
+01-Sep-21,B1,Banglore,Decaf Espresso,192,76
+01-Oct-21,B1,Banglore,Decaf Espresso,201,119
+01-Nov-21,B1,Banglore,Decaf Espresso,581,300
+01-Dec-21,B1,Banglore,Decaf Espresso,46,47
+01-Jan-22,B1,Banglore,Decaf Espresso,110,56
+01-Feb-22,B1,Banglore,Decaf Espresso,117,52
+01-Mar-22,B1,Banglore,Decaf Espresso,139,43
+01-Apr-22,B1,Banglore,Decaf Espresso,146,61
+01-May-22,B1,Banglore,Decaf Espresso,87,12
+01-Jun-22,B1,Banglore,Decaf Espresso,213,93
+01-Jul-22,B1,Banglore,Decaf Espresso,50,16
+01-Aug-22,B1,Banglore,Decaf Espresso,362,147
+01-Sep-22,B1,Banglore,Decaf Espresso,131,71
+01-Oct-22,B1,Banglore,Decaf Espresso,164,61
+01-Nov-22,B1,Banglore,Decaf Espresso,192,80
+01-Dec-22,B1,Banglore,Decaf Espresso,509,220
+01-Jan-23,B1,Banglore,Decaf Espresso,137,22
+01-Feb-23,B1,Banglore,Decaf Espresso,200,80
+01-Mar-23,B1,Banglore,Decaf Espresso,211,125
+01-Apr-23,B1,Banglore,Decaf Espresso,604,313
+01-May-23,B1,Banglore,Decaf Espresso,46,47
+01-Jun-23,B1,Banglore,Decaf Espresso,126,67
+01-Jul-23,B1,Banglore,Decaf Espresso,119,50
+01-Aug-23,B1,Banglore,Decaf Espresso,132,39
+01-Sep-23,B1,Banglore,Decaf Espresso,137,56
+01-Oct-23,B1,Banglore,Decaf Espresso,91,16
+01-Nov-23,B1,Banglore,Decaf Espresso,224,101
+01-Dec-23,B1,Banglore,Decaf Espresso,44,15
+01-Jan-24,B1,Banglore,Decaf Espresso,346,140
+01-Feb-24,B1,Banglore,Decaf Espresso,129,70
+01-Mar-24,B1,Banglore,Decaf Espresso,165,59
+01-Apr-24,B1,Banglore,Decaf Espresso,181,71
+01-May-24,B1,Banglore,Decaf Espresso,509,221
+01-Jun-24,B1,Banglore,Decaf Espresso,129,19
+01-Jul-24,B1,Banglore,Decaf Espresso,208,86
+01-Aug-24,B1,Banglore,Decaf Espresso,211,125
+01-Sep-24,B1,Banglore,Decaf Espresso,626,326
+01-Oct-24,B1,Banglore,Decaf Espresso,46,47
+01-Nov-24,B1,Banglore,Decaf Espresso,119,65
+01-Dec-24,B1,Banglore,Decaf Espresso,110,47
+01-Jan-25,B1,Banglore,Decaf Espresso,127,36
+01-Feb-25,B1,Banglore,Decaf Espresso,121,46
+01-Mar-25,B1,Banglore,Decaf Espresso,94,18
+01-Apr-25,B1,Banglore,Decaf Espresso,237,110
+01-May-25,B1,Banglore,Decaf Espresso,46,15
+01-Jun-25,B1,Banglore,Decaf Espresso,346,138
+01-Jul-25,B1,Banglore,Decaf Espresso,123,64
+01-Aug-25,B1,Banglore,Decaf Espresso,161,58
+01-Sep-25,B1,Banglore,Decaf Espresso,159,61
+01-Oct-25,B1,Banglore,Decaf Espresso,516,228
+01-Nov-25,B1,Banglore,Decaf Espresso,117,15
+01-Dec-25,B1,Banglore,Decaf Espresso,202,86
+01-Jan-26,B1,Banglore,Decaf Espresso,208,121
+01-Feb-26,B1,Banglore,Decaf Espresso,607,317
+01-Mar-26,B1,Banglore,Decaf Espresso,43,43
+01-Apr-26,B1,Banglore,Decaf Espresso,96,50
+01-May-26,B1,Banglore,Decaf Espresso,109,48
+01-Jun-26,B1,Banglore,Decaf Espresso,112,30
+01-Jul-26,B1,Banglore,Decaf Espresso,109,39
+01-Aug-26,B1,Banglore,Decaf Espresso,91,19
+01-Sep-26,B1,Banglore,Decaf Espresso,233,109
+01-Oct-26,B1,Banglore,Decaf Espresso,49,18
+01-Nov-26,B1,Banglore,Decaf Espresso,295,115
+01-Dec-26,B1,Banglore,Decaf Espresso,108,58
+01-Jan-21,B2,Banglore,Decaf Espresso,168,65
+01-Feb-21,B2,Banglore,Decaf Espresso,134,46
+01-Mar-21,B2,Banglore,Decaf Espresso,516,226
+01-Apr-21,B2,Banglore,Decaf Espresso,114,17
+01-May-21,B2,Banglore,Decaf Espresso,210,87
+01-Jun-21,B2,Banglore,Decaf Espresso,228,137
+01-Jul-21,B2,Banglore,Decaf Espresso,628,331
+01-Aug-21,B2,Banglore,Decaf Espresso,43,43
+01-Sep-21,B2,Banglore,Decaf Espresso,88,43
+01-Oct-21,B2,Banglore,Decaf Espresso,109,47
+01-Nov-21,B2,Banglore,Decaf Espresso,107,26
+01-Dec-21,B2,Banglore,Decaf Espresso,98,32
+01-Jan-22,B2,Banglore,Decaf Espresso,95,19
+01-Feb-22,B2,Banglore,Decaf Espresso,276,137
+01-Mar-22,B2,Banglore,Decaf Espresso,53,21
+01-Apr-22,B2,Banglore,Decaf Espresso,295,115
+01-May-22,B2,Banglore,Decaf Espresso,91,47
+01-Jun-22,B2,Banglore,Decaf Espresso,175,68
+01-Jul-22,B2,Banglore,Decaf Espresso,130,43
+01-Aug-22,B2,Banglore,Decaf Espresso,527,232
+01-Sep-22,B2,Banglore,Decaf Espresso,114,15
+01-Oct-22,B2,Banglore,Decaf Espresso,225,98
+01-Nov-22,B2,Banglore,Decaf Espresso,228,135
+01-Dec-22,B2,Banglore,Decaf Espresso,672,357
+01-Jan-23,B2,Banglore,Decaf Espresso,43,43
+01-Feb-23,B2,Banglore,Decaf Espresso,95,48
+01-Mar-23,B2,Banglore,Decaf Espresso,114,50
+01-Apr-23,B2,Banglore,Decaf Espresso,99,22
+01-May-23,B2,Banglore,Decaf Espresso,89,29
+01-Jun-23,B2,Banglore,Decaf Espresso,102,25
+01-Jul-23,B2,Banglore,Decaf Espresso,283,142
+01-Aug-23,B2,Banglore,Decaf Espresso,49,17
+01-Sep-23,B2,Banglore,Decaf Espresso,288,112
+01-Oct-23,B2,Banglore,Decaf Espresso,86,43
+01-Nov-23,B2,Banglore,Decaf Espresso,187,77
+01-Dec-23,B2,Banglore,Decaf Espresso,130,41
+01-Jan-24,B2,Banglore,Decaf Espresso,527,230
+01-Feb-24,B2,Banglore,Decaf Espresso,108,11
+01-Mar-24,B2,Banglore,Decaf Espresso,229,101
+01-Apr-24,B2,Banglore,Decaf Espresso,243,145
+01-May-24,B2,Banglore,Decaf Espresso,681,362
+01-Jun-24,B2,Banglore,Decaf Espresso,43,43
+01-Jul-24,B2,Banglore,Decaf Espresso,79,39
+01-Aug-24,B2,Banglore,Decaf Espresso,68,25
+01-Sep-24,B2,Banglore,Decaf Espresso,97,22
+01-Oct-24,B2,Banglore,Decaf Espresso,89,29
+01-Nov-24,B2,Banglore,Decaf Espresso,104,25
+01-Dec-24,B2,Banglore,Decaf Espresso,283,142
+01-Jan-25,B2,Banglore,Decaf Espresso,57,23
+01-Feb-25,B2,Banglore,Decaf Espresso,288,112
+01-Mar-25,B2,Banglore,Decaf Espresso,82,39
+01-Apr-25,B2,Banglore,Decaf Espresso,224,98
+01-May-25,B2,Banglore,Decaf Espresso,160,58
+01-Jun-25,B2,Banglore,Decaf Espresso,531,230
+01-Jul-25,B2,Banglore,Decaf Espresso,109,9
+01-Aug-25,B2,Banglore,Decaf Espresso,212,86
+01-Sep-25,B2,Banglore,Decaf Espresso,212,126
+01-Oct-25,B2,Banglore,Decaf Espresso,628,326
+01-Nov-25,B2,Banglore,Decaf Espresso,46,47
+01-Dec-25,B2,Banglore,Decaf Espresso,84,40
+01-Jan-26,B2,Banglore,Decaf Espresso,81,31
+01-Feb-26,B2,Banglore,Decaf Espresso,120,34
+01-Mar-26,B2,Banglore,Decaf Espresso,120,46
+01-Apr-26,B2,Banglore,Decaf Espresso,97,19
+01-May-26,B2,Banglore,Decaf Espresso,265,129
+01-Jun-26,B2,Banglore,Decaf Espresso,62,25
+01-Jul-26,B2,Banglore,Decaf Espresso,330,129
+01-Aug-26,B2,Banglore,Decaf Espresso,115,59
+01-Sep-26,B2,Banglore,Decaf Espresso,194,79
+01-Oct-26,B2,Banglore,Decaf Espresso,194,83
+01-Nov-26,B2,Banglore,Decaf Espresso,509,221
+01-Dec-26,B2,Banglore,Decaf Espresso,128,18
+01-Jan-21,H1,Hyderabad,Decaf Espresso,215,89
+01-Feb-21,H1,Hyderabad,Decaf Espresso,199,116
+01-Mar-21,H1,Hyderabad,Decaf Espresso,637,334
+01-Apr-21,H1,Hyderabad,Decaf Espresso,46,46
+01-May-21,H1,Hyderabad,Decaf Espresso,84,42
+01-Jun-21,H1,Hyderabad,Decaf Espresso,54,15
+01-Jul-21,H1,Hyderabad,Decaf Espresso,118,31
+01-Aug-21,H1,Hyderabad,Decaf Espresso,120,45
+01-Sep-21,H1,Hyderabad,Decaf Espresso,98,21
+01-Oct-21,H1,Hyderabad,Decaf Espresso,218,96
+01-Nov-21,H1,Hyderabad,Decaf Espresso,62,25
+01-Dec-21,H1,Hyderabad,Decaf Espresso,343,135
+01-Jan-22,H1,Hyderabad,Decaf Espresso,106,55
+01-Feb-22,H1,Hyderabad,Decaf Espresso,185,71
+01-Mar-22,H1,Hyderabad,Decaf Espresso,201,86
+01-Apr-22,H1,Hyderabad,Decaf Espresso,451,191
+01-May-22,H1,Hyderabad,Decaf Espresso,132,24
+01-Jun-22,H1,Hyderabad,Decaf Espresso,192,76
+01-Jul-22,H1,Hyderabad,Decaf Espresso,131,71
+01-Aug-22,H1,Hyderabad,Decaf Espresso,567,292
+01-Sep-22,H1,Hyderabad,Decaf Espresso,46,46
+01-Oct-22,H1,Hyderabad,Decaf Espresso,86,40
+01-Nov-22,H1,Hyderabad,Decaf Espresso,55,16
+01-Dec-22,H1,Hyderabad,Decaf Espresso,132,39
+01-Jan-23,H1,Hyderabad,Decaf Espresso,128,50
+01-Feb-23,H1,Hyderabad,Decaf Espresso,87,12
+01-Mar-23,H1,Hyderabad,Decaf Espresso,210,92
+01-Apr-23,H1,Hyderabad,Decaf Espresso,60,25
+01-May-23,H1,Hyderabad,Decaf Espresso,387,160
+01-Jun-23,H1,Hyderabad,Decaf Espresso,141,77
+01-Jul-23,H1,Hyderabad,Decaf Espresso,175,67
+01-Aug-23,H1,Hyderabad,Decaf Espresso,179,70
+01-Sep-23,H1,Hyderabad,Decaf Espresso,534,233
+01-Oct-23,H1,Hyderabad,Decaf Espresso,110,9
+01-Nov-23,H1,Hyderabad,Decaf Espresso,208,86
+01-Dec-23,H1,Hyderabad,Decaf Espresso,142,77
+01-Jan-24,H1,Hyderabad,Decaf Espresso,614,321
+01-Feb-24,H1,Hyderabad,Decaf Espresso,46,47
+01-Mar-24,H1,Hyderabad,Decaf Espresso,82,40
+01-Apr-24,H1,Hyderabad,Decaf Espresso,60,19
+01-May-24,H1,Hyderabad,Decaf Espresso,121,31
+01-Jun-24,H1,Hyderabad,Decaf Espresso,113,40
+01-Jul-24,H1,Hyderabad,Decaf Espresso,95,18
+01-Aug-24,H1,Hyderabad,Decaf Espresso,236,107
+01-Sep-24,H1,Hyderabad,Decaf Espresso,62,25
+01-Oct-24,H1,Hyderabad,Decaf Espresso,326,129
+01-Nov-24,H1,Hyderabad,Decaf Espresso,131,70
+01-Dec-24,H1,Hyderabad,Decaf Espresso,188,76
+01-Jan-25,H1,Hyderabad,Decaf Espresso,42,13
+01-Feb-25,H1,Hyderabad,Decaf Espresso,147,49
+01-Mar-25,H1,Hyderabad,Decaf Espresso,246,126
+01-Apr-25,H1,Hyderabad,Decaf Espresso,129,19
+01-May-25,H1,Hyderabad,Decaf Espresso,142,79
+01-Jun-25,H1,Hyderabad,Decaf Espresso,614,321
+01-Jul-25,H1,Hyderabad,Decaf Espresso,326,129
+01-Aug-25,H1,Hyderabad,Decaf Espresso,266,31
+01-Sep-25,H1,Hyderabad,Decaf Espresso,106,-30
+01-Oct-25,H1,Hyderabad,Decaf Espresso,70,-332
+01-Nov-25,H1,Hyderabad,Decaf Espresso,322,197
+01-Dec-25,H1,Hyderabad,Decaf Espresso,343,46
+01-Jan-26,H1,Hyderabad,Decaf Espresso,62,25
+01-Feb-26,H1,Hyderabad,Decaf Espresso,131,71
+01-Mar-26,H1,Hyderabad,Decaf Espresso,188,74
+01-Apr-26,H1,Hyderabad,Decaf Espresso,140,-3
+01-May-26,H1,Hyderabad,Decaf Espresso,126,-6
+01-Jun-26,H1,Hyderabad,Decaf Espresso,114,46
+01-Jul-26,H1,Hyderabad,Decaf Espresso,126,-7
+01-Aug-26,H1,Hyderabad,Decaf Espresso,78,36
+01-Sep-26,H1,Hyderabad,Decaf Espresso,44,15
+01-Oct-26,H1,Hyderabad,Decaf Espresso,135,42
+01-Nov-26,H1,Hyderabad,Decaf Espresso,228,114
+01-Dec-26,H1,Hyderabad,Decaf Espresso,155,34
+01-Jan-21,M1,Mumbai,Decaf Irish Cream,234,101
+01-Feb-21,M1,Mumbai,Decaf Irish Cream,234,87
+01-Mar-21,M1,Mumbai,Decaf Irish Cream,150,0
+01-Apr-21,M1,Mumbai,Decaf Irish Cream,200,67
+01-May-21,M1,Mumbai,Decaf Irish Cream,190,68
+01-Jun-21,M1,Mumbai,Decaf Irish Cream,118,-117
+01-Jul-21,M1,Mumbai,Decaf Irish Cream,54,12
+01-Aug-21,M1,Mumbai,Decaf Irish Cream,170,47
+01-Sep-21,M1,Mumbai,Decaf Irish Cream,180,51
+01-Oct-21,M1,Mumbai,Decaf Irish Cream,81,28
+01-Nov-21,M1,Mumbai,Decaf Irish Cream,99,-39
+01-Dec-21,M1,Mumbai,Decaf Irish Cream,80,28
+01-Jan-22,M1,Mumbai,Decaf Irish Cream,62,4
+01-Feb-22,M1,Mumbai,Decaf Irish Cream,140,42
+01-Mar-22,M1,Mumbai,Decaf Irish Cream,190,39
+01-Apr-22,M1,Mumbai,Decaf Irish Cream,190,9
+01-May-22,M1,Mumbai,Decaf Irish Cream,232,99
+01-Jun-22,M1,Mumbai,Decaf Irish Cream,254,95
+01-Jul-22,M1,Mumbai,Decaf Irish Cream,129,-3
+01-Aug-22,M1,Mumbai,Decaf Irish Cream,206,71
+01-Sep-22,M1,Mumbai,Decaf Irish Cream,190,68
+01-Oct-22,M1,Mumbai,Decaf Irish Cream,122,-117
+01-Nov-22,M1,Mumbai,Decaf Irish Cream,54,12
+01-Dec-22,M1,Mumbai,Decaf Irish Cream,165,46
+01-Jan-23,M1,Mumbai,Decaf Irish Cream,180,50
+01-Feb-23,M1,Mumbai,Decaf Irish Cream,115,44
+01-Mar-23,M1,Mumbai,Decaf Irish Cream,102,-31
+01-Apr-23,M1,Mumbai,Decaf Irish Cream,80,29
+01-May-23,M1,Mumbai,Decaf Irish Cream,63,6
+01-Jun-23,M1,Mumbai,Decaf Irish Cream,128,38
+01-Jul-23,M1,Mumbai,Decaf Irish Cream,193,41
+01-Aug-23,M1,Mumbai,Decaf Irish Cream,220,15
+01-Sep-23,M1,Mumbai,Decaf Irish Cream,234,101
+01-Oct-23,M1,Mumbai,Decaf Irish Cream,267,102
+01-Nov-23,M1,Mumbai,Decaf Irish Cream,125,-4
+01-Dec-23,M1,Mumbai,Decaf Irish Cream,214,74
+01-Jan-24,M1,Mumbai,Decaf Irish Cream,193,70
+01-Feb-24,M1,Mumbai,Decaf Irish Cream,127,-121
+01-Mar-24,M1,Mumbai,Decaf Irish Cream,54,12
+01-Apr-24,M1,Mumbai,Decaf Irish Cream,163,45
+01-May-24,M1,Mumbai,Decaf Irish Cream,188,55
+01-Jun-24,M1,Mumbai,Decaf Irish Cream,121,47
+01-Jul-24,M1,Mumbai,Decaf Irish Cream,106,-33
+01-Aug-24,M1,Mumbai,Decaf Irish Cream,79,27
+01-Sep-24,M1,Mumbai,Decaf Irish Cream,63,6
+01-Oct-24,M1,Mumbai,Decaf Irish Cream,121,34
+01-Nov-24,M1,Mumbai,Decaf Irish Cream,189,38
+01-Dec-24,M1,Mumbai,Decaf Irish Cream,227,16
+01-Jan-25,M1,Mumbai,Decaf Irish Cream,245,105
+01-Feb-25,M1,Mumbai,Decaf Irish Cream,301,116
+01-Mar-25,M1,Mumbai,Decaf Irish Cream,125,-3
+01-Apr-25,M1,Mumbai,Decaf Irish Cream,267,98
+01-May-25,M1,Mumbai,Decaf Irish Cream,178,63
+01-Jun-25,M1,Mumbai,Decaf Irish Cream,159,-141
+01-Jul-25,M1,Mumbai,Decaf Irish Cream,49,9
+01-Aug-25,M1,Mumbai,Decaf Irish Cream,167,47
+01-Sep-25,M1,Mumbai,Decaf Irish Cream,195,58
+01-Oct-25,M1,Mumbai,Decaf Irish Cream,121,48
+01-Nov-25,M1,Mumbai,Decaf Irish Cream,133,-11
+01-Dec-25,M1,Mumbai,Decaf Irish Cream,75,25
+01-Jan-26,M1,Mumbai,Decaf Irish Cream,61,4
+01-Feb-26,M1,Mumbai,Decaf Irish Cream,107,28
+01-Mar-26,M1,Mumbai,Decaf Irish Cream,178,34
+01-Apr-26,M1,Mumbai,Decaf Irish Cream,227,17
+01-May-26,M1,Mumbai,Decaf Irish Cream,256,112
+01-Jun-26,M1,Mumbai,Decaf Irish Cream,312,122
+01-Jul-26,M1,Mumbai,Decaf Irish Cream,128,-2
+01-Aug-26,M1,Mumbai,Decaf Irish Cream,273,100
+01-Sep-26,M1,Mumbai,Decaf Irish Cream,190,68
+01-Oct-26,M1,Mumbai,Decaf Irish Cream,163,-142
+01-Nov-26,M1,Mumbai,Decaf Irish Cream,52,11
+01-Dec-26,M1,Mumbai,Decaf Irish Cream,148,38
+01-Jan-21,M2,Mumbai,Decaf Irish Cream,204,62
+01-Feb-21,M2,Mumbai,Decaf Irish Cream,130,52
+01-Mar-21,M2,Mumbai,Decaf Irish Cream,136,-15
+01-Apr-21,M2,Mumbai,Decaf Irish Cream,71,22
+01-May-21,M2,Mumbai,Decaf Irish Cream,68,6
+01-Jun-21,M2,Mumbai,Decaf Irish Cream,103,25
+01-Jul-21,M2,Mumbai,Decaf Irish Cream,173,34
+01-Aug-21,M2,Mumbai,Decaf Irish Cream,221,16
+01-Sep-21,M2,Mumbai,Decaf Irish Cream,301,132
+01-Oct-21,M2,Mumbai,Decaf Irish Cream,345,135
+01-Nov-21,M2,Mumbai,Decaf Irish Cream,107,-6
+01-Dec-21,M2,Mumbai,Decaf Irish Cream,282,105
+01-Jan-22,M2,Mumbai,Decaf Irish Cream,190,68
+01-Feb-22,M2,Mumbai,Decaf Irish Cream,169,-142
+01-Mar-22,M2,Mumbai,Decaf Irish Cream,52,11
+01-Apr-22,M2,Mumbai,Decaf Irish Cream,142,35
+01-May-22,M2,Mumbai,Decaf Irish Cream,212,63
+01-Jun-22,M2,Mumbai,Decaf Irish Cream,144,58
+01-Jul-22,M2,Mumbai,Decaf Irish Cream,141,-34
+01-Aug-22,M2,Mumbai,Decaf Irish Cream,60,19
+01-Sep-22,M2,Mumbai,Decaf Irish Cream,70,8
+01-Oct-22,M2,Mumbai,Decaf Irish Cream,93,20
+01-Nov-22,M2,Mumbai,Decaf Irish Cream,169,32
+01-Dec-22,M2,Mumbai,Decaf Irish Cream,264,24
+01-Jan-23,M2,Mumbai,Decaf Irish Cream,312,139
+01-Feb-23,M2,Mumbai,Decaf Irish Cream,376,150
+01-Mar-23,M2,Mumbai,Decaf Irish Cream,95,-9
+01-Apr-23,M2,Mumbai,Decaf Irish Cream,336,129
+01-May-23,M2,Mumbai,Decaf Irish Cream,199,71
+01-Jun-23,M2,Mumbai,Decaf Irish Cream,202,-157
+01-Jul-23,M2,Mumbai,Decaf Irish Cream,54,12
+01-Aug-23,M2,Mumbai,Decaf Irish Cream,132,32
+01-Sep-23,M2,Mumbai,Decaf Irish Cream,227,71
+01-Oct-23,M2,Mumbai,Decaf Irish Cream,144,58
+01-Nov-23,M2,Mumbai,Decaf Irish Cream,169,-11
+01-Dec-23,M2,Mumbai,Decaf Irish Cream,57,16
+01-Jan-24,M2,Mumbai,Decaf Irish Cream,75,9
+01-Feb-24,M2,Mumbai,Decaf Irish Cream,85,18
+01-Mar-24,M2,Mumbai,Decaf Irish Cream,169,31
+01-Apr-24,M2,Mumbai,Decaf Irish Cream,297,31
+01-May-24,M2,Mumbai,Decaf Irish Cream,323,144
+01-Jun-24,M2,Mumbai,Decaf Irish Cream,376,150
+01-Jul-24,M2,Mumbai,Decaf Irish Cream,89,-11
+01-Aug-24,M2,Mumbai,Decaf Irish Cream,277,102
+01-Sep-24,M2,Mumbai,Decaf Irish Cream,120,39
+01-Oct-24,M2,Mumbai,Decaf Irish Cream,166,-137
+01-Nov-24,M2,Mumbai,Decaf Irish Cream,32,1
+01-Dec-24,M2,Mumbai,Decaf Irish Cream,110,24
+01-Jan-25,M2,Mumbai,Decaf Irish Cream,231,73
+01-Feb-25,M2,Mumbai,Decaf Irish Cream,154,63
+01-Mar-25,M2,Mumbai,Decaf Irish Cream,139,-42
+01-Apr-25,M2,Mumbai,Decaf Irish Cream,55,16
+01-May-25,M2,Mumbai,Decaf Irish Cream,90,16
+01-Jun-25,M2,Mumbai,Decaf Irish Cream,85,19
+01-Jul-25,M2,Mumbai,Decaf Irish Cream,160,27
+01-Aug-25,M2,Mumbai,Decaf Irish Cream,317,34
+01-Sep-25,M2,Mumbai,Decaf Irish Cream,245,106
+01-Oct-25,M2,Mumbai,Decaf Irish Cream,298,115
+01-Nov-25,M2,Mumbai,Decaf Irish Cream,126,-3
+01-Dec-25,M2,Mumbai,Decaf Irish Cream,230,81
+01-Jan-26,M2,Mumbai,Decaf Irish Cream,132,42
+01-Feb-26,M2,Mumbai,Decaf Irish Cream,138,-120
+01-Mar-26,M2,Mumbai,Decaf Irish Cream,35,3
+01-Apr-26,M2,Mumbai,Decaf Irish Cream,136,34
+01-May-26,M2,Mumbai,Decaf Irish Cream,199,58
+01-Jun-26,M2,Mumbai,Decaf Irish Cream,126,50
+01-Jul-26,M2,Mumbai,Decaf Irish Cream,115,-44
+01-Aug-26,M2,Mumbai,Decaf Irish Cream,72,23
+01-Sep-26,M2,Mumbai,Decaf Irish Cream,72,7
+01-Oct-26,M2,Mumbai,Decaf Irish Cream,107,28
+01-Nov-26,M2,Mumbai,Decaf Irish Cream,150,24
+01-Dec-26,M2,Mumbai,Decaf Irish Cream,223,16
+01-Jan-21,M3,Mumbai,Decaf Irish Cream,265,116
+01-Feb-21,M3,Mumbai,Decaf Irish Cream,298,115
+01-Mar-21,M3,Mumbai,Decaf Irish Cream,122,-5
+01-Apr-21,M3,Mumbai,Decaf Irish Cream,218,76
+01-May-21,M3,Mumbai,Decaf Irish Cream,90,26
+01-Jun-21,M3,Mumbai,Decaf Irish Cream,130,-117
+01-Jul-21,M3,Mumbai,Decaf Irish Cream,23,-2
+01-Aug-21,M3,Mumbai,Decaf Irish Cream,142,35
+01-Sep-21,M3,Mumbai,Decaf Irish Cream,202,61
+01-Oct-21,M3,Mumbai,Decaf Irish Cream,118,45
+01-Nov-21,M3,Mumbai,Decaf Irish Cream,109,-26
+01-Dec-21,M3,Mumbai,Decaf Irish Cream,66,21
+01-Jan-22,M3,Mumbai,Decaf Irish Cream,68,7
+01-Feb-22,M3,Mumbai,Decaf Irish Cream,107,29
+01-Mar-22,M3,Mumbai,Decaf Irish Cream,177,34
+01-Apr-22,M3,Mumbai,Decaf Irish Cream,230,17
+01-May-22,M3,Mumbai,Decaf Irish Cream,198,84
+01-Jun-22,M3,Mumbai,Decaf Irish Cream,278,106
+01-Jul-22,M3,Mumbai,Decaf Irish Cream,125,-3
+01-Aug-22,M3,Mumbai,Decaf Irish Cream,245,89
+01-Sep-22,M3,Mumbai,Decaf Irish Cream,92,26
+01-Oct-22,M3,Mumbai,Decaf Irish Cream,146,-127
+01-Nov-22,M3,Mumbai,Decaf Irish Cream,23,-3
+01-Dec-22,M3,Mumbai,Decaf Irish Cream,150,38
+01-Jan-23,M3,Mumbai,Decaf Irish Cream,180,51
+01-Feb-23,M3,Mumbai,Decaf Irish Cream,78,28
+01-Mar-23,M3,Mumbai,Decaf Irish Cream,122,-8
+01-Apr-23,M3,Mumbai,Decaf Irish Cream,88,30
+01-May-23,M3,Mumbai,Decaf Irish Cream,64,5
+01-Jun-23,M3,Mumbai,Decaf Irish Cream,114,32
+01-Jul-23,M3,Mumbai,Decaf Irish Cream,184,38
+01-Aug-23,M3,Mumbai,Decaf Irish Cream,224,16
+01-Sep-23,M3,Mumbai,Decaf Irish Cream,210,88
+01-Oct-23,M3,Mumbai,Decaf Irish Cream,312,122
+01-Nov-23,M3,Mumbai,Decaf Irish Cream,112,-6
+01-Dec-23,M3,Mumbai,Decaf Irish Cream,320,122
+01-Jan-24,M3,Mumbai,Decaf Irish Cream,99,30
+01-Feb-24,M3,Mumbai,Decaf Irish Cream,192,-149
+01-Mar-24,M3,Mumbai,Decaf Irish Cream,24,-1
+01-Apr-24,M3,Mumbai,Decaf Irish Cream,139,36
+01-May-24,M3,Mumbai,Decaf Irish Cream,195,57
+01-Jun-24,M3,Mumbai,Decaf Irish Cream,85,31
+01-Jul-24,M3,Mumbai,Decaf Irish Cream,160,16
+01-Aug-24,M3,Mumbai,Decaf Irish Cream,82,28
+01-Sep-24,M3,Mumbai,Decaf Irish Cream,69,8
+01-Oct-24,M3,Mumbai,Decaf Irish Cream,101,25
+01-Nov-24,M3,Mumbai,Decaf Irish Cream,153,26
+01-Dec-24,M3,Mumbai,Decaf Irish Cream,250,20
+01-Jan-25,M3,Mumbai,Decaf Irish Cream,262,157
+01-Feb-25,M3,Mumbai,Decaf Irish Cream,262,136
+01-Mar-25,M3,Mumbai,Decaf Irish Cream,168,0
+01-Apr-25,M3,Mumbai,Decaf Irish Cream,224,104
+01-May-25,M3,Mumbai,Decaf Irish Cream,213,106
+01-Jun-25,M3,Mumbai,Decaf Irish Cream,132,-182
+01-Jul-25,M3,Mumbai,Decaf Irish Cream,60,19
+01-Aug-25,M3,Mumbai,Decaf Irish Cream,190,73
+01-Sep-25,M3,Mumbai,Decaf Irish Cream,201,79
+01-Oct-25,M3,Mumbai,Decaf Irish Cream,91,44
+01-Nov-25,M3,Mumbai,Decaf Irish Cream,111,-61
+01-Dec-25,M3,Mumbai,Decaf Irish Cream,90,44
+01-Jan-26,M3,Mumbai,Decaf Irish Cream,69,6
+01-Feb-26,M3,Mumbai,Decaf Irish Cream,157,65
+01-Mar-26,M3,Mumbai,Decaf Irish Cream,213,61
+01-Apr-26,M3,Mumbai,Decaf Irish Cream,213,14
+01-May-26,M3,Mumbai,Decaf Irish Cream,247,147
+01-Jun-26,M3,Mumbai,Decaf Irish Cream,271,141
+01-Jul-26,M3,Mumbai,Decaf Irish Cream,137,-4
+01-Aug-26,M3,Mumbai,Decaf Irish Cream,220,105
+01-Sep-26,M3,Mumbai,Decaf Irish Cream,202,101
+01-Oct-26,M3,Mumbai,Decaf Irish Cream,130,-174
+01-Nov-26,M3,Mumbai,Decaf Irish Cream,58,18
+01-Dec-26,M3,Mumbai,Decaf Irish Cream,176,68
+01-Jan-21,B1,Banglore,Decaf Irish Cream,192,74
+01-Feb-21,B1,Banglore,Decaf Irish Cream,123,65
+01-Mar-21,B1,Banglore,Decaf Irish Cream,109,-46
+01-Apr-21,B1,Banglore,Decaf Irish Cream,85,43
+01-May-21,B1,Banglore,Decaf Irish Cream,67,9
+01-Jun-21,B1,Banglore,Decaf Irish Cream,136,56
+01-Jul-21,B1,Banglore,Decaf Irish Cream,206,61
+01-Aug-21,B1,Banglore,Decaf Irish Cream,234,22
+01-Sep-21,B1,Banglore,Decaf Irish Cream,249,150
+01-Oct-21,B1,Banglore,Decaf Irish Cream,285,151
+01-Nov-21,B1,Banglore,Decaf Irish Cream,133,-6
+01-Dec-21,B1,Banglore,Decaf Irish Cream,228,110
+01-Jan-22,B1,Banglore,Decaf Irish Cream,206,104
+01-Feb-22,B1,Banglore,Decaf Irish Cream,135,-180
+01-Mar-22,B1,Banglore,Decaf Irish Cream,58,18
+01-Apr-22,B1,Banglore,Decaf Irish Cream,174,67
+01-May-22,B1,Banglore,Decaf Irish Cream,200,82
+01-Jun-22,B1,Banglore,Decaf Irish Cream,129,70
+01-Jul-22,B1,Banglore,Decaf Irish Cream,113,-49
+01-Aug-22,B1,Banglore,Decaf Irish Cream,84,40
+01-Sep-22,B1,Banglore,Decaf Irish Cream,67,9
+01-Oct-22,B1,Banglore,Decaf Irish Cream,129,50
+01-Nov-22,B1,Banglore,Decaf Irish Cream,201,56
+01-Dec-22,B1,Banglore,Decaf Irish Cream,242,24
+01-Jan-23,B1,Banglore,Decaf Irish Cream,261,156
+01-Feb-23,B1,Banglore,Decaf Irish Cream,321,172
+01-Mar-23,B1,Banglore,Decaf Irish Cream,133,-4
+01-Apr-23,B1,Banglore,Decaf Irish Cream,285,145
+01-May-23,B1,Banglore,Decaf Irish Cream,190,93
+01-Jun-23,B1,Banglore,Decaf Irish Cream,169,-209
+01-Jul-23,B1,Banglore,Decaf Irish Cream,52,13
+01-Aug-23,B1,Banglore,Decaf Irish Cream,178,70
+01-Sep-23,B1,Banglore,Decaf Irish Cream,208,86
+01-Oct-23,B1,Banglore,Decaf Irish Cream,129,71
+01-Nov-23,B1,Banglore,Decaf Irish Cream,142,-16
+01-Dec-23,B1,Banglore,Decaf Irish Cream,80,37
+01-Jan-24,B1,Banglore,Decaf Irish Cream,65,6
+01-Feb-24,B1,Banglore,Decaf Irish Cream,114,42
+01-Mar-24,B1,Banglore,Decaf Irish Cream,190,50
+01-Apr-24,B1,Banglore,Decaf Irish Cream,242,25
+01-May-24,B1,Banglore,Decaf Irish Cream,254,155
+01-Jun-24,B1,Banglore,Decaf Irish Cream,309,168
+01-Jul-24,B1,Banglore,Decaf Irish Cream,127,-3
+01-Aug-24,B1,Banglore,Decaf Irish Cream,271,138
+01-Sep-24,B1,Banglore,Decaf Irish Cream,188,94
+01-Oct-24,B1,Banglore,Decaf Irish Cream,162,-196
+01-Nov-24,B1,Banglore,Decaf Irish Cream,52,15
+01-Dec-24,B1,Banglore,Decaf Irish Cream,147,52
+01-Jan-25,B1,Banglore,Decaf Irish Cream,202,86
+01-Feb-25,B1,Banglore,Decaf Irish Cream,129,72
+01-Mar-25,B1,Banglore,Decaf Irish Cream,135,-21
+01-Apr-25,B1,Banglore,Decaf Irish Cream,70,30
+01-May-25,B1,Banglore,Decaf Irish Cream,67,8
+01-Jun-25,B1,Banglore,Decaf Irish Cream,102,35
+01-Jul-25,B1,Banglore,Decaf Irish Cream,171,47
+01-Aug-25,B1,Banglore,Decaf Irish Cream,219,22
+01-Sep-25,B1,Banglore,Decaf Irish Cream,298,182
+01-Oct-25,B1,Banglore,Decaf Irish Cream,342,186
+01-Nov-25,B1,Banglore,Decaf Irish Cream,106,-8
+01-Dec-25,B1,Banglore,Decaf Irish Cream,279,145
+01-Jan-26,B1,Banglore,Decaf Irish Cream,188,94
+01-Feb-26,B1,Banglore,Decaf Irish Cream,167,-196
+01-Mar-26,B1,Banglore,Decaf Irish Cream,52,15
+01-Apr-26,B1,Banglore,Decaf Irish Cream,141,48
+01-May-26,B1,Banglore,Decaf Irish Cream,210,87
+01-Jun-26,B1,Banglore,Decaf Irish Cream,143,80
+01-Jul-26,B1,Banglore,Decaf Irish Cream,140,-47
+01-Aug-26,B1,Banglore,Decaf Irish Cream,59,26
+01-Sep-26,B1,Banglore,Decaf Irish Cream,69,11
+01-Oct-26,B1,Banglore,Decaf Irish Cream,92,28
+01-Nov-26,B1,Banglore,Decaf Irish Cream,167,44
+01-Dec-26,B1,Banglore,Decaf Irish Cream,262,33
+01-Jan-21,B2,Banglore,Decaf Irish Cream,309,192
+01-Feb-21,B2,Banglore,Decaf Irish Cream,373,207
+01-Mar-21,B2,Banglore,Decaf Irish Cream,94,-12
+01-Apr-21,B2,Banglore,Decaf Irish Cream,333,178
+01-May-21,B2,Banglore,Decaf Irish Cream,197,98
+01-Jun-21,B2,Banglore,Decaf Irish Cream,200,-217
+01-Jul-21,B2,Banglore,Decaf Irish Cream,54,17
+01-Aug-21,B2,Banglore,Decaf Irish Cream,131,44
+01-Sep-21,B2,Banglore,Decaf Irish Cream,225,98
+01-Oct-21,B2,Banglore,Decaf Irish Cream,143,80
+01-Nov-21,B2,Banglore,Decaf Irish Cream,167,-15
+01-Dec-21,B2,Banglore,Decaf Irish Cream,56,22
+01-Jan-22,B2,Banglore,Decaf Irish Cream,74,12
+01-Feb-22,B2,Banglore,Decaf Irish Cream,84,25
+01-Mar-22,B2,Banglore,Decaf Irish Cream,167,43
+01-Apr-22,B2,Banglore,Decaf Irish Cream,294,43
+01-May-22,B2,Banglore,Decaf Irish Cream,320,199
+01-Jun-22,B2,Banglore,Decaf Irish Cream,373,207
+01-Jul-22,B2,Banglore,Decaf Irish Cream,88,-15
+01-Aug-22,B2,Banglore,Decaf Irish Cream,275,141
+01-Sep-22,B2,Banglore,Decaf Irish Cream,119,54
+01-Oct-22,B2,Banglore,Decaf Irish Cream,165,-189
+01-Nov-22,B2,Banglore,Decaf Irish Cream,32,1
+01-Dec-22,B2,Banglore,Decaf Irish Cream,109,33
+01-Jan-23,B2,Banglore,Decaf Irish Cream,229,101
+01-Feb-23,B2,Banglore,Decaf Irish Cream,153,87
+01-Mar-23,B2,Banglore,Decaf Irish Cream,138,-58
+01-Apr-23,B2,Banglore,Decaf Irish Cream,55,22
+01-May-23,B2,Banglore,Decaf Irish Cream,89,22
+01-Jun-23,B2,Banglore,Decaf Irish Cream,84,26
+01-Jul-23,B2,Banglore,Decaf Irish Cream,159,37
+01-Aug-23,B2,Banglore,Decaf Irish Cream,314,47
+01-Sep-23,B2,Banglore,Decaf Irish Cream,261,157
+01-Oct-23,B2,Banglore,Decaf Irish Cream,318,171
+01-Nov-23,B2,Banglore,Decaf Irish Cream,134,-4
+01-Dec-23,B2,Banglore,Decaf Irish Cream,245,120
+01-Jan-24,B2,Banglore,Decaf Irish Cream,141,62
+01-Feb-24,B2,Banglore,Decaf Irish Cream,147,-178
+01-Mar-24,B2,Banglore,Decaf Irish Cream,37,4
+01-Apr-24,B2,Banglore,Decaf Irish Cream,145,50
+01-May-24,B2,Banglore,Decaf Irish Cream,212,86
+01-Jun-24,B2,Banglore,Decaf Irish Cream,134,74
+01-Jul-24,B2,Banglore,Decaf Irish Cream,123,-65
+01-Aug-24,B2,Banglore,Decaf Irish Cream,77,34
+01-Sep-24,B2,Banglore,Decaf Irish Cream,77,10
+01-Oct-24,B2,Banglore,Decaf Irish Cream,114,42
+01-Nov-24,B2,Banglore,Decaf Irish Cream,160,36
+01-Dec-24,B2,Banglore,Decaf Irish Cream,238,24
+01-Jan-25,B2,Banglore,Decaf Irish Cream,282,172
+01-Feb-25,B2,Banglore,Decaf Irish Cream,318,171
+01-Mar-25,B2,Banglore,Decaf Irish Cream,130,-7
+01-Apr-25,B2,Banglore,Decaf Irish Cream,232,113
+01-May-25,B2,Banglore,Decaf Irish Cream,96,39
+01-Jun-25,B2,Banglore,Decaf Irish Cream,139,-174
+01-Jul-25,B2,Banglore,Decaf Irish Cream,25,-3
+01-Aug-25,B2,Banglore,Decaf Irish Cream,151,52
+01-Sep-25,B2,Banglore,Decaf Irish Cream,215,91
+01-Oct-25,B2,Banglore,Decaf Irish Cream,126,67
+01-Nov-25,B2,Banglore,Decaf Irish Cream,116,-39
+01-Dec-25,B2,Banglore,Decaf Irish Cream,70,31
+01-Jan-26,B2,Banglore,Decaf Irish Cream,72,10
+01-Feb-26,B2,Banglore,Decaf Irish Cream,114,43
+01-Mar-26,B2,Banglore,Decaf Irish Cream,189,50
+01-Apr-26,B2,Banglore,Decaf Irish Cream,245,25
+01-May-26,B2,Banglore,Decaf Irish Cream,211,125
+01-Jun-26,B2,Banglore,Decaf Irish Cream,296,157
+01-Jul-26,B2,Banglore,Decaf Irish Cream,133,-4
+01-Aug-26,B2,Banglore,Decaf Irish Cream,261,132
+01-Sep-26,B2,Banglore,Decaf Irish Cream,98,39
+01-Oct-26,B2,Banglore,Decaf Irish Cream,156,-188
+01-Nov-26,B2,Banglore,Decaf Irish Cream,25,-4
+01-Dec-26,B2,Banglore,Decaf Irish Cream,160,56
+01-Jan-21,M1,Mumbai,Earl Grey,140,36
+01-Feb-21,M1,Mumbai,Earl Grey,180,54
+01-Mar-21,M1,Mumbai,Earl Grey,200,67
+01-Apr-21,M1,Mumbai,Earl Grey,219,94
+01-May-21,M1,Mumbai,Earl Grey,134,54
+01-Jun-21,M1,Mumbai,Earl Grey,546,175
+01-Jul-21,M1,Mumbai,Earl Grey,65,-9
+01-Aug-21,M1,Mumbai,Earl Grey,180,7
+01-Sep-21,M1,Mumbai,Earl Grey,456,141
+01-Oct-21,M1,Mumbai,Earl Grey,210,68
+01-Nov-21,M1,Mumbai,Earl Grey,82,9
+01-Dec-21,M1,Mumbai,Earl Grey,150,48
+01-Jan-22,M1,Mumbai,Earl Grey,136,34
+01-Feb-22,M1,Mumbai,Earl Grey,189,59
+01-Mar-22,M1,Mumbai,Earl Grey,206,71
+01-Apr-22,M1,Mumbai,Earl Grey,243,105
+01-May-22,M1,Mumbai,Earl Grey,189,80
+01-Jun-22,M1,Mumbai,Earl Grey,534,169
+01-Jul-22,M1,Mumbai,Earl Grey,68,-7
+01-Aug-22,M1,Mumbai,Earl Grey,155,3
+01-Sep-22,M1,Mumbai,Earl Grey,457,142
+01-Oct-22,M1,Mumbai,Earl Grey,200,62
+01-Nov-22,M1,Mumbai,Earl Grey,82,9
+01-Dec-22,M1,Mumbai,Earl Grey,137,41
+01-Jan-23,M1,Mumbai,Earl Grey,135,32
+01-Feb-23,M1,Mumbai,Earl Grey,180,53
+01-Mar-23,M1,Mumbai,Earl Grey,214,74
+01-Apr-23,M1,Mumbai,Earl Grey,213,91
+01-May-23,M1,Mumbai,Earl Grey,198,84
+01-Jun-23,M1,Mumbai,Earl Grey,546,175
+01-Jul-23,M1,Mumbai,Earl Grey,75,-3
+01-Aug-23,M1,Mumbai,Earl Grey,150,1
+01-Sep-23,M1,Mumbai,Earl Grey,478,148
+01-Oct-23,M1,Mumbai,Earl Grey,210,68
+01-Nov-23,M1,Mumbai,Earl Grey,85,10
+01-Dec-23,M1,Mumbai,Earl Grey,129,38
+01-Jan-24,M1,Mumbai,Earl Grey,138,34
+01-Feb-24,M1,Mumbai,Earl Grey,170,49
+01-Mar-24,M1,Mumbai,Earl Grey,267,97
+01-Apr-24,M1,Mumbai,Earl Grey,223,95
+01-May-24,M1,Mumbai,Earl Grey,198,83
+01-Jun-24,M1,Mumbai,Earl Grey,578,186
+01-Jul-24,M1,Mumbai,Earl Grey,65,-9
+01-Aug-24,M1,Mumbai,Earl Grey,150,1
+01-Sep-24,M1,Mumbai,Earl Grey,478,149
+01-Oct-24,M1,Mumbai,Earl Grey,222,73
+01-Nov-24,M1,Mumbai,Earl Grey,88,11
+01-Dec-24,M1,Mumbai,Earl Grey,114,30
+01-Jan-25,M1,Mumbai,Earl Grey,122,27
+01-Feb-25,M1,Mumbai,Earl Grey,160,44
+01-Mar-25,M1,Mumbai,Earl Grey,273,101
+01-Apr-25,M1,Mumbai,Earl Grey,256,111
+01-May-25,M1,Mumbai,Earl Grey,210,89
+01-Jun-25,M1,Mumbai,Earl Grey,589,190
+01-Jul-25,M1,Mumbai,Earl Grey,76,-4
+01-Aug-25,M1,Mumbai,Earl Grey,154,2
+01-Sep-25,M1,Mumbai,Earl Grey,521,164
+01-Oct-25,M1,Mumbai,Earl Grey,235,79
+01-Nov-25,M1,Mumbai,Earl Grey,92,14
+01-Dec-25,M1,Mumbai,Earl Grey,110,27
+01-Jan-26,M1,Mumbai,Earl Grey,117,27
+01-Feb-26,M1,Mumbai,Earl Grey,135,33
+01-Mar-26,M1,Mumbai,Earl Grey,282,105
+01-Apr-26,M1,Mumbai,Earl Grey,276,121
+01-May-26,M1,Mumbai,Earl Grey,230,98
+01-Jun-26,M1,Mumbai,Earl Grey,603,197
+01-Jul-26,M1,Mumbai,Earl Grey,78,-3
+01-Aug-26,M1,Mumbai,Earl Grey,128,-2
+01-Sep-26,M1,Mumbai,Earl Grey,521,165
+01-Oct-26,M1,Mumbai,Earl Grey,278,100
+01-Nov-26,M1,Mumbai,Earl Grey,96,14
+01-Dec-26,M1,Mumbai,Earl Grey,99,24
+01-Jan-21,M3,Mumbai,Earl Grey,109,23
+01-Feb-21,M3,Mumbai,Earl Grey,131,31
+01-Mar-21,M3,Mumbai,Earl Grey,336,128
+01-Apr-21,M3,Mumbai,Earl Grey,256,111
+01-May-21,M3,Mumbai,Earl Grey,230,98
+01-Jun-21,M3,Mumbai,Earl Grey,602,197
+01-Jul-21,M3,Mumbai,Earl Grey,89,1
+01-Aug-21,M3,Mumbai,Earl Grey,113,-6
+01-Sep-21,M3,Mumbai,Earl Grey,532,168
+01-Oct-21,M3,Mumbai,Earl Grey,286,104
+01-Nov-21,M3,Mumbai,Earl Grey,103,17
+01-Dec-21,M3,Mumbai,Earl Grey,90,20
+01-Jan-22,M3,Mumbai,Earl Grey,91,16
+01-Feb-22,M3,Mumbai,Earl Grey,131,30
+01-Mar-22,M3,Mumbai,Earl Grey,277,103
+01-Apr-22,M3,Mumbai,Earl Grey,301,133
+01-May-22,M3,Mumbai,Earl Grey,245,105
+01-Jun-22,M3,Mumbai,Earl Grey,632,207
+01-Jul-22,M3,Mumbai,Earl Grey,65,-9
+01-Aug-22,M3,Mumbai,Earl Grey,105,-7
+01-Sep-22,M3,Mumbai,Earl Grey,532,167
+01-Oct-22,M3,Mumbai,Earl Grey,286,104
+01-Nov-22,M3,Mumbai,Earl Grey,105,19
+01-Dec-22,M3,Mumbai,Earl Grey,90,20
+01-Jan-23,M3,Mumbai,Earl Grey,113,25
+01-Feb-23,M3,Mumbai,Earl Grey,150,40
+01-Mar-23,M3,Mumbai,Earl Grey,230,81
+01-Apr-23,M3,Mumbai,Earl Grey,302,133
+01-May-23,M3,Mumbai,Earl Grey,199,84
+01-Jun-23,M3,Mumbai,Earl Grey,672,223
+01-Jul-23,M3,Mumbai,Earl Grey,54,-12
+01-Aug-23,M3,Mumbai,Earl Grey,149,2
+01-Sep-23,M3,Mumbai,Earl Grey,498,156
+01-Oct-23,M3,Mumbai,Earl Grey,249,87
+01-Nov-23,M3,Mumbai,Earl Grey,91,12
+01-Dec-23,M3,Mumbai,Earl Grey,113,31
+01-Jan-24,M3,Mumbai,Earl Grey,118,27
+01-Feb-24,M3,Mumbai,Earl Grey,182,55
+01-Mar-24,M3,Mumbai,Earl Grey,218,76
+01-Apr-24,M3,Mumbai,Earl Grey,302,134
+01-May-24,M3,Mumbai,Earl Grey,187,79
+01-Jun-24,M3,Mumbai,Earl Grey,567,183
+01-Jul-24,M3,Mumbai,Earl Grey,56,-11
+01-Aug-24,M3,Mumbai,Earl Grey,144,0
+01-Sep-24,M3,Mumbai,Earl Grey,478,149
+01-Oct-24,M3,Mumbai,Earl Grey,205,64
+01-Nov-24,M3,Mumbai,Earl Grey,92,14
+01-Dec-24,M3,Mumbai,Earl Grey,113,31
+01-Jan-25,M3,Mumbai,Earl Grey,125,29
+01-Feb-25,M3,Mumbai,Earl Grey,189,59
+01-Mar-25,M3,Mumbai,Earl Grey,245,89
+01-Apr-25,M3,Mumbai,Earl Grey,290,127
+01-May-25,M3,Mumbai,Earl Grey,123,47
+01-Jun-25,M3,Mumbai,Earl Grey,545,173
+01-Jul-25,M3,Mumbai,Earl Grey,76,-3
+01-Aug-25,M3,Mumbai,Earl Grey,147,2
+01-Sep-25,M3,Mumbai,Earl Grey,423,128
+01-Oct-25,M3,Mumbai,Earl Grey,197,62
+01-Nov-25,M3,Mumbai,Earl Grey,82,9
+01-Dec-25,M3,Mumbai,Earl Grey,120,34
+01-Jan-26,M3,Mumbai,Earl Grey,116,26
+01-Feb-26,M3,Mumbai,Earl Grey,168,47
+01-Mar-26,M3,Mumbai,Earl Grey,320,121
+01-Apr-26,M3,Mumbai,Earl Grey,302,133
+01-May-26,M3,Mumbai,Earl Grey,133,53
+01-Jun-26,M3,Mumbai,Earl Grey,654,216
+01-Jul-26,M3,Mumbai,Earl Grey,45,-16
+01-Aug-26,M3,Mumbai,Earl Grey,131,-3
+01-Sep-26,M3,Mumbai,Earl Grey,501,157
+01-Oct-26,M3,Mumbai,Earl Grey,221,73
+01-Nov-26,M3,Mumbai,Earl Grey,89,12
+01-Dec-26,M3,Mumbai,Earl Grey,106,28
+01-Jan-21,B2,Banglore,Earl Grey,157,56
+01-Feb-21,B2,Banglore,Earl Grey,201,84
+01-Mar-21,B2,Banglore,Earl Grey,224,104
+01-Apr-21,B2,Banglore,Earl Grey,245,146
+01-May-21,B2,Banglore,Earl Grey,150,84
+01-Jun-21,B2,Banglore,Earl Grey,611,273
+01-Jul-21,B2,Banglore,Earl Grey,73,-14
+01-Aug-21,B2,Banglore,Earl Grey,201,11
+01-Sep-21,B2,Banglore,Earl Grey,510,220
+01-Oct-21,B2,Banglore,Earl Grey,235,106
+01-Nov-21,B2,Banglore,Earl Grey,92,14
+01-Dec-21,B2,Banglore,Earl Grey,168,75
+01-Jan-22,B2,Banglore,Earl Grey,145,50
+01-Feb-22,B2,Banglore,Earl Grey,201,88
+01-Mar-22,B2,Banglore,Earl Grey,220,105
+01-Apr-22,B2,Banglore,Earl Grey,259,156
+01-May-22,B2,Banglore,Earl Grey,201,119
+01-Jun-22,B2,Banglore,Earl Grey,569,251
+01-Jul-22,B2,Banglore,Earl Grey,72,-10
+01-Aug-22,B2,Banglore,Earl Grey,165,4
+01-Sep-22,B2,Banglore,Earl Grey,487,211
+01-Oct-22,B2,Banglore,Earl Grey,213,92
+01-Nov-22,B2,Banglore,Earl Grey,87,13
+01-Dec-22,B2,Banglore,Earl Grey,146,61
+01-Jan-23,B2,Banglore,Earl Grey,144,47
+01-Feb-23,B2,Banglore,Earl Grey,192,79
+01-Mar-23,B2,Banglore,Earl Grey,228,110
+01-Apr-23,B2,Banglore,Earl Grey,227,135
+01-May-23,B2,Banglore,Earl Grey,211,125
+01-Jun-23,B2,Banglore,Earl Grey,582,260
+01-Jul-23,B2,Banglore,Earl Grey,80,-4
+01-Aug-23,B2,Banglore,Earl Grey,160,1
+01-Sep-23,B2,Banglore,Earl Grey,509,220
+01-Oct-23,B2,Banglore,Earl Grey,224,101
+01-Nov-23,B2,Banglore,Earl Grey,91,15
+01-Dec-23,B2,Banglore,Earl Grey,137,56
+01-Jan-24,B2,Banglore,Earl Grey,147,50
+01-Feb-24,B2,Banglore,Earl Grey,181,73
+01-Mar-24,B2,Banglore,Earl Grey,285,144
+01-Apr-24,B2,Banglore,Earl Grey,238,141
+01-May-24,B2,Banglore,Earl Grey,211,123
+01-Jun-24,B2,Banglore,Earl Grey,616,276
+01-Jul-24,B2,Banglore,Earl Grey,69,-13
+01-Aug-24,B2,Banglore,Earl Grey,160,1
+01-Sep-24,B2,Banglore,Earl Grey,509,221
+01-Oct-24,B2,Banglore,Earl Grey,237,108
+01-Nov-24,B2,Banglore,Earl Grey,94,16
+01-Dec-24,B2,Banglore,Earl Grey,121,45
+01-Jan-25,B2,Banglore,Earl Grey,121,37
+01-Feb-25,B2,Banglore,Earl Grey,159,61
+01-Mar-25,B2,Banglore,Earl Grey,271,139
+01-Apr-25,B2,Banglore,Earl Grey,254,153
+01-May-25,B2,Banglore,Earl Grey,208,123
+01-Jun-25,B2,Banglore,Earl Grey,584,262
+01-Jul-25,B2,Banglore,Earl Grey,75,-6
+01-Aug-25,B2,Banglore,Earl Grey,153,3
+01-Sep-25,B2,Banglore,Earl Grey,516,226
+01-Oct-25,B2,Banglore,Earl Grey,233,109
+01-Nov-25,B2,Banglore,Earl Grey,91,19
+01-Dec-25,B2,Banglore,Earl Grey,109,37
+01-Jan-26,B2,Banglore,Earl Grey,116,37
+01-Feb-26,B2,Banglore,Earl Grey,134,46
+01-Mar-26,B2,Banglore,Earl Grey,279,145
+01-Apr-26,B2,Banglore,Earl Grey,274,167
+01-May-26,B2,Banglore,Earl Grey,228,135
+01-Jun-26,B2,Banglore,Earl Grey,598,272
+01-Jul-26,B2,Banglore,Earl Grey,77,-4
+01-Aug-26,B2,Banglore,Earl Grey,127,-3
+01-Sep-26,B2,Banglore,Earl Grey,516,228
+01-Oct-26,B2,Banglore,Earl Grey,276,138
+01-Nov-26,B2,Banglore,Earl Grey,95,19
+01-Dec-26,B2,Banglore,Earl Grey,98,33
+01-Jan-21,H1,Hyderabad,Earl Grey,108,32
+01-Feb-21,H1,Hyderabad,Earl Grey,130,43
+01-Mar-21,H1,Hyderabad,Earl Grey,333,177
+01-Apr-21,H1,Hyderabad,Earl Grey,254,153
+01-May-21,H1,Hyderabad,Earl Grey,228,135
+01-Jun-21,H1,Hyderabad,Earl Grey,597,272
+01-Jul-21,H1,Hyderabad,Earl Grey,88,1
+01-Aug-21,H1,Hyderabad,Earl Grey,112,-8
+01-Sep-21,H1,Hyderabad,Earl Grey,527,232
+01-Oct-21,H1,Hyderabad,Earl Grey,283,144
+01-Nov-21,H1,Hyderabad,Earl Grey,102,23
+01-Dec-21,H1,Hyderabad,Earl Grey,89,28
+01-Jan-22,H1,Hyderabad,Earl Grey,90,22
+01-Feb-22,H1,Hyderabad,Earl Grey,130,41
+01-Mar-22,H1,Hyderabad,Earl Grey,275,142
+01-Apr-22,H1,Hyderabad,Earl Grey,298,184
+01-May-22,H1,Hyderabad,Earl Grey,243,145
+01-Jun-22,H1,Hyderabad,Earl Grey,626,286
+01-Jul-22,H1,Hyderabad,Earl Grey,64,-12
+01-Aug-22,H1,Hyderabad,Earl Grey,104,-10
+01-Sep-22,H1,Hyderabad,Earl Grey,527,230
+01-Oct-22,H1,Hyderabad,Earl Grey,283,144
+01-Nov-22,H1,Hyderabad,Earl Grey,104,26
+01-Dec-22,H1,Hyderabad,Earl Grey,89,28
+01-Jan-23,H1,Hyderabad,Earl Grey,120,37
+01-Feb-23,H1,Hyderabad,Earl Grey,160,59
+01-Mar-23,H1,Hyderabad,Earl Grey,245,120
+01-Apr-23,H1,Hyderabad,Earl Grey,322,197
+01-May-23,H1,Hyderabad,Earl Grey,212,125
+01-Jun-23,H1,Hyderabad,Earl Grey,716,331
+01-Jul-23,H1,Hyderabad,Earl Grey,58,-18
+01-Aug-23,H1,Hyderabad,Earl Grey,159,3
+01-Sep-23,H1,Hyderabad,Earl Grey,531,232
+01-Oct-23,H1,Hyderabad,Earl Grey,265,129
+01-Nov-23,H1,Hyderabad,Earl Grey,97,18
+01-Dec-23,H1,Hyderabad,Earl Grey,120,46
+01-Jan-24,H1,Hyderabad,Earl Grey,126,40
+01-Feb-24,H1,Hyderabad,Earl Grey,194,82
+01-Mar-24,H1,Hyderabad,Earl Grey,232,113
+01-Apr-24,H1,Hyderabad,Earl Grey,322,199
+01-May-24,H1,Hyderabad,Earl Grey,199,117
+01-Jun-24,H1,Hyderabad,Earl Grey,604,272
+01-Jul-24,H1,Hyderabad,Earl Grey,60,-16
+01-Aug-24,H1,Hyderabad,Earl Grey,153,0
+01-Sep-24,H1,Hyderabad,Earl Grey,509,221
+01-Oct-24,H1,Hyderabad,Earl Grey,218,95
+01-Nov-24,H1,Hyderabad,Earl Grey,98,21
+01-Dec-24,H1,Hyderabad,Earl Grey,120,46
+01-Jan-25,H1,Hyderabad,Earl Grey,133,43
+01-Feb-25,H1,Hyderabad,Earl Grey,201,88
+01-Mar-25,H1,Hyderabad,Earl Grey,261,132
+01-Apr-25,H1,Hyderabad,Earl Grey,309,188
+01-May-25,H1,Hyderabad,Earl Grey,131,70
+01-Jun-25,H1,Hyderabad,Earl Grey,581,257
+01-Jul-25,H1,Hyderabad,Earl Grey,81,-4
+01-Aug-25,H1,Hyderabad,Earl Grey,157,3
+01-Sep-25,H1,Hyderabad,Earl Grey,451,190
+01-Oct-25,H1,Hyderabad,Earl Grey,210,92
+01-Nov-25,H1,Hyderabad,Earl Grey,87,13
+01-Dec-25,H1,Hyderabad,Earl Grey,128,50
+01-Jan-26,H1,Hyderabad,Earl Grey,124,39
+01-Feb-26,H1,Hyderabad,Earl Grey,179,70
+01-Mar-26,H1,Hyderabad,Earl Grey,341,180
+01-Apr-26,H1,Hyderabad,Earl Grey,322,197
+01-May-26,H1,Hyderabad,Earl Grey,142,79
+01-Jun-26,H1,Hyderabad,Earl Grey,697,321
+01-Jul-26,H1,Hyderabad,Earl Grey,48,-24
+01-Aug-26,H1,Hyderabad,Earl Grey,140,-4
+01-Sep-26,H1,Hyderabad,Earl Grey,534,233
+01-Oct-26,H1,Hyderabad,Earl Grey,236,108
+01-Nov-26,H1,Hyderabad,Earl Grey,95,18
+01-Dec-26,H1,Hyderabad,Earl Grey,113,42
+01-Jan-21,M2,Mumbai,Earl Grey,192,76
+01-Feb-21,M2,Mumbai,Earl Grey,83,42
+01-Mar-21,M2,Mumbai,Earl Grey,130,-12
+01-Apr-21,M2,Mumbai,Earl Grey,94,45
+01-May-21,M2,Mumbai,Earl Grey,68,7
+01-Jun-21,M2,Mumbai,Earl Grey,121,47
+01-Jul-21,M2,Mumbai,Earl Grey,196,56
+01-Aug-21,M2,Mumbai,Earl Grey,239,24
+01-Sep-21,M2,Mumbai,Earl Grey,224,131
+01-Oct-21,M2,Mumbai,Earl Grey,332,181
+01-Nov-21,M2,Mumbai,Earl Grey,119,-9
+01-Dec-21,M2,Mumbai,Earl Grey,341,181
+01-Jan-22,M2,Mumbai,Earl Grey,106,45
+01-Feb-22,M2,Mumbai,Earl Grey,205,-221
+01-Mar-22,M2,Mumbai,Earl Grey,26,-1
+01-Apr-22,M2,Mumbai,Earl Grey,148,53
+01-May-22,M2,Mumbai,Earl Grey,208,85
+01-Jun-22,M2,Mumbai,Earl Grey,91,46
+01-Jul-22,M2,Mumbai,Earl Grey,171,24
+01-Aug-22,M2,Mumbai,Earl Grey,87,42
+01-Sep-22,M2,Mumbai,Earl Grey,74,12
+01-Oct-22,M2,Mumbai,Earl Grey,108,37
+01-Nov-22,M2,Mumbai,Earl Grey,163,39
+01-Dec-22,M2,Mumbai,Earl Grey,266,30
+01-Jan-23,M2,Mumbai,Earl Grey,82,-4
+01-Feb-23,M2,Mumbai,Earl Grey,189,50
+01-Mar-23,M2,Mumbai,Earl Grey,72,9
+01-Apr-23,M2,Mumbai,Earl Grey,245,25
+01-May-23,M2,Mumbai,Earl Grey,391,178
+01-Jun-23,M2,Mumbai,Earl Grey,218,108
+01-Jul-23,M2,Mumbai,Earl Grey,121,34
+01-Aug-23,M2,Mumbai,Earl Grey,127,70
+01-Sep-23,M2,Mumbai,Earl Grey,133,-6
+01-Oct-23,M2,Mumbai,Earl Grey,98,40
+01-Nov-23,M2,Mumbai,Earl Grey,94,45
+01-Dec-23,M2,Mumbai,Earl Grey,129,19
+01-Jan-24,M2,Mumbai,Earl Grey,132,22
+01-Feb-24,M2,Mumbai,Earl Grey,614,303
+01-Mar-24,M2,Mumbai,Earl Grey,121,46
+01-Apr-24,M2,Mumbai,Earl Grey,522,258
+01-May-24,M2,Mumbai,Earl Grey,296,159
+01-Jun-24,M2,Mumbai,Earl Grey,130,-13
+01-Jul-24,M2,Mumbai,Earl Grey,83,40
+01-Aug-24,M2,Mumbai,Earl Grey,196,56
+01-Sep-24,M2,Mumbai,Earl Grey,79,-6
+01-Oct-24,M2,Mumbai,Earl Grey,196,56
+01-Nov-24,M2,Mumbai,Earl Grey,68,7
+01-Dec-24,M2,Mumbai,Earl Grey,239,22
+01-Jan-25,M2,Mumbai,Earl Grey,439,205
+01-Feb-25,M2,Mumbai,Earl Grey,213,104
+01-Mar-25,M2,Mumbai,Earl Grey,116,30
+01-Apr-25,M2,Mumbai,Earl Grey,123,65
+01-May-25,M2,Mumbai,Earl Grey,119,-9
+01-Jun-25,M2,Mumbai,Earl Grey,106,43
+01-Jul-25,M2,Mumbai,Earl Grey,87,43
+01-Aug-25,M2,Mumbai,Earl Grey,155,34
+01-Sep-25,M2,Mumbai,Earl Grey,110,10
+01-Oct-25,M2,Mumbai,Earl Grey,796,459
+01-Nov-25,M2,Mumbai,Earl Grey,108,36
+01-Dec-25,M2,Mumbai,Earl Grey,559,279
+01-Jan-26,M2,Mumbai,Earl Grey,332,183
+01-Feb-26,M2,Mumbai,Earl Grey,171,24
+01-Mar-26,M2,Mumbai,Earl Grey,91,45
+01-Apr-26,M2,Mumbai,Earl Grey,163,40
+01-May-26,M2,Mumbai,Earl Grey,94,3
+01-Jun-26,M2,Mumbai,Earl Grey,163,39
+01-Jul-26,M2,Mumbai,Earl Grey,74,10
+01-Aug-26,M2,Mumbai,Earl Grey,266,30
+01-Sep-26,M2,Mumbai,Earl Grey,569,288
+01-Oct-26,M2,Mumbai,Earl Grey,197,98
+01-Nov-26,M2,Mumbai,Earl Grey,130,42
+01-Dec-26,M2,Mumbai,Earl Grey,128,68
+01-Jan-21,M1,Mumbai,Green Tea,100,30
+01-Feb-21,M1,Mumbai,Green Tea,81,28
+01-Mar-21,M1,Mumbai,Green Tea,80,29
+01-Apr-21,M1,Mumbai,Green Tea,134,54
+01-May-21,M1,Mumbai,Green Tea,180,54
+01-Jun-21,M1,Mumbai,Green Tea,76,-4
+01-Jul-21,M1,Mumbai,Green Tea,94,35
+01-Aug-21,M1,Mumbai,Green Tea,43,11
+01-Sep-21,M1,Mumbai,Green Tea,17,-354
+01-Oct-21,M1,Mumbai,Green Tea,200,67
+01-Nov-21,M1,Mumbai,Green Tea,65,-9
+01-Dec-21,M1,Mumbai,Green Tea,180,8
+01-Jan-22,M1,Mumbai,Green Tea,100,30
+01-Feb-22,M1,Mumbai,Green Tea,115,44
+01-Mar-22,M1,Mumbai,Green Tea,56,17
+01-Apr-22,M1,Mumbai,Green Tea,189,79
+01-May-22,M1,Mumbai,Green Tea,189,58
+01-Jun-22,M1,Mumbai,Green Tea,74,-4
+01-Jul-22,M1,Mumbai,Green Tea,66,21
+01-Aug-22,M1,Mumbai,Green Tea,43,32
+01-Sep-22,M1,Mumbai,Green Tea,23,-342
+01-Oct-22,M1,Mumbai,Green Tea,206,71
+01-Nov-22,M1,Mumbai,Green Tea,68,-6
+01-Dec-22,M1,Mumbai,Green Tea,155,3
+01-Jan-23,M1,Mumbai,Green Tea,98,29
+01-Feb-23,M1,Mumbai,Green Tea,121,47
+01-Mar-23,M1,Mumbai,Green Tea,53,15
+01-Apr-23,M1,Mumbai,Green Tea,198,83
+01-May-23,M1,Mumbai,Green Tea,180,54
+01-Jun-23,M1,Mumbai,Green Tea,75,-4
+01-Jul-23,M1,Mumbai,Green Tea,62,18
+01-Aug-23,M1,Mumbai,Green Tea,43,32
+01-Sep-23,M1,Mumbai,Green Tea,32,-340
+01-Oct-23,M1,Mumbai,Green Tea,214,74
+01-Nov-23,M1,Mumbai,Green Tea,75,-4
+01-Dec-23,M1,Mumbai,Green Tea,150,0
+01-Jan-24,M1,Mumbai,Green Tea,106,32
+01-Feb-24,M1,Mumbai,Green Tea,121,47
+01-Mar-24,M1,Mumbai,Green Tea,53,16
+01-Apr-24,M1,Mumbai,Green Tea,198,83
+01-May-24,M1,Mumbai,Green Tea,170,48
+01-Jun-24,M1,Mumbai,Green Tea,79,-2
+01-Jul-24,M1,Mumbai,Green Tea,62,18
+01-Aug-24,M1,Mumbai,Green Tea,43,32
+01-Sep-24,M1,Mumbai,Green Tea,26,-365
+01-Oct-24,M1,Mumbai,Green Tea,267,98
+01-Nov-24,M1,Mumbai,Green Tea,65,-8
+01-Dec-24,M1,Mumbai,Green Tea,150,0
+01-Jan-25,M1,Mumbai,Green Tea,99,30
+01-Feb-25,M1,Mumbai,Green Tea,130,52
+01-Mar-25,M1,Mumbai,Green Tea,49,12
+01-Apr-25,M1,Mumbai,Green Tea,210,89
+01-May-25,M1,Mumbai,Green Tea,160,43
+01-Jun-25,M1,Mumbai,Green Tea,81,-2
+01-Jul-25,M1,Mumbai,Green Tea,57,17
+01-Aug-25,M1,Mumbai,Green Tea,43,32
+01-Sep-25,M1,Mumbai,Green Tea,18,-380
+01-Oct-25,M1,Mumbai,Green Tea,273,101
+01-Nov-25,M1,Mumbai,Green Tea,76,-3
+01-Dec-25,M1,Mumbai,Green Tea,154,2
+01-Jan-26,M1,Mumbai,Green Tea,99,29
+01-Feb-26,M1,Mumbai,Green Tea,144,58
+01-Mar-26,M1,Mumbai,Green Tea,44,10
+01-Apr-26,M1,Mumbai,Green Tea,230,99
+01-May-26,M1,Mumbai,Green Tea,135,32
+01-Jun-26,M1,Mumbai,Green Tea,82,0
+01-Jul-26,M1,Mumbai,Green Tea,51,15
+01-Aug-26,M1,Mumbai,Green Tea,43,32
+01-Sep-26,M1,Mumbai,Green Tea,37,-369
+01-Oct-26,M1,Mumbai,Green Tea,282,105
+01-Nov-26,M1,Mumbai,Green Tea,78,-3
+01-Dec-26,M1,Mumbai,Green Tea,128,-3
+01-Jan-21,M2,Mumbai,Green Tea,94,27
+01-Feb-21,M2,Mumbai,Green Tea,144,58
+01-Mar-21,M2,Mumbai,Green Tea,44,9
+01-Apr-21,M2,Mumbai,Green Tea,230,98
+01-May-21,M2,Mumbai,Green Tea,131,30
+01-Jun-21,M2,Mumbai,Green Tea,82,0
+01-Jul-21,M2,Mumbai,Green Tea,51,15
+01-Aug-21,M2,Mumbai,Green Tea,43,31
+01-Sep-21,M2,Mumbai,Green Tea,27,-378
+01-Oct-21,M2,Mumbai,Green Tea,336,129
+01-Nov-21,M2,Mumbai,Green Tea,89,1
+01-Dec-21,M2,Mumbai,Green Tea,113,-5
+01-Jan-22,M2,Mumbai,Green Tea,155,53
+01-Feb-22,M2,Mumbai,Green Tea,154,63
+01-Mar-22,M2,Mumbai,Green Tea,41,9
+01-Apr-22,M2,Mumbai,Green Tea,245,105
+01-May-22,M2,Mumbai,Green Tea,131,30
+01-Jun-22,M2,Mumbai,Green Tea,86,1
+01-Jul-22,M2,Mumbai,Green Tea,47,12
+01-Aug-22,M2,Mumbai,Green Tea,43,31
+01-Sep-22,M2,Mumbai,Green Tea,21,-404
+01-Oct-22,M2,Mumbai,Green Tea,277,102
+01-Nov-22,M2,Mumbai,Green Tea,65,-9
+01-Dec-22,M2,Mumbai,Green Tea,105,-8
+01-Jan-23,M2,Mumbai,Green Tea,140,47
+01-Feb-23,M2,Mumbai,Green Tea,126,49
+01-Mar-23,M2,Mumbai,Green Tea,50,13
+01-Apr-23,M2,Mumbai,Green Tea,199,84
+01-May-23,M2,Mumbai,Green Tea,150,39
+01-Jun-23,M2,Mumbai,Green Tea,91,2
+01-Jul-23,M2,Mumbai,Green Tea,57,17
+01-Aug-23,M2,Mumbai,Green Tea,43,31
+01-Sep-23,M2,Mumbai,Green Tea,19,-430
+01-Oct-23,M2,Mumbai,Green Tea,230,81
+01-Nov-23,M2,Mumbai,Green Tea,54,-13
+01-Dec-23,M2,Mumbai,Green Tea,149,2
+01-Jan-24,M2,Mumbai,Green Tea,205,74
+01-Feb-24,M2,Mumbai,Green Tea,118,46
+01-Mar-24,M2,Mumbai,Green Tea,53,15
+01-Apr-24,M2,Mumbai,Green Tea,187,78
+01-May-24,M2,Mumbai,Green Tea,182,56
+01-Jun-24,M2,Mumbai,Green Tea,77,-3
+01-Jul-24,M2,Mumbai,Green Tea,60,18
+01-Aug-24,M2,Mumbai,Green Tea,43,32
+01-Sep-24,M2,Mumbai,Green Tea,21,-363
+01-Oct-24,M2,Mumbai,Green Tea,218,76
+01-Nov-24,M2,Mumbai,Green Tea,56,-12
+01-Dec-24,M2,Mumbai,Green Tea,144,0
+01-Jan-25,M2,Mumbai,Green Tea,200,70
+01-Feb-25,M2,Mumbai,Green Tea,78,28
+01-Mar-25,M2,Mumbai,Green Tea,80,29
+01-Apr-25,M2,Mumbai,Green Tea,123,47
+01-May-25,M2,Mumbai,Green Tea,189,59
+01-Jun-25,M2,Mumbai,Green Tea,74,-4
+01-Jul-25,M2,Mumbai,Green Tea,90,33
+01-Aug-25,M2,Mumbai,Green Tea,43,32
+01-Sep-25,M2,Mumbai,Green Tea,32,-340
+01-Oct-25,M2,Mumbai,Green Tea,245,89
+01-Nov-25,M2,Mumbai,Green Tea,76,-3
+01-Dec-25,M2,Mumbai,Green Tea,147,1
+01-Jan-26,M2,Mumbai,Green Tea,185,66
+01-Feb-26,M2,Mumbai,Green Tea,85,30
+01-Mar-26,M2,Mumbai,Green Tea,73,25
+01-Apr-26,M2,Mumbai,Green Tea,133,52
+01-May-26,M2,Mumbai,Green Tea,168,47
+01-Jun-26,M2,Mumbai,Green Tea,88,2
+01-Jul-26,M2,Mumbai,Green Tea,82,28
+01-Aug-26,M2,Mumbai,Green Tea,43,32
+01-Sep-26,M2,Mumbai,Green Tea,31,-408
+01-Oct-26,M2,Mumbai,Green Tea,320,121
+01-Nov-26,M2,Mumbai,Green Tea,45,-15
+01-Dec-26,M2,Mumbai,Green Tea,131,-3
+01-Jan-21,B2,Banglore,Green Tea,112,47
+01-Feb-21,B2,Banglore,Green Tea,91,44
+01-Mar-21,B2,Banglore,Green Tea,90,45
+01-Apr-21,B2,Banglore,Green Tea,150,84
+01-May-21,B2,Banglore,Green Tea,201,84
+01-Jun-21,B2,Banglore,Green Tea,85,-6
+01-Jul-21,B2,Banglore,Green Tea,105,55
+01-Aug-21,B2,Banglore,Green Tea,48,17
+01-Sep-21,B2,Banglore,Green Tea,19,-552
+01-Oct-21,B2,Banglore,Green Tea,224,104
+01-Nov-21,B2,Banglore,Green Tea,73,-14
+01-Dec-21,B2,Banglore,Green Tea,201,12
+01-Jan-22,B2,Banglore,Green Tea,107,45
+01-Feb-22,B2,Banglore,Green Tea,123,65
+01-Mar-22,B2,Banglore,Green Tea,60,25
+01-Apr-22,B2,Banglore,Green Tea,201,117
+01-May-22,B2,Banglore,Green Tea,201,86
+01-Jun-22,B2,Banglore,Green Tea,79,-6
+01-Jul-22,B2,Banglore,Green Tea,70,31
+01-Aug-22,B2,Banglore,Green Tea,46,47
+01-Sep-22,B2,Banglore,Green Tea,25,-508
+01-Oct-22,B2,Banglore,Green Tea,220,105
+01-Nov-22,B2,Banglore,Green Tea,72,-9
+01-Dec-22,B2,Banglore,Green Tea,165,4
+01-Jan-23,B2,Banglore,Green Tea,104,43
+01-Feb-23,B2,Banglore,Green Tea,129,70
+01-Mar-23,B2,Banglore,Green Tea,56,22
+01-Apr-23,B2,Banglore,Green Tea,211,123
+01-May-23,B2,Banglore,Green Tea,192,80
+01-Jun-23,B2,Banglore,Green Tea,80,-6
+01-Jul-23,B2,Banglore,Green Tea,66,27
+01-Aug-23,B2,Banglore,Green Tea,46,47
+01-Sep-23,B2,Banglore,Green Tea,34,-505
+01-Oct-23,B2,Banglore,Green Tea,228,110
+01-Nov-23,B2,Banglore,Green Tea,80,-6
+01-Dec-23,B2,Banglore,Green Tea,160,0
+01-Jan-24,B2,Banglore,Green Tea,113,47
+01-Feb-24,B2,Banglore,Green Tea,129,70
+01-Mar-24,B2,Banglore,Green Tea,56,24
+01-Apr-24,B2,Banglore,Green Tea,211,123
+01-May-24,B2,Banglore,Green Tea,181,71
+01-Jun-24,B2,Banglore,Green Tea,84,-3
+01-Jul-24,B2,Banglore,Green Tea,66,27
+01-Aug-24,B2,Banglore,Green Tea,46,47
+01-Sep-24,B2,Banglore,Green Tea,28,-542
+01-Oct-24,B2,Banglore,Green Tea,285,145
+01-Nov-24,B2,Banglore,Green Tea,69,-12
+01-Dec-24,B2,Banglore,Green Tea,160,0
+01-Jan-25,B2,Banglore,Green Tea,98,41
+01-Feb-25,B2,Banglore,Green Tea,129,72
+01-Mar-25,B2,Banglore,Green Tea,49,17
+01-Apr-25,B2,Banglore,Green Tea,208,123
+01-May-25,B2,Banglore,Green Tea,159,59
+01-Jun-25,B2,Banglore,Green Tea,80,-3
+01-Jul-25,B2,Banglore,Green Tea,56,23
+01-Aug-25,B2,Banglore,Green Tea,43,44
+01-Sep-25,B2,Banglore,Green Tea,18,-524
+01-Oct-25,B2,Banglore,Green Tea,271,139
+01-Nov-25,B2,Banglore,Green Tea,75,-4
+01-Dec-25,B2,Banglore,Green Tea,153,3
+01-Jan-26,B2,Banglore,Green Tea,98,40
+01-Feb-26,B2,Banglore,Green Tea,143,80
+01-Mar-26,B2,Banglore,Green Tea,44,14
+01-Apr-26,B2,Banglore,Green Tea,228,137
+01-May-26,B2,Banglore,Green Tea,134,44
+01-Jun-26,B2,Banglore,Green Tea,81,0
+01-Jul-26,B2,Banglore,Green Tea,51,21
+01-Aug-26,B2,Banglore,Green Tea,43,44
+01-Sep-26,B2,Banglore,Green Tea,37,-509
+01-Oct-26,B2,Banglore,Green Tea,279,145
+01-Nov-26,B2,Banglore,Green Tea,77,-4
+01-Dec-26,B2,Banglore,Green Tea,127,-4
+01-Jan-21,H1,Hyderabad,Green Tea,93,37
+01-Feb-21,H1,Hyderabad,Green Tea,143,80
+01-Mar-21,H1,Hyderabad,Green Tea,44,12
+01-Apr-21,H1,Hyderabad,Green Tea,228,135
+01-May-21,H1,Hyderabad,Green Tea,130,41
+01-Jun-21,H1,Hyderabad,Green Tea,81,0
+01-Jul-21,H1,Hyderabad,Green Tea,51,21
+01-Aug-21,H1,Hyderabad,Green Tea,43,43
+01-Sep-21,H1,Hyderabad,Green Tea,27,-522
+01-Oct-21,H1,Hyderabad,Green Tea,333,178
+01-Nov-21,H1,Hyderabad,Green Tea,88,1
+01-Dec-21,H1,Hyderabad,Green Tea,112,-7
+01-Jan-22,H1,Hyderabad,Green Tea,154,73
+01-Feb-22,H1,Hyderabad,Green Tea,153,87
+01-Mar-22,H1,Hyderabad,Green Tea,41,12
+01-Apr-22,H1,Hyderabad,Green Tea,243,145
+01-May-22,H1,Hyderabad,Green Tea,130,41
+01-Jun-22,H1,Hyderabad,Green Tea,85,1
+01-Jul-22,H1,Hyderabad,Green Tea,47,17
+01-Aug-22,H1,Hyderabad,Green Tea,43,43
+01-Sep-22,H1,Hyderabad,Green Tea,21,-558
+01-Oct-22,H1,Hyderabad,Green Tea,275,141
+01-Nov-22,H1,Hyderabad,Green Tea,64,-12
+01-Dec-22,H1,Hyderabad,Green Tea,104,-11
+01-Jan-23,H1,Hyderabad,Green Tea,149,70
+01-Feb-23,H1,Hyderabad,Green Tea,134,73
+01-Mar-23,H1,Hyderabad,Green Tea,53,19
+01-Apr-23,H1,Hyderabad,Green Tea,212,125
+01-May-23,H1,Hyderabad,Green Tea,160,58
+01-Jun-23,H1,Hyderabad,Green Tea,97,3
+01-Jul-23,H1,Hyderabad,Green Tea,61,25
+01-Aug-23,H1,Hyderabad,Green Tea,46,46
+01-Sep-23,H1,Hyderabad,Green Tea,20,-638
+01-Oct-23,H1,Hyderabad,Green Tea,245,120
+01-Nov-23,H1,Hyderabad,Green Tea,58,-19
+01-Dec-23,H1,Hyderabad,Green Tea,159,3
+01-Jan-24,H1,Hyderabad,Green Tea,218,110
+01-Feb-24,H1,Hyderabad,Green Tea,126,68
+01-Mar-24,H1,Hyderabad,Green Tea,56,22
+01-Apr-24,H1,Hyderabad,Green Tea,199,116
+01-May-24,H1,Hyderabad,Green Tea,194,83
+01-Jun-24,H1,Hyderabad,Green Tea,82,-4
+01-Jul-24,H1,Hyderabad,Green Tea,64,27
+01-Aug-24,H1,Hyderabad,Green Tea,46,47
+01-Sep-24,H1,Hyderabad,Green Tea,22,-539
+01-Oct-24,H1,Hyderabad,Green Tea,232,113
+01-Nov-24,H1,Hyderabad,Green Tea,60,-18
+01-Dec-24,H1,Hyderabad,Green Tea,153,0
+01-Jan-25,H1,Hyderabad,Green Tea,213,104
+01-Feb-25,H1,Hyderabad,Green Tea,83,42
+01-Mar-25,H1,Hyderabad,Green Tea,85,43
+01-Apr-25,H1,Hyderabad,Green Tea,131,70
+01-May-25,H1,Hyderabad,Green Tea,201,88
+01-Jun-25,H1,Hyderabad,Green Tea,79,-6
+01-Jul-25,H1,Hyderabad,Green Tea,96,49
+01-Aug-25,H1,Hyderabad,Green Tea,46,47
+01-Sep-25,H1,Hyderabad,Green Tea,34,-505
+01-Oct-25,H1,Hyderabad,Green Tea,261,132
+01-Nov-25,H1,Hyderabad,Green Tea,81,-4
+01-Dec-25,H1,Hyderabad,Green Tea,157,1
+01-Jan-26,H1,Hyderabad,Green Tea,197,98
+01-Feb-26,H1,Hyderabad,Green Tea,91,45
+01-Mar-26,H1,Hyderabad,Green Tea,78,37
+01-Apr-26,H1,Hyderabad,Green Tea,142,77
+01-May-26,H1,Hyderabad,Green Tea,179,70
+01-Jun-26,H1,Hyderabad,Green Tea,94,3
+01-Jul-26,H1,Hyderabad,Green Tea,87,42
+01-Aug-26,H1,Hyderabad,Green Tea,46,47
+01-Sep-26,H1,Hyderabad,Green Tea,33,-605
+01-Oct-26,H1,Hyderabad,Green Tea,341,180
+01-Nov-26,H1,Hyderabad,Green Tea,48,-22
+01-Dec-26,H1,Hyderabad,Green Tea,140,-4
+01-Jan-21,M3,Mumbai,Green Tea,121,36
+01-Feb-21,M3,Mumbai,Green Tea,127,70
+01-Mar-21,M3,Mumbai,Green Tea,121,34
+01-Apr-21,M3,Mumbai,Green Tea,218,110
+01-May-21,M3,Mumbai,Green Tea,82,-3
+01-Jun-21,M3,Mumbai,Green Tea,153,31
+01-Jul-21,M3,Mumbai,Green Tea,118,33
+01-Aug-21,M3,Mumbai,Green Tea,178,83
+01-Sep-21,M3,Mumbai,Green Tea,98,40
+01-Oct-21,M3,Mumbai,Green Tea,439,206
+01-Nov-21,M3,Mumbai,Green Tea,121,47
+01-Dec-21,M3,Mumbai,Green Tea,210,93
+01-Jan-22,M3,Mumbai,Green Tea,484,481
+01-Feb-22,M3,Mumbai,Green Tea,664,350
+01-Mar-22,M3,Mumbai,Green Tea,522,258
+01-Apr-22,M3,Mumbai,Green Tea,664,349
+01-May-22,M3,Mumbai,Green Tea,68,7
+01-Jun-22,M3,Mumbai,Green Tea,196,56
+01-Jul-22,M3,Mumbai,Green Tea,239,24
+01-Aug-22,M3,Mumbai,Green Tea,346,181
+01-Sep-22,M3,Mumbai,Green Tea,116,30
+01-Oct-22,M3,Mumbai,Green Tea,123,65
+01-Nov-22,M3,Mumbai,Green Tea,116,30
+01-Dec-22,M3,Mumbai,Green Tea,213,105
+01-Jan-23,M3,Mumbai,Green Tea,79,-6
+01-Feb-23,M3,Mumbai,Green Tea,136,21
+01-Mar-23,M3,Mumbai,Green Tea,132,40
+01-Apr-23,M3,Mumbai,Green Tea,166,74
+01-May-23,M3,Mumbai,Green Tea,106,43
+01-Jun-23,M3,Mumbai,Green Tea,569,288
+01-Jul-23,M3,Mumbai,Green Tea,108,36
+01-Aug-23,M3,Mumbai,Green Tea,236,108
+01-Sep-23,M3,Mumbai,Green Tea,543,579
+01-Oct-23,M3,Mumbai,Green Tea,745,402
+01-Nov-23,M3,Mumbai,Green Tea,559,279
+01-Dec-23,M3,Mumbai,Green Tea,745,402
+01-Jan-24,M3,Mumbai,Green Tea,74,12
+01-Feb-24,M3,Mumbai,Green Tea,163,39
+01-Mar-24,M3,Mumbai,Green Tea,266,30
+01-Apr-24,M3,Mumbai,Green Tea,308,156
+01-May-24,M3,Mumbai,Green Tea,130,42
+01-Jun-24,M3,Mumbai,Green Tea,128,68
+01-Jul-24,M3,Mumbai,Green Tea,130,40
+01-Aug-24,M3,Mumbai,Green Tea,197,98
+01-Sep-24,M3,Mumbai,Green Tea,94,1
+01-Oct-24,M3,Mumbai,Green Tea,104,1
+01-Nov-24,M3,Mumbai,Green Tea,121,31
+01-Dec-24,M3,Mumbai,Green Tea,188,86
+01-Jan-25,M3,Mumbai,Green Tea,87,13
+01-Feb-25,M3,Mumbai,Green Tea,128,49
+01-Mar-25,M3,Mumbai,Green Tea,141,76
+01-Apr-25,M3,Mumbai,Green Tea,42,12
+01-May-25,M3,Mumbai,Green Tea,567,291
+01-Jun-25,M3,Mumbai,Green Tea,85,42
+01-Jul-25,M3,Mumbai,Green Tea,113,-10
+01-Aug-25,M3,Mumbai,Green Tea,150,73
+01-Sep-25,M3,Mumbai,Green Tea,110,9
+01-Oct-25,M3,Mumbai,Green Tea,142,79
+01-Nov-25,M3,Mumbai,Green Tea,236,107
+01-Dec-25,M3,Mumbai,Green Tea,80,39
+01-Jan-26,M3,Mumbai,Green Tea,87,43
+01-Feb-26,M3,Mumbai,Green Tea,224,132
+01-Mar-26,M3,Mumbai,Green Tea,322,199
+01-Apr-26,M3,Mumbai,Green Tea,534,232
+01-May-26,M3,Mumbai,Green Tea,95,16
+01-Jun-26,M3,Mumbai,Green Tea,113,42
+01-Jul-26,M3,Mumbai,Green Tea,131,70
+01-Aug-26,M3,Mumbai,Green Tea,44,15
+01-Sep-26,M3,Mumbai,Green Tea,614,319
+01-Oct-26,M3,Mumbai,Green Tea,78,37
+01-Nov-26,M3,Mumbai,Green Tea,126,-6
+01-Dec-26,M3,Mumbai,Green Tea,114,45
+01-Jan-21,M1,Mumbai,Lemon Tea,150,0
+01-Feb-21,M1,Mumbai,Lemon Tea,190,68
+01-Mar-21,M1,Mumbai,Lemon Tea,80,29
+01-Apr-21,M1,Mumbai,Lemon Tea,120,13
+01-May-21,M1,Mumbai,Lemon Tea,130,17
+01-Jun-21,M1,Mumbai,Lemon Tea,483,111
+01-Jul-21,M1,Mumbai,Lemon Tea,140,42
+01-Aug-21,M1,Mumbai,Lemon Tea,452,160
+01-Sep-21,M1,Mumbai,Lemon Tea,234,86
+01-Oct-21,M1,Mumbai,Lemon Tea,99,-39
+01-Nov-21,M1,Mumbai,Lemon Tea,81,28
+01-Dec-21,M1,Mumbai,Lemon Tea,190,40
+01-Jan-22,M1,Mumbai,Lemon Tea,76,-4
+01-Feb-22,M1,Mumbai,Lemon Tea,190,40
+01-Mar-22,M1,Mumbai,Lemon Tea,62,4
+01-Apr-22,M1,Mumbai,Lemon Tea,190,10
+01-May-22,M1,Mumbai,Lemon Tea,345,111
+01-Jun-22,M1,Mumbai,Lemon Tea,100,29
+01-Jul-22,M1,Mumbai,Lemon Tea,120,25
+01-Aug-22,M1,Mumbai,Lemon Tea,85,30
+01-Sep-22,M1,Mumbai,Lemon Tea,129,-3
+01-Oct-22,M1,Mumbai,Lemon Tea,190,68
+01-Nov-22,M1,Mumbai,Lemon Tea,80,28
+01-Dec-22,M1,Mumbai,Lemon Tea,118,12
+01-Jan-23,M1,Mumbai,Lemon Tea,132,18
+01-Feb-23,M1,Mumbai,Lemon Tea,495,131
+01-Mar-23,M1,Mumbai,Lemon Tea,128,38
+01-Apr-23,M1,Mumbai,Lemon Tea,465,164
+01-May-23,M1,Mumbai,Lemon Tea,254,95
+01-Jun-23,M1,Mumbai,Lemon Tea,102,-32
+01-Jul-23,M1,Mumbai,Lemon Tea,115,43
+01-Aug-23,M1,Mumbai,Lemon Tea,193,41
+01-Sep-23,M1,Mumbai,Lemon Tea,74,-4
+01-Oct-23,M1,Mumbai,Lemon Tea,193,42
+01-Nov-23,M1,Mumbai,Lemon Tea,63,5
+01-Dec-23,M1,Mumbai,Lemon Tea,220,15
+01-Jan-24,M1,Mumbai,Lemon Tea,354,115
+01-Feb-24,M1,Mumbai,Lemon Tea,100,30
+01-Mar-24,M1,Mumbai,Lemon Tea,114,24
+01-Apr-24,M1,Mumbai,Lemon Tea,94,34
+01-May-24,M1,Mumbai,Lemon Tea,125,-4
+01-Jun-24,M1,Mumbai,Lemon Tea,193,70
+01-Jul-24,M1,Mumbai,Lemon Tea,79,28
+01-Aug-24,M1,Mumbai,Lemon Tea,120,12
+01-Sep-24,M1,Mumbai,Lemon Tea,129,16
+01-Oct-24,M1,Mumbai,Lemon Tea,513,141
+01-Nov-24,M1,Mumbai,Lemon Tea,121,35
+01-Dec-24,M1,Mumbai,Lemon Tea,467,165
+01-Jan-25,M1,Mumbai,Lemon Tea,267,102
+01-Feb-25,M1,Mumbai,Lemon Tea,106,-32
+01-Mar-25,M1,Mumbai,Lemon Tea,121,47
+01-Apr-25,M1,Mumbai,Lemon Tea,189,39
+01-May-25,M1,Mumbai,Lemon Tea,75,-3
+01-Jun-25,M1,Mumbai,Lemon Tea,189,39
+01-Jul-25,M1,Mumbai,Lemon Tea,63,5
+01-Aug-25,M1,Mumbai,Lemon Tea,227,17
+01-Sep-25,M1,Mumbai,Lemon Tea,367,119
+01-Oct-25,M1,Mumbai,Lemon Tea,98,29
+01-Nov-25,M1,Mumbai,Lemon Tea,119,26
+01-Dec-25,M1,Mumbai,Lemon Tea,82,29
+01-Jan-26,M1,Mumbai,Lemon Tea,125,-4
+01-Feb-26,M1,Mumbai,Lemon Tea,178,62
+01-Mar-26,M1,Mumbai,Lemon Tea,75,26
+01-Apr-26,M1,Mumbai,Lemon Tea,127,15
+01-May-26,M1,Mumbai,Lemon Tea,121,13
+01-Jun-26,M1,Mumbai,Lemon Tea,638,247
+01-Jul-26,M1,Mumbai,Lemon Tea,107,27
+01-Aug-26,M1,Mumbai,Lemon Tea,456,162
+01-Sep-26,M1,Mumbai,Lemon Tea,301,115
+01-Oct-26,M1,Mumbai,Lemon Tea,133,-12
+01-Nov-26,M1,Mumbai,Lemon Tea,121,47
+01-Dec-26,M1,Mumbai,Lemon Tea,178,34
+01-Jan-21,M2,Mumbai,Lemon Tea,79,-3
+01-Feb-21,M2,Mumbai,Lemon Tea,178,35
+01-Mar-21,M2,Mumbai,Lemon Tea,61,3
+01-Apr-21,M2,Mumbai,Lemon Tea,227,16
+01-May-21,M2,Mumbai,Lemon Tea,456,156
+01-Jun-21,M2,Mumbai,Lemon Tea,106,32
+01-Jul-21,M2,Mumbai,Lemon Tea,125,28
+01-Aug-21,M2,Mumbai,Lemon Tea,86,30
+01-Sep-21,M2,Mumbai,Lemon Tea,128,-3
+01-Oct-21,M2,Mumbai,Lemon Tea,190,68
+01-Nov-21,M2,Mumbai,Lemon Tea,71,23
+01-Dec-21,M2,Mumbai,Lemon Tea,130,17
+01-Jan-22,M2,Mumbai,Lemon Tea,118,12
+01-Feb-22,M2,Mumbai,Lemon Tea,651,252
+01-Mar-22,M2,Mumbai,Lemon Tea,103,25
+01-Apr-22,M2,Mumbai,Lemon Tea,512,183
+01-May-22,M2,Mumbai,Lemon Tea,312,122
+01-Jun-22,M2,Mumbai,Lemon Tea,136,-15
+01-Jul-22,M2,Mumbai,Lemon Tea,130,51
+01-Aug-22,M2,Mumbai,Lemon Tea,173,33
+01-Sep-22,M2,Mumbai,Lemon Tea,81,-1
+01-Oct-22,M2,Mumbai,Lemon Tea,173,33
+01-Nov-22,M2,Mumbai,Lemon Tea,68,7
+01-Dec-22,M2,Mumbai,Lemon Tea,221,17
+01-Jan-23,M2,Mumbai,Lemon Tea,465,160
+01-Feb-23,M2,Mumbai,Lemon Tea,99,30
+01-Mar-23,M2,Mumbai,Lemon Tea,132,32
+01-Apr-23,M2,Mumbai,Lemon Tea,99,36
+01-May-23,M2,Mumbai,Lemon Tea,107,-7
+01-Jun-23,M2,Mumbai,Lemon Tea,190,67
+01-Jul-23,M2,Mumbai,Lemon Tea,60,18
+01-Aug-23,M2,Mumbai,Lemon Tea,133,19
+01-Sep-23,M2,Mumbai,Lemon Tea,115,12
+01-Oct-23,M2,Mumbai,Lemon Tea,669,263
+01-Nov-23,M2,Mumbai,Lemon Tea,93,20
+01-Dec-23,M2,Mumbai,Lemon Tea,532,192
+01-Jan-24,M2,Mumbai,Lemon Tea,345,136
+01-Feb-24,M2,Mumbai,Lemon Tea,141,-33
+01-Mar-24,M2,Mumbai,Lemon Tea,144,58
+01-Apr-24,M2,Mumbai,Lemon Tea,169,32
+01-May-24,M2,Mumbai,Lemon Tea,82,0
+01-Jun-24,M2,Mumbai,Lemon Tea,169,32
+01-Jul-24,M2,Mumbai,Lemon Tea,70,8
+01-Aug-24,M2,Mumbai,Lemon Tea,264,25
+01-Sep-24,M2,Mumbai,Lemon Tea,478,166
+01-Oct-24,M2,Mumbai,Lemon Tea,99,30
+01-Nov-24,M2,Mumbai,Lemon Tea,156,42
+01-Dec-24,M2,Mumbai,Lemon Tea,107,40
+01-Jan-25,M2,Mumbai,Lemon Tea,95,-10
+01-Feb-25,M2,Mumbai,Lemon Tea,199,72
+01-Mar-25,M2,Mumbai,Lemon Tea,57,16
+01-Apr-25,M2,Mumbai,Lemon Tea,133,19
+01-May-25,M2,Mumbai,Lemon Tea,115,11
+01-Jun-25,M2,Mumbai,Lemon Tea,793,388
+01-Jul-25,M2,Mumbai,Lemon Tea,85,19
+01-Aug-25,M2,Mumbai,Lemon Tea,567,205
+01-Sep-25,M2,Mumbai,Lemon Tea,376,150
+01-Oct-25,M2,Mumbai,Lemon Tea,169,-12
+01-Nov-25,M2,Mumbai,Lemon Tea,144,58
+01-Dec-25,M2,Mumbai,Lemon Tea,169,32
+01-Jan-26,M2,Mumbai,Lemon Tea,82,0
+01-Feb-26,M2,Mumbai,Lemon Tea,169,31
+01-Mar-26,M2,Mumbai,Lemon Tea,75,10
+01-Apr-26,M2,Mumbai,Lemon Tea,297,32
+01-May-26,M2,Mumbai,Lemon Tea,567,208
+01-Jun-26,M2,Mumbai,Lemon Tea,94,27
+01-Jul-26,M2,Mumbai,Lemon Tea,160,44
+01-Aug-26,M2,Mumbai,Lemon Tea,99,37
+01-Sep-26,M2,Mumbai,Lemon Tea,89,-10
+01-Oct-26,M2,Mumbai,Lemon Tea,120,39
+01-Nov-26,M2,Mumbai,Lemon Tea,55,16
+01-Dec-26,M2,Mumbai,Lemon Tea,140,20
+01-Jan-21,M3,Mumbai,Lemon Tea,109,9
+01-Feb-21,M3,Mumbai,Lemon Tea,653,229
+01-Mar-21,M3,Mumbai,Lemon Tea,85,19
+01-Apr-21,M3,Mumbai,Lemon Tea,678,249
+01-May-21,M3,Mumbai,Lemon Tea,376,151
+01-Jun-21,M3,Mumbai,Lemon Tea,139,-41
+01-Jul-21,M3,Mumbai,Lemon Tea,154,63
+01-Aug-21,M3,Mumbai,Lemon Tea,160,28
+01-Sep-21,M3,Mumbai,Lemon Tea,86,1
+01-Oct-21,M3,Mumbai,Lemon Tea,160,28
+01-Nov-21,M3,Mumbai,Lemon Tea,90,15
+01-Dec-21,M3,Mumbai,Lemon Tea,317,34
+01-Jan-22,M3,Mumbai,Lemon Tea,467,163
+01-Feb-22,M3,Mumbai,Lemon Tea,155,53
+01-Mar-22,M3,Mumbai,Lemon Tea,160,44
+01-Apr-22,M3,Mumbai,Lemon Tea,118,45
+01-May-22,M3,Mumbai,Lemon Tea,126,-2
+01-Jun-22,M3,Mumbai,Lemon Tea,132,43
+01-Jul-22,M3,Mumbai,Lemon Tea,72,23
+01-Aug-22,M3,Mumbai,Lemon Tea,149,24
+01-Sep-22,M3,Mumbai,Lemon Tea,102,6
+01-Oct-22,M3,Mumbai,Lemon Tea,541,92
+01-Nov-22,M3,Mumbai,Lemon Tea,107,28
+01-Dec-22,M3,Mumbai,Lemon Tea,546,196
+01-Jan-23,M3,Mumbai,Lemon Tea,298,115
+01-Feb-23,M3,Mumbai,Lemon Tea,115,-44
+01-Mar-23,M3,Mumbai,Lemon Tea,126,50
+01-Apr-23,M3,Mumbai,Lemon Tea,150,24
+01-May-23,M3,Mumbai,Lemon Tea,91,2
+01-Jun-23,M3,Mumbai,Lemon Tea,150,25
+01-Jul-23,M3,Mumbai,Lemon Tea,72,8
+01-Aug-23,M3,Mumbai,Lemon Tea,223,16
+01-Sep-23,M3,Mumbai,Lemon Tea,387,129
+01-Oct-23,M3,Mumbai,Lemon Tea,140,47
+01-Nov-23,M3,Mumbai,Lemon Tea,139,34
+01-Dec-23,M3,Mumbai,Lemon Tea,119,47
+01-Jan-24,M3,Mumbai,Lemon Tea,122,-5
+01-Feb-24,M3,Mumbai,Lemon Tea,90,27
+01-Mar-24,M3,Mumbai,Lemon Tea,66,20
+01-Apr-24,M3,Mumbai,Lemon Tea,126,16
+01-May-24,M3,Mumbai,Lemon Tea,120,13
+01-Jun-24,M3,Mumbai,Lemon Tea,513,129
+01-Jul-24,M3,Mumbai,Lemon Tea,107,28
+01-Aug-24,M3,Mumbai,Lemon Tea,520,186
+01-Sep-24,M3,Mumbai,Lemon Tea,298,114
+01-Oct-24,M3,Mumbai,Lemon Tea,109,-26
+01-Nov-24,M3,Mumbai,Lemon Tea,118,45
+01-Dec-24,M3,Mumbai,Lemon Tea,177,34
+01-Jan-25,M3,Mumbai,Lemon Tea,77,-3
+01-Feb-25,M3,Mumbai,Lemon Tea,177,34
+01-Mar-25,M3,Mumbai,Lemon Tea,68,6
+01-Apr-25,M3,Mumbai,Lemon Tea,230,17
+01-May-25,M3,Mumbai,Lemon Tea,367,120
+01-Jun-25,M3,Mumbai,Lemon Tea,205,73
+01-Jul-25,M3,Mumbai,Lemon Tea,114,23
+01-Aug-25,M3,Mumbai,Lemon Tea,119,47
+01-Sep-25,M3,Mumbai,Lemon Tea,125,-4
+01-Oct-25,M3,Mumbai,Lemon Tea,92,27
+01-Nov-25,M3,Mumbai,Lemon Tea,88,30
+01-Dec-25,M3,Mumbai,Lemon Tea,121,13
+01-Jan-26,M3,Mumbai,Lemon Tea,124,15
+01-Feb-26,M3,Mumbai,Lemon Tea,576,204
+01-Mar-26,M3,Mumbai,Lemon Tea,114,31
+01-Apr-26,M3,Mumbai,Lemon Tea,490,174
+01-May-26,M3,Mumbai,Lemon Tea,278,107
+01-Jun-26,M3,Mumbai,Lemon Tea,122,-9
+01-Jul-26,M3,Mumbai,Lemon Tea,78,27
+01-Aug-26,M3,Mumbai,Lemon Tea,184,38
+01-Sep-26,M3,Mumbai,Lemon Tea,74,-4
+01-Oct-26,M3,Mumbai,Lemon Tea,184,38
+01-Nov-26,M3,Mumbai,Lemon Tea,64,5
+01-Dec-26,M3,Mumbai,Lemon Tea,224,15
+01-Jan-21,B1,Banglore,Lemon Tea,412,138
+01-Feb-21,B1,Banglore,Lemon Tea,200,70
+01-Mar-21,B1,Banglore,Lemon Tea,109,20
+01-Apr-21,B1,Banglore,Lemon Tea,115,44
+01-May-21,B1,Banglore,Lemon Tea,112,-6
+01-Jun-21,B1,Banglore,Lemon Tea,99,29
+01-Jul-21,B1,Banglore,Lemon Tea,82,29
+01-Aug-21,B1,Banglore,Lemon Tea,145,23
+01-Sep-21,B1,Banglore,Lemon Tea,103,7
+01-Oct-21,B1,Banglore,Lemon Tea,747,309
+01-Nov-21,B1,Banglore,Lemon Tea,101,24
+01-Dec-21,B1,Banglore,Lemon Tea,525,188
+01-Jan-22,B1,Banglore,Lemon Tea,312,123
+01-Feb-22,B1,Banglore,Lemon Tea,160,16
+01-Mar-22,B1,Banglore,Lemon Tea,85,30
+01-Apr-22,B1,Banglore,Lemon Tea,153,27
+01-May-22,B1,Banglore,Lemon Tea,88,2
+01-Jun-22,B1,Banglore,Lemon Tea,153,26
+01-Jul-22,B1,Banglore,Lemon Tea,69,7
+01-Aug-22,B1,Banglore,Lemon Tea,250,20
+01-Sep-22,B1,Banglore,Lemon Tea,534,194
+01-Oct-22,B1,Banglore,Lemon Tea,185,66
+01-Nov-22,B1,Banglore,Lemon Tea,122,28
+01-Dec-22,B1,Banglore,Lemon Tea,120,46
+01-Jan-23,B1,Banglore,Lemon Tea,168,0
+01-Feb-23,B1,Banglore,Lemon Tea,213,106
+01-Mar-23,B1,Banglore,Lemon Tea,90,45
+01-Apr-23,B1,Banglore,Lemon Tea,134,20
+01-May-23,B1,Banglore,Lemon Tea,145,26
+01-Jun-23,B1,Banglore,Lemon Tea,540,173
+01-Jul-23,B1,Banglore,Lemon Tea,157,65
+01-Aug-23,B1,Banglore,Lemon Tea,506,249
+01-Sep-23,B1,Banglore,Lemon Tea,262,134
+01-Oct-23,B1,Banglore,Lemon Tea,111,-61
+01-Nov-23,B1,Banglore,Lemon Tea,91,44
+01-Dec-23,B1,Banglore,Lemon Tea,213,62
+01-Jan-24,B1,Banglore,Lemon Tea,85,-6
+01-Feb-24,B1,Banglore,Lemon Tea,213,62
+01-Mar-24,B1,Banglore,Lemon Tea,69,6
+01-Apr-24,B1,Banglore,Lemon Tea,213,16
+01-May-24,B1,Banglore,Lemon Tea,386,173
+01-Jun-24,B1,Banglore,Lemon Tea,112,45
+01-Jul-24,B1,Banglore,Lemon Tea,134,39
+01-Aug-24,B1,Banglore,Lemon Tea,95,47
+01-Sep-24,B1,Banglore,Lemon Tea,137,-4
+01-Oct-24,B1,Banglore,Lemon Tea,202,101
+01-Nov-24,B1,Banglore,Lemon Tea,85,42
+01-Dec-24,B1,Banglore,Lemon Tea,126,18
+01-Jan-25,B1,Banglore,Lemon Tea,141,27
+01-Feb-25,B1,Banglore,Lemon Tea,528,194
+01-Mar-25,B1,Banglore,Lemon Tea,136,56
+01-Apr-25,B1,Banglore,Lemon Tea,496,243
+01-May-25,B1,Banglore,Lemon Tea,271,141
+01-Jun-25,B1,Banglore,Lemon Tea,109,-47
+01-Jul-25,B1,Banglore,Lemon Tea,123,64
+01-Aug-25,B1,Banglore,Lemon Tea,206,61
+01-Sep-25,B1,Banglore,Lemon Tea,79,-6
+01-Oct-25,B1,Banglore,Lemon Tea,206,62
+01-Nov-25,B1,Banglore,Lemon Tea,67,7
+01-Dec-25,B1,Banglore,Lemon Tea,234,22
+01-Jan-26,B1,Banglore,Lemon Tea,377,171
+01-Feb-26,B1,Banglore,Lemon Tea,107,45
+01-Mar-26,B1,Banglore,Lemon Tea,121,36
+01-Apr-26,B1,Banglore,Lemon Tea,100,50
+01-May-26,B1,Banglore,Lemon Tea,133,-6
+01-Jun-26,B1,Banglore,Lemon Tea,206,104
+01-Jul-26,B1,Banglore,Lemon Tea,84,42
+01-Aug-26,B1,Banglore,Lemon Tea,128,18
+01-Sep-26,B1,Banglore,Lemon Tea,137,24
+01-Oct-26,B1,Banglore,Lemon Tea,547,209
+01-Nov-26,B1,Banglore,Lemon Tea,129,52
+01-Dec-26,B1,Banglore,Lemon Tea,498,245
+01-Jan-21,B2,Banglore,Lemon Tea,285,151
+01-Feb-21,B2,Banglore,Lemon Tea,113,-47
+01-Mar-21,B2,Banglore,Lemon Tea,129,70
+01-Apr-21,B2,Banglore,Lemon Tea,201,58
+01-May-21,B2,Banglore,Lemon Tea,80,-4
+01-Jun-21,B2,Banglore,Lemon Tea,201,58
+01-Jul-21,B2,Banglore,Lemon Tea,67,7
+01-Aug-21,B2,Banglore,Lemon Tea,242,25
+01-Sep-21,B2,Banglore,Lemon Tea,391,177
+01-Oct-21,B2,Banglore,Lemon Tea,104,43
+01-Nov-21,B2,Banglore,Lemon Tea,127,39
+01-Dec-21,B2,Banglore,Lemon Tea,87,43
+01-Jan-22,B2,Banglore,Lemon Tea,133,-6
+01-Feb-22,B2,Banglore,Lemon Tea,190,92
+01-Mar-22,B2,Banglore,Lemon Tea,80,39
+01-Apr-22,B2,Banglore,Lemon Tea,135,22
+01-May-22,B2,Banglore,Lemon Tea,129,19
+01-Jun-22,B2,Banglore,Lemon Tea,680,367
+01-Jul-22,B2,Banglore,Lemon Tea,114,40
+01-Aug-22,B2,Banglore,Lemon Tea,486,240
+01-Sep-22,B2,Banglore,Lemon Tea,321,171
+01-Oct-22,B2,Banglore,Lemon Tea,142,-18
+01-Nov-22,B2,Banglore,Lemon Tea,129,70
+01-Dec-22,B2,Banglore,Lemon Tea,190,50
+01-Jan-23,B2,Banglore,Lemon Tea,84,-4
+01-Feb-23,B2,Banglore,Lemon Tea,190,52
+01-Mar-23,B2,Banglore,Lemon Tea,65,4
+01-Apr-23,B2,Banglore,Lemon Tea,242,24
+01-May-23,B2,Banglore,Lemon Tea,486,232
+01-Jun-23,B2,Banglore,Lemon Tea,113,47
+01-Jul-23,B2,Banglore,Lemon Tea,133,42
+01-Aug-23,B2,Banglore,Lemon Tea,92,45
+01-Sep-23,B2,Banglore,Lemon Tea,127,-4
+01-Oct-23,B2,Banglore,Lemon Tea,188,94
+01-Nov-23,B2,Banglore,Lemon Tea,70,32
+01-Dec-23,B2,Banglore,Lemon Tea,129,23
+01-Jan-24,B2,Banglore,Lemon Tea,117,17
+01-Feb-24,B2,Banglore,Lemon Tea,645,348
+01-Mar-24,B2,Banglore,Lemon Tea,102,35
+01-Apr-24,B2,Banglore,Lemon Tea,507,253
+01-May-24,B2,Banglore,Lemon Tea,309,168
+01-Jun-24,B2,Banglore,Lemon Tea,135,-21
+01-Jul-24,B2,Banglore,Lemon Tea,129,70
+01-Aug-24,B2,Banglore,Lemon Tea,171,46
+01-Sep-24,B2,Banglore,Lemon Tea,80,-1
+01-Oct-24,B2,Banglore,Lemon Tea,171,46
+01-Nov-24,B2,Banglore,Lemon Tea,67,10
+01-Dec-24,B2,Banglore,Lemon Tea,219,23
+01-Jan-25,B2,Banglore,Lemon Tea,461,221
+01-Feb-25,B2,Banglore,Lemon Tea,98,41
+01-Mar-25,B2,Banglore,Lemon Tea,131,44
+01-Apr-25,B2,Banglore,Lemon Tea,98,50
+01-May-25,B2,Banglore,Lemon Tea,106,-10
+01-Jun-25,B2,Banglore,Lemon Tea,188,92
+01-Jul-25,B2,Banglore,Lemon Tea,59,25
+01-Aug-25,B2,Banglore,Lemon Tea,132,26
+01-Sep-25,B2,Banglore,Lemon Tea,114,17
+01-Oct-25,B2,Banglore,Lemon Tea,663,363
+01-Nov-25,B2,Banglore,Lemon Tea,92,28
+01-Dec-25,B2,Banglore,Lemon Tea,527,265
+01-Jan-26,B2,Banglore,Lemon Tea,342,188
+01-Feb-26,B2,Banglore,Lemon Tea,140,-46
+01-Mar-26,B2,Banglore,Lemon Tea,143,80
+01-Apr-26,B2,Banglore,Lemon Tea,167,44
+01-May-26,B2,Banglore,Lemon Tea,81,0
+01-Jun-26,B2,Banglore,Lemon Tea,167,44
+01-Jul-26,B2,Banglore,Lemon Tea,69,11
+01-Aug-26,B2,Banglore,Lemon Tea,262,35
+01-Sep-26,B2,Banglore,Lemon Tea,474,229
+01-Oct-26,B2,Banglore,Lemon Tea,98,41
+01-Nov-26,B2,Banglore,Lemon Tea,155,58
+01-Dec-26,B2,Banglore,Lemon Tea,106,55
+01-Jan-21,H1,Hyderabad,Lemon Tea,94,-14
+01-Feb-21,H1,Hyderabad,Lemon Tea,197,99
+01-Mar-21,H1,Hyderabad,Lemon Tea,56,22
+01-Apr-21,H1,Hyderabad,Lemon Tea,132,26
+01-May-21,H1,Hyderabad,Lemon Tea,114,15
+01-Jun-21,H1,Hyderabad,Lemon Tea,786,536
+01-Jul-21,H1,Hyderabad,Lemon Tea,84,26
+01-Aug-21,H1,Hyderabad,Lemon Tea,562,283
+01-Sep-21,H1,Hyderabad,Lemon Tea,373,207
+01-Oct-21,H1,Hyderabad,Lemon Tea,167,-17
+01-Nov-21,H1,Hyderabad,Lemon Tea,143,80
+01-Dec-21,H1,Hyderabad,Lemon Tea,167,44
+01-Jan-22,H1,Hyderabad,Lemon Tea,81,0
+01-Feb-22,H1,Hyderabad,Lemon Tea,167,43
+01-Mar-22,H1,Hyderabad,Lemon Tea,74,14
+01-Apr-22,H1,Hyderabad,Lemon Tea,294,44
+01-May-22,H1,Hyderabad,Lemon Tea,562,287
+01-Jun-22,H1,Hyderabad,Lemon Tea,93,37
+01-Jul-22,H1,Hyderabad,Lemon Tea,159,61
+01-Aug-22,H1,Hyderabad,Lemon Tea,98,51
+01-Sep-22,H1,Hyderabad,Lemon Tea,88,-14
+01-Oct-22,H1,Hyderabad,Lemon Tea,119,54
+01-Nov-22,H1,Hyderabad,Lemon Tea,55,22
+01-Dec-22,H1,Hyderabad,Lemon Tea,139,28
+01-Jan-23,H1,Hyderabad,Lemon Tea,108,12
+01-Feb-23,H1,Hyderabad,Lemon Tea,647,316
+01-Mar-23,H1,Hyderabad,Lemon Tea,84,26
+01-Apr-23,H1,Hyderabad,Lemon Tea,672,344
+01-May-23,H1,Hyderabad,Lemon Tea,373,208
+01-Jun-23,H1,Hyderabad,Lemon Tea,138,-57
+01-Jul-23,H1,Hyderabad,Lemon Tea,153,87
+01-Aug-23,H1,Hyderabad,Lemon Tea,159,39
+01-Sep-23,H1,Hyderabad,Lemon Tea,85,1
+01-Oct-23,H1,Hyderabad,Lemon Tea,159,39
+01-Nov-23,H1,Hyderabad,Lemon Tea,89,21
+01-Dec-23,H1,Hyderabad,Lemon Tea,314,47
+01-Jan-24,H1,Hyderabad,Lemon Tea,463,225
+01-Feb-24,H1,Hyderabad,Lemon Tea,154,73
+01-Mar-24,H1,Hyderabad,Lemon Tea,159,61
+01-Apr-24,H1,Hyderabad,Lemon Tea,117,62
+01-May-24,H1,Hyderabad,Lemon Tea,134,-3
+01-Jun-24,H1,Hyderabad,Lemon Tea,141,64
+01-Jul-24,H1,Hyderabad,Lemon Tea,77,34
+01-Aug-24,H1,Hyderabad,Lemon Tea,159,36
+01-Sep-24,H1,Hyderabad,Lemon Tea,109,9
+01-Oct-24,H1,Hyderabad,Lemon Tea,577,137
+01-Nov-24,H1,Hyderabad,Lemon Tea,114,42
+01-Dec-24,H1,Hyderabad,Lemon Tea,582,291
+01-Jan-25,H1,Hyderabad,Lemon Tea,318,171
+01-Feb-25,H1,Hyderabad,Lemon Tea,123,-65
+01-Mar-25,H1,Hyderabad,Lemon Tea,134,74
+01-Apr-25,H1,Hyderabad,Lemon Tea,160,36
+01-May-25,H1,Hyderabad,Lemon Tea,97,3
+01-Jun-25,H1,Hyderabad,Lemon Tea,160,37
+01-Jul-25,H1,Hyderabad,Lemon Tea,77,12
+01-Aug-25,H1,Hyderabad,Lemon Tea,238,24
+01-Sep-25,H1,Hyderabad,Lemon Tea,412,191
+01-Oct-25,H1,Hyderabad,Lemon Tea,149,70
+01-Nov-25,H1,Hyderabad,Lemon Tea,148,50
+01-Dec-25,H1,Hyderabad,Lemon Tea,127,70
+01-Jan-26,H1,Hyderabad,Lemon Tea,130,-7
+01-Feb-26,H1,Hyderabad,Lemon Tea,96,40
+01-Mar-26,H1,Hyderabad,Lemon Tea,70,30
+01-Apr-26,H1,Hyderabad,Lemon Tea,134,24
+01-May-26,H1,Hyderabad,Lemon Tea,128,19
+01-Jun-26,H1,Hyderabad,Lemon Tea,547,191
+01-Jul-26,H1,Hyderabad,Lemon Tea,114,42
+01-Aug-26,H1,Hyderabad,Lemon Tea,554,276
+01-Sep-26,H1,Hyderabad,Lemon Tea,318,169
+01-Oct-26,H1,Hyderabad,Lemon Tea,116,-39
+01-Nov-26,H1,Hyderabad,Lemon Tea,126,67
+01-Dec-26,H1,Hyderabad,Lemon Tea,189,50
+01-Jan-21,M1,Mumbai,Mint Tea,140,33
+01-Feb-21,M1,Mumbai,Mint Tea,234,101
+01-Mar-21,M1,Mumbai,Mint Tea,150,39
+01-Apr-21,M1,Mumbai,Mint Tea,180,-113
+01-May-21,M1,Mumbai,Mint Tea,190,67
+01-Jun-21,M1,Mumbai,Mint Tea,170,47
+01-Jul-21,M1,Mumbai,Mint Tea,234,86
+01-Aug-21,M1,Mumbai,Mint Tea,99,-40
+01-Sep-21,M1,Mumbai,Mint Tea,140,33
+01-Oct-21,M1,Mumbai,Mint Tea,232,99
+01-Nov-21,M1,Mumbai,Mint Tea,154,42
+01-Dec-21,M1,Mumbai,Mint Tea,180,-120
+01-Jan-22,M1,Mumbai,Mint Tea,190,68
+01-Feb-22,M1,Mumbai,Mint Tea,165,46
+01-Mar-22,M1,Mumbai,Mint Tea,254,94
+01-Apr-22,M1,Mumbai,Mint Tea,102,-31
+01-May-22,M1,Mumbai,Mint Tea,134,31
+01-Jun-22,M1,Mumbai,Mint Tea,234,102
+01-Jul-22,M1,Mumbai,Mint Tea,155,40
+01-Aug-22,M1,Mumbai,Mint Tea,182,-119
+01-Sep-22,M1,Mumbai,Mint Tea,193,69
+01-Oct-22,M1,Mumbai,Mint Tea,163,46
+01-Nov-22,M1,Mumbai,Mint Tea,267,102
+01-Dec-22,M1,Mumbai,Mint Tea,106,-32
+01-Jan-23,M1,Mumbai,Mint Tea,129,29
+01-Feb-23,M1,Mumbai,Mint Tea,245,106
+01-Mar-23,M1,Mumbai,Mint Tea,151,39
+01-Apr-23,M1,Mumbai,Mint Tea,189,-105
+01-May-23,M1,Mumbai,Mint Tea,178,62
+01-Jun-23,M1,Mumbai,Mint Tea,167,46
+01-Jul-23,M1,Mumbai,Mint Tea,301,115
+01-Aug-23,M1,Mumbai,Mint Tea,133,-11
+01-Sep-23,M1,Mumbai,Mint Tea,123,26
+01-Oct-23,M1,Mumbai,Mint Tea,256,112
+01-Nov-23,M1,Mumbai,Mint Tea,170,47
+01-Dec-23,M1,Mumbai,Mint Tea,198,-131
+01-Jan-24,M1,Mumbai,Mint Tea,190,67
+01-Feb-24,M1,Mumbai,Mint Tea,148,38
+01-Mar-24,M1,Mumbai,Mint Tea,312,121
+01-Apr-24,M1,Mumbai,Mint Tea,136,-15
+01-May-24,M1,Mumbai,Mint Tea,118,24
+01-Jun-24,M1,Mumbai,Mint Tea,301,133
+01-Jul-24,M1,Mumbai,Mint Tea,177,49
+01-Aug-24,M1,Mumbai,Mint Tea,198,-143
+01-Sep-24,M1,Mumbai,Mint Tea,190,67
+01-Oct-24,M1,Mumbai,Mint Tea,142,36
+01-Nov-24,M1,Mumbai,Mint Tea,345,136
+01-Dec-24,M1,Mumbai,Mint Tea,141,-33
+01-Jan-25,M1,Mumbai,Mint Tea,110,21
+01-Feb-25,M1,Mumbai,Mint Tea,312,139
+01-Mar-25,M1,Mumbai,Mint Tea,189,55
+01-Apr-25,M1,Mumbai,Mint Tea,198,-164
+01-May-25,M1,Mumbai,Mint Tea,199,72
+01-Jun-25,M1,Mumbai,Mint Tea,132,33
+01-Jul-25,M1,Mumbai,Mint Tea,376,150
+01-Aug-25,M1,Mumbai,Mint Tea,169,-12
+01-Sep-25,M1,Mumbai,Mint Tea,108,20
+01-Oct-25,M1,Mumbai,Mint Tea,323,143
+01-Nov-25,M1,Mumbai,Mint Tea,226,70
+01-Dec-25,M1,Mumbai,Mint Tea,124,-304
+01-Jan-26,M1,Mumbai,Mint Tea,120,38
+01-Feb-26,M1,Mumbai,Mint Tea,110,24
+01-Mar-26,M1,Mumbai,Mint Tea,376,150
+01-Apr-26,M1,Mumbai,Mint Tea,139,-41
+01-May-26,M1,Mumbai,Mint Tea,125,27
+01-Jun-26,M1,Mumbai,Mint Tea,245,106
+01-Jul-26,M1,Mumbai,Mint Tea,182,53
+01-Aug-26,M1,Mumbai,Mint Tea,112,-238
+01-Sep-26,M1,Mumbai,Mint Tea,132,43
+01-Oct-26,M1,Mumbai,Mint Tea,136,33
+01-Nov-26,M1,Mumbai,Mint Tea,298,115
+01-Dec-26,M1,Mumbai,Mint Tea,115,-45
+01-Jan-21,M2,Mumbai,Mint Tea,123,26
+01-Feb-21,M2,Mumbai,Mint Tea,265,116
+01-Mar-21,M2,Mumbai,Mint Tea,174,48
+01-Apr-21,M2,Mumbai,Mint Tea,164,-170
+01-May-21,M2,Mumbai,Mint Tea,90,26
+01-Jun-21,M2,Mumbai,Mint Tea,142,35
+01-Jul-21,M2,Mumbai,Mint Tea,298,114
+01-Aug-21,M2,Mumbai,Mint Tea,109,-27
+01-Sep-21,M2,Mumbai,Mint Tea,138,32
+01-Oct-21,M2,Mumbai,Mint Tea,198,84
+01-Nov-21,M2,Mumbai,Mint Tea,164,44
+01-Dec-21,M2,Mumbai,Mint Tea,160,-156
+01-Jan-22,M2,Mumbai,Mint Tea,92,27
+01-Feb-22,M2,Mumbai,Mint Tea,150,38
+01-Mar-22,M2,Mumbai,Mint Tea,278,107
+01-Apr-22,M2,Mumbai,Mint Tea,122,-8
+01-May-22,M2,Mumbai,Mint Tea,127,29
+01-Jun-22,M2,Mumbai,Mint Tea,210,88
+01-Jul-22,M2,Mumbai,Mint Tea,176,50
+01-Aug-22,M2,Mumbai,Mint Tea,148,-189
+01-Sep-22,M2,Mumbai,Mint Tea,99,29
+01-Oct-22,M2,Mumbai,Mint Tea,139,36
+01-Nov-22,M2,Mumbai,Mint Tea,312,122
+01-Dec-22,M2,Mumbai,Mint Tea,160,17
+01-Jan-23,M2,Mumbai,Mint Tea,157,51
+01-Feb-23,M2,Mumbai,Mint Tea,262,157
+01-Mar-23,M2,Mumbai,Mint Tea,168,61
+01-Apr-23,M2,Mumbai,Mint Tea,201,-176
+01-May-23,M2,Mumbai,Mint Tea,213,104
+01-Jun-23,M2,Mumbai,Mint Tea,190,73
+01-Jul-23,M2,Mumbai,Mint Tea,262,134
+01-Aug-23,M2,Mumbai,Mint Tea,111,-62
+01-Sep-23,M2,Mumbai,Mint Tea,149,49
+01-Oct-23,M2,Mumbai,Mint Tea,247,147
+01-Nov-23,M2,Mumbai,Mint Tea,164,62
+01-Dec-23,M2,Mumbai,Mint Tea,192,-178
+01-Jan-24,M2,Mumbai,Mint Tea,202,101
+01-Feb-24,M2,Mumbai,Mint Tea,176,68
+01-Mar-24,M2,Mumbai,Mint Tea,271,140
+01-Apr-24,M2,Mumbai,Mint Tea,109,-46
+01-May-24,M2,Mumbai,Mint Tea,143,46
+01-Jun-24,M2,Mumbai,Mint Tea,249,151
+01-Jul-24,M2,Mumbai,Mint Tea,165,59
+01-Aug-24,M2,Mumbai,Mint Tea,194,-177
+01-Sep-24,M2,Mumbai,Mint Tea,206,102
+01-Oct-24,M2,Mumbai,Mint Tea,174,68
+01-Nov-24,M2,Mumbai,Mint Tea,285,151
+01-Dec-24,M2,Mumbai,Mint Tea,113,-47
+01-Jan-25,M2,Mumbai,Mint Tea,137,43
+01-Feb-25,M2,Mumbai,Mint Tea,261,157
+01-Mar-25,M2,Mumbai,Mint Tea,161,58
+01-Apr-25,M2,Mumbai,Mint Tea,201,-156
+01-May-25,M2,Mumbai,Mint Tea,190,92
+01-Jun-25,M2,Mumbai,Mint Tea,178,68
+01-Jul-25,M2,Mumbai,Mint Tea,321,171
+01-Aug-25,M2,Mumbai,Mint Tea,142,-16
+01-Sep-25,M2,Mumbai,Mint Tea,122,36
+01-Oct-25,M2,Mumbai,Mint Tea,254,155
+01-Nov-25,M2,Mumbai,Mint Tea,168,65
+01-Dec-25,M2,Mumbai,Mint Tea,196,-181
+01-Jan-26,M2,Mumbai,Mint Tea,188,92
+01-Feb-26,M2,Mumbai,Mint Tea,147,52
+01-Mar-26,M2,Mumbai,Mint Tea,309,167
+01-Apr-26,M2,Mumbai,Mint Tea,135,-21
+01-May-26,M2,Mumbai,Mint Tea,117,33
+01-Jun-26,M2,Mumbai,Mint Tea,298,184
+01-Jul-26,M2,Mumbai,Mint Tea,175,68
+01-Aug-26,M2,Mumbai,Mint Tea,196,-197
+01-Sep-26,M2,Mumbai,Mint Tea,188,92
+01-Oct-26,M2,Mumbai,Mint Tea,141,50
+01-Nov-26,M2,Mumbai,Mint Tea,342,188
+01-Dec-26,M2,Mumbai,Mint Tea,140,-46
+01-Jan-21,M3,Mumbai,Mint Tea,109,29
+01-Feb-21,M3,Mumbai,Mint Tea,309,192
+01-Mar-21,M3,Mumbai,Mint Tea,187,76
+01-Apr-21,M3,Mumbai,Mint Tea,196,-226
+01-May-21,M3,Mumbai,Mint Tea,197,99
+01-Jun-21,M3,Mumbai,Mint Tea,131,46
+01-Jul-21,M3,Mumbai,Mint Tea,373,207
+01-Aug-21,M3,Mumbai,Mint Tea,167,-17
+01-Sep-21,M3,Mumbai,Mint Tea,107,28
+01-Oct-21,M3,Mumbai,Mint Tea,320,197
+01-Nov-21,M3,Mumbai,Mint Tea,224,97
+01-Dec-21,M3,Mumbai,Mint Tea,123,-420
+01-Jan-22,M3,Mumbai,Mint Tea,119,52
+01-Feb-22,M3,Mumbai,Mint Tea,109,33
+01-Mar-22,M3,Mumbai,Mint Tea,373,207
+01-Apr-22,M3,Mumbai,Mint Tea,138,-57
+01-May-22,M3,Mumbai,Mint Tea,133,40
+01-Jun-22,M3,Mumbai,Mint Tea,261,157
+01-Jul-22,M3,Mumbai,Mint Tea,194,79
+01-Aug-22,M3,Mumbai,Mint Tea,119,-353
+01-Sep-22,M3,Mumbai,Mint Tea,141,64
+01-Oct-22,M3,Mumbai,Mint Tea,145,49
+01-Nov-22,M3,Mumbai,Mint Tea,318,171
+01-Dec-22,M3,Mumbai,Mint Tea,123,-67
+01-Jan-23,M3,Mumbai,Mint Tea,131,39
+01-Feb-23,M3,Mumbai,Mint Tea,282,172
+01-Mar-23,M3,Mumbai,Mint Tea,185,71
+01-Apr-23,M3,Mumbai,Mint Tea,175,-252
+01-May-23,M3,Mumbai,Mint Tea,96,39
+01-Jun-23,M3,Mumbai,Mint Tea,151,52
+01-Jul-23,M3,Mumbai,Mint Tea,318,169
+01-Aug-23,M3,Mumbai,Mint Tea,116,-40
+01-Sep-23,M3,Mumbai,Mint Tea,147,47
+01-Oct-23,M3,Mumbai,Mint Tea,211,125
+01-Nov-23,M3,Mumbai,Mint Tea,175,65
+01-Dec-23,M3,Mumbai,Mint Tea,171,-232
+01-Jan-24,M3,Mumbai,Mint Tea,98,40
+01-Feb-24,M3,Mumbai,Mint Tea,160,56
+01-Mar-24,M3,Mumbai,Mint Tea,296,159
+01-Apr-24,M3,Mumbai,Mint Tea,130,-12
+01-May-24,M3,Mumbai,Mint Tea,135,43
+01-Jun-24,M3,Mumbai,Mint Tea,224,131
+01-Jul-24,M3,Mumbai,Mint Tea,188,74
+01-Aug-24,M3,Mumbai,Mint Tea,158,-280
+01-Sep-24,M3,Mumbai,Mint Tea,106,43
+01-Oct-24,M3,Mumbai,Mint Tea,148,53
+01-Nov-24,M3,Mumbai,Mint Tea,332,181
+01-Dec-24,M3,Mumbai,Mint Tea,171,25
+01-Jan-25,M3,Mumbai,Mint Tea,150,71
+01-Feb-25,M3,Mumbai,Mint Tea,246,126
+01-Mar-25,M3,Mumbai,Mint Tea,42,13
+01-Apr-25,M3,Mumbai,Mint Tea,129,19
+01-May-25,M3,Mumbai,Mint Tea,308,39
+01-Jun-25,M3,Mumbai,Mint Tea,67,28
+01-Jul-25,M3,Mumbai,Mint Tea,120,45
+01-Aug-25,M3,Mumbai,Mint Tea,346,181
+01-Sep-25,M3,Mumbai,Mint Tea,326,129
+01-Oct-25,M3,Mumbai,Mint Tea,322,197
+01-Nov-25,M3,Mumbai,Mint Tea,78,37
+01-Dec-25,M3,Mumbai,Mint Tea,60,18
+01-Jan-26,M3,Mumbai,Mint Tea,135,42
+01-Feb-26,M3,Mumbai,Mint Tea,224,132
+01-Mar-26,M3,Mumbai,Mint Tea,614,321
+01-Apr-26,M3,Mumbai,Mint Tea,126,-7
+01-May-26,M3,Mumbai,Mint Tea,114,45
+01-Jun-26,M3,Mumbai,Mint Tea,228,114
+01-Jul-26,M3,Mumbai,Mint Tea,44,13
+01-Aug-26,M3,Mumbai,Mint Tea,155,33
+01-Sep-26,M3,Mumbai,Mint Tea,343,47
+01-Oct-26,M3,Mumbai,Mint Tea,64,28
+01-Nov-26,M3,Mumbai,Mint Tea,135,53
+01-Dec-26,M3,Mumbai,Mint Tea,308,156
+01-Jan-21,M1,Mumbai,Regular Espresso,341,100
+01-Feb-21,M1,Mumbai,Regular Espresso,490,175
+01-Mar-21,M1,Mumbai,Regular Espresso,65,-8
+01-Apr-21,M1,Mumbai,Regular Espresso,340,99
+01-May-21,M1,Mumbai,Regular Espresso,580,264
+01-Jun-21,M1,Mumbai,Regular Espresso,68,-6
+01-Jul-21,M1,Mumbai,Regular Espresso,325,94
+01-Aug-21,M1,Mumbai,Regular Espresso,523,194
+01-Sep-21,M1,Mumbai,Regular Espresso,75,-4
+01-Oct-21,M1,Mumbai,Regular Espresso,325,94
+01-Nov-21,M1,Mumbai,Regular Espresso,564,235
+01-Dec-21,M1,Mumbai,Regular Espresso,65,-9
+01-Jan-22,M1,Mumbai,Regular Espresso,298,84
+01-Feb-22,M1,Mumbai,Regular Espresso,543,187
+01-Mar-22,M1,Mumbai,Regular Espresso,76,-3
+01-Apr-22,M1,Mumbai,Regular Espresso,298,83
+01-May-22,M1,Mumbai,Regular Espresso,675,318
+01-Jun-22,M1,Mumbai,Regular Espresso,78,-3
+01-Jul-22,M1,Mumbai,Regular Espresso,291,81
+01-Aug-22,M1,Mumbai,Regular Espresso,546,182
+01-Sep-22,M1,Mumbai,Regular Espresso,89,0
+01-Oct-22,M1,Mumbai,Regular Espresso,291,82
+01-Nov-22,M1,Mumbai,Regular Espresso,543,179
+01-Dec-22,M1,Mumbai,Regular Espresso,65,-9
+01-Jan-23,M1,Mumbai,Regular Espresso,310,87
+01-Feb-23,M1,Mumbai,Regular Espresso,567,224
+01-Mar-23,M1,Mumbai,Regular Espresso,54,-12
+01-Apr-23,M1,Mumbai,Regular Espresso,322,92
+01-May-23,M1,Mumbai,Regular Espresso,765,435
+01-Jun-23,M1,Mumbai,Regular Espresso,56,-12
+01-Jul-23,M1,Mumbai,Regular Espresso,363,108
+01-Aug-23,M1,Mumbai,Regular Espresso,675,381
+01-Sep-23,M1,Mumbai,Regular Espresso,76,-3
+01-Oct-23,M1,Mumbai,Regular Espresso,306,87
+01-Nov-23,M1,Mumbai,Regular Espresso,657,312
+01-Dec-23,M1,Mumbai,Regular Espresso,45,-16
+01-Jan-24,M1,Mumbai,Regular Espresso,382,156
+01-Feb-24,M1,Mumbai,Regular Espresso,548,273
+01-Mar-24,M1,Mumbai,Regular Espresso,73,-12
+01-Apr-24,M1,Mumbai,Regular Espresso,362,147
+01-May-24,M1,Mumbai,Regular Espresso,618,392
+01-Jun-24,M1,Mumbai,Regular Espresso,72,-9
+01-Jul-24,M1,Mumbai,Regular Espresso,346,140
+01-Aug-24,M1,Mumbai,Regular Espresso,557,288
+01-Sep-24,M1,Mumbai,Regular Espresso,80,-6
+01-Oct-24,M1,Mumbai,Regular Espresso,346,140
+01-Nov-24,M1,Mumbai,Regular Espresso,601,349
+01-Dec-24,M1,Mumbai,Regular Espresso,69,-13
+01-Jan-25,M1,Mumbai,Regular Espresso,295,116
+01-Feb-25,M1,Mumbai,Regular Espresso,538,258
+01-Mar-25,M1,Mumbai,Regular Espresso,75,-4
+01-Apr-25,M1,Mumbai,Regular Espresso,295,115
+01-May-25,M1,Mumbai,Regular Espresso,669,439
+01-Jun-25,M1,Mumbai,Regular Espresso,77,-4
+01-Jul-25,M1,Mumbai,Regular Espresso,288,112
+01-Aug-25,M1,Mumbai,Regular Espresso,541,251
+01-Sep-25,M1,Mumbai,Regular Espresso,88,0
+01-Oct-25,M1,Mumbai,Regular Espresso,288,113
+01-Nov-25,M1,Mumbai,Regular Espresso,538,247
+01-Dec-25,M1,Mumbai,Regular Espresso,64,-12
+01-Jan-26,M1,Mumbai,Regular Espresso,330,129
+01-Feb-26,M1,Mumbai,Regular Espresso,604,332
+01-Mar-26,M1,Mumbai,Regular Espresso,58,-18
+01-Apr-26,M1,Mumbai,Regular Espresso,343,137
+01-May-26,M1,Mumbai,Regular Espresso,815,646
+01-Jun-26,M1,Mumbai,Regular Espresso,60,-18
+01-Jul-26,M1,Mumbai,Regular Espresso,387,160
+01-Aug-26,M1,Mumbai,Regular Espresso,719,565
+01-Sep-26,M1,Mumbai,Regular Espresso,81,-4
+01-Oct-26,M1,Mumbai,Regular Espresso,326,129
+01-Nov-26,M1,Mumbai,Regular Espresso,700,463
+01-Dec-26,M1,Mumbai,Regular Espresso,48,-24

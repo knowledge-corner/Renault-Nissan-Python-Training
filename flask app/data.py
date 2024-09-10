@@ -25,7 +25,7 @@ products = list(df["Product"].unique())
 def fig_bar_sales(data) :
     # Sales by product bar
     fig = plt.figure(figsize=(10, 5))
-    sns.barplot(x='Product', y='Sales', hue='Product', data=df, estimator="sum",
+    sns.barplot(x='Product', y='Sales', hue='Product', data=data, estimator="sum",
                     errorbar=None)
     plt.title("Sales by Product", loc = "left", fontdict={"fontsize" : 16}, pad = 10)
     plt.xticks(rotation = 20, size = 8)
@@ -45,7 +45,7 @@ def fig_bar_sales(data) :
 def fig_bar_profit(data) :
     # profit by product bar
     fig = plt.figure(figsize=(10, 5))
-    sns.barplot(x='Product', y='Profit', hue='Product', data=df, estimator="sum",
+    sns.barplot(x='Product', y='Profit', hue='Product', data=data, estimator="sum",
                     errorbar=None)
     plt.title("Profit by Product", loc = "left", fontdict={"fontsize" : 16}, pad = 10)
     plt.xticks(rotation = 20, size = 8)
@@ -64,7 +64,7 @@ def fig_bar_profit(data) :
 def fig_line_sales(data) :
     # sales over months line
     fig = plt.figure(figsize=(10, 5))
-    sns.lineplot(x='Date', y='Sales', data=df, estimator="sum", color="teal",
+    sns.lineplot(x='Date', y='Sales', data=data, estimator="sum", color="teal",
                     errorbar=None)
     plt.title("Sales over Months", loc = "left", fontdict={"fontsize" : 16}, pad = 10)
     plt.xticks(rotation = 20, size = 8)
@@ -84,7 +84,7 @@ def fig_line_sales(data) :
 def fig_line_profit(data) :
     # profit over months line
     fig = plt.figure(figsize=(10, 5))
-    sns.lineplot(x='Date', y='Profit', data=df, estimator="sum", color="teal",
+    sns.lineplot(x='Date', y='Profit', data=data, estimator="sum", color="teal",
                     errorbar=None)
     plt.title("Profit over Months", loc = "left", fontdict={"fontsize" : 16}, pad = 10)
     plt.xticks(rotation = 20, size = 8)

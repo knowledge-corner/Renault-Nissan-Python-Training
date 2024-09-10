@@ -44,7 +44,11 @@
         Total Profits ${{profit}}
       </div>
     </div>
-
+    {% for fig in chart %}
+    <div class="container mt-5">
+      <img src="data:image/png;base64,{{ fig }}" alt="Chart">
+  </div>
+  {% endfor %}
     <!-- Bootstrap JS and Popper.js (for the dropdown functionality) -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>

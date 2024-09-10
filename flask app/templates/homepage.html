@@ -22,13 +22,26 @@
       <!-- Dropdown Menu -->
       <div class="dropdown">
         <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-          Dropdown button
+          {{selected_city}}
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <li><a class="dropdown-item" href="/">All Cities</a></li>
           {% for city in cities %}
-          <li><a class="dropdown-item" href="#">{{city}}</a></li>
+          <li><a class="dropdown-item" href="/filter/{{city}}">{{city}}</a></li>
           {% endfor %}
         </ul>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-body">
+        Total Sales ${{sales}}
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-body">
+        Total Profits ${{profit}}
       </div>
     </div>
 
